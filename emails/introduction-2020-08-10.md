@@ -55,13 +55,11 @@ There are two course textbooks:
 
 - Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math
 Featuring Python by Allan M. Stavely
-
-https://is.gd/l5zfpQ
+  -- Available at: https://is.gd/l5zfpQ
 
 - Doing Math with Python: Use Programming to Explore Algebra, Statistics,
   Calculus, and More! by Amit Saha
-
-https://is.gd/IQx79D
+  -- Available at: https://is.gd/IQx79D
 
 # Learning Activities
 
@@ -110,45 +108,45 @@ final version of each laboratory and practical assignment and examination.
 Taking inspiration from the principles of specification-based grading, the grade
 that a student receives on laboratory assignments will have the following components:
 
-    - Percentage of Correct GatorGrader Checks: Students are encouraged to
-      repeatedly try to implement a Python program that passes all of
-      GatorGrader's checks by, for instance, creating a program that produces
-      the correct output. Students should also repeatedly revise their technical
-      writing to ensure that it also passes all of GatorGrader's checks about,
-      for instance, the length of its content and its appropriate use of
-      Markdown.
+  - Percentage of Correct GatorGrader Checks: Students are encouraged to
+    repeatedly try to implement a Python program that passes all of
+    GatorGrader's checks by, for instance, creating a program that produces
+    the correct output. Students should also repeatedly revise their technical
+    writing to ensure that it also passes all of GatorGrader's checks about,
+    for instance, the length of its content and its appropriate use of
+    Markdown.
 
-    - GitHub CI Build Status: Since additional checks on the source code and/or
-      technical writing may be encoded in GitHub CI's actions and, moreover, all
-      of the GatorGrader checks are also run in GitHub CI, students will receive
-      a checkmark grade if their last before-the-deadline build passes and a
-      green checkmark in their GitHub commit log instead of a red x. As with the
-      previous grading component, students are encouraged to repeatedly revise
-      their source code and technical writing in an attempt to get their GitHub
-      CI build to pass.
+  - GitHub CI Build Status: Since additional checks on the source code and/or
+    technical writing may be encoded in GitHub CI's actions and, moreover, all
+    of the GatorGrader checks are also run in GitHub CI, students will receive
+    a checkmark grade if their last before-the-deadline build passes and a
+    green checkmark in their GitHub commit log instead of a red x. As with the
+    previous grading component, students are encouraged to repeatedly revise
+    their source code and technical writing in an attempt to get their GitHub
+    CI build to pass.
 
-    - Mastery of Technical Writing: Students will also receive a checkmark grade
-      when the responses to the technical writing questions presented in the
-      writing/reflection.md reveal a mastery of both writing skills and
-      technical knowledge. To receive a checkmark grade, the submitted writing
-      should have correct spelling, grammar, and punctuation in addition to
-      following the rules of Markdown and providing technically accurate
-      answers. Students are encouraged to ask the course instructor or a student
-      technical leader to use the GitHub issue tracker to provide feedback on
-      their mastery of technical writing skills.
+  - Mastery of Technical Writing: Students will also receive a checkmark grade
+    when the responses to the technical writing questions presented in the
+    writing/reflection.md reveal a mastery of both writing skills and
+    technical knowledge. To receive a checkmark grade, the submitted writing
+    should have correct spelling, grammar, and punctuation in addition to
+    following the rules of Markdown and providing technically accurate
+    answers. Students are encouraged to ask the course instructor or a student
+    technical leader to use the GitHub issue tracker to provide feedback on
+    their mastery of technical writing skills.
 
-    - Mastery of Technical Knowledge and Skills: Students will also receive a
-      checkmark grade when their GitHub repository reveals that they have
-      mastered all the technical knowledge and skills developed during the
-      completion of this project. As a part of this grade, the instructor will
-      assess aspects of the project including, but not limited to, the inclusion
-      of effective source code comments, creation of Git commit messages,
-      correct use of Docker, implementation of an efficient Python program, and
-      correct installation and use of a full-fledge Python development
-      environment. Students are encouraged to ask the course instructor or a
-      student technical leader to use the GitHub issue tracker to provide
-      feedback on how well their work demonstrates mastery of the assignment's
-      technical knowledge and skills.
+  - Mastery of Technical Knowledge and Skills: Students will also receive a
+    checkmark grade when their GitHub repository reveals that they have
+    mastered all the technical knowledge and skills developed during the
+    completion of this project. As a part of this grade, the instructor will
+    assess aspects of the project including, but not limited to, the inclusion
+    of effective source code comments, creation of Git commit messages,
+    correct use of Docker, implementation of an efficient Python program, and
+    correct installation and use of a full-fledge Python development
+    environment. Students are encouraged to ask the course instructor or a
+    student technical leader to use the GitHub issue tracker to provide
+    feedback on how well their work demonstrates mastery of the assignment's
+    technical knowledge and skills.
 
 All grades for course projects will be reported through a student's GitHub
 repository using either messages in the GitHub commit log or issues raised in
