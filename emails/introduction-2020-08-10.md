@@ -27,6 +27,16 @@ If you are not sure how to visit the planning site on GitHub or to signup to our
 Slack workspace, you can reply to this email with your questions. If you get
 stuck on a certain step, don't worry, I will be glad to help!
 
+## Read This Email Carefully
+
+This email is long and includes many details about the CMPSC 102 course. Please
+take your time to read, and re-read, this email so that you are comfortable
+about how the instructor designed the course, what type of work you will
+complete, and the ways in which the instructor will assess you work. To ensure
+that we use our in-person course time effectively, the course instructor will
+assume that you have carefully read this and other emails before the start of
+the Fall 2020 semester.
+
 ## Remote Learning
 
 Before I start to explain the details of this course and the way in which I will
@@ -39,7 +49,21 @@ competitive for securing a position at a technology company. If you have any
 questions about remote learning, I hope that you will ask them in a public
 channel in Slack --- I am glad to address any concerns that you have!
 
-## Learning Activities
+## Course Textbooks
+
+There are two course textbooks:
+
+- Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math
+Featuring Python by Allan M. Stavely
+
+https://is.gd/l5zfpQ
+
+- Doing Math with Python: Use Programming to Explore Algebra, Statistics,
+  Calculus, and More! by Amit Saha
+
+https://is.gd/IQx79D
+
+# Learning Activities
 
 This class uses the Python programming language to equip you with the
 mathematical thinking skills that you will need as a software engineer. Through
@@ -56,18 +80,25 @@ learning activities that will help you to be proficient at:
 
 Some specific activities that you will complete include the following:
 
-- Reading one of the course text books to prepare for in-class activities
+- Reading one of the course text books to prepare for in-class activities.
 
-- Review course slides in advance of hands-on in-class activities
+- Review course slides in advance of hands-on in-class activities.
 
 - Watch course videos on YouTube that the instructor creates to guide
-  you through an activity where you apply, analyze, and evaluate new ideas
+  you through an activity where you apply, analyze, and evaluate new ideas.
 
 - Participate in online live coding sessions where you collaborate in real-time
-  with the course instructor to implement a solution to a programming challenge
+  with the course instructor to implement a solution to a programming challenge.
+
+- Ask and answer questions on Slack and during in-class problem solving
+  and review sessions.
 
 - Complete short and focused practical assignments that help you to master
-  specific programming skills in the field of discrete structures
+  specific programming skills in the field of discrete structures.
+
+- Complete extended laboratory assignments that help you to engineer and
+  evaluate full-featured solutions to real-world programming challenges using
+  newly developed knowledge about discrete mathematical structures.
 
 ## Project Assessment
 
@@ -77,10 +108,10 @@ the Fall 2020 semester and use it to receive starter materials and submit the
 final version of each laboratory and practical assignment and examination.
 
 Taking inspiration from the principles of specification-based grading, the grade
-that a student receives on this assignment will have the following components:
+that a student receives on laboratory assignments will have the following components:
 
     - Percentage of Correct GatorGrader Checks: Students are encouraged to
-      repeatedly try to implement a Java program that passes all of
+      repeatedly try to implement a Python program that passes all of
       GatorGrader's checks by, for instance, creating a program that produces
       the correct output. Students should also repeatedly revise their technical
       writing to ensure that it also passes all of GatorGrader's checks about,
@@ -88,13 +119,13 @@ that a student receives on this assignment will have the following components:
       Markdown.
 
     - GitHub CI Build Status: Since additional checks on the source code and/or
-      technical writing may be encoded in Travis CI's actions and, moreover, all
-      of the GatorGrader checks are also run in Travis CI, students will receive
+      technical writing may be encoded in GitHub CI's actions and, moreover, all
+      of the GatorGrader checks are also run in GitHub CI, students will receive
       a checkmark grade if their last before-the-deadline build passes and a
-      green heavy_check_mark appears in their GitHub commit log instead of a red
-      ✗. As with the previous grading component, students are encouraged to
-      repeatedly revise their source code and technical writing in an attempt to
-      get their Travis CI build to pass.
+      green checkmark in their GitHub commit log instead of a red x. As with the
+      previous grading component, students are encouraged to repeatedly revise
+      their source code and technical writing in an attempt to get their GitHub
+      CI build to pass.
 
     - Mastery of Technical Writing: Students will also receive a checkmark grade
       when the responses to the technical writing questions presented in the
@@ -106,20 +137,24 @@ that a student receives on this assignment will have the following components:
       technical leader to use the GitHub issue tracker to provide feedback on
       their mastery of technical writing skills.
 
-    - Mastery of Technical Knowledge and Skills: Students will receive also
-      receive a checkmark grade when their GitHub repository reveals that they
-      have mastered all the technical knowledge and skills developed during the
+    - Mastery of Technical Knowledge and Skills: Students will also receive a
+      checkmark grade when their GitHub repository reveals that they have
+      mastered all the technical knowledge and skills developed during the
       completion of this project. As a part of this grade, the instructor will
       assess aspects of the project including, but not limited to, the inclusion
       of effective source code comments, creation of Git commit messages,
-      correct use of Docker, and correct installation and use of a full-fledge
-      Python development environment. Students are encouraged to ask the course
-      instructor or a student technical leader to use the GitHub issue tracker
-      to provide feedback on how well their work demonstrates mastery of the
-      assignment's technical knowledge and skills.
+      correct use of Docker, implementation of an efficient Python program, and
+      correct installation and use of a full-fledge Python development
+      environment. Students are encouraged to ask the course instructor or a
+      student technical leader to use the GitHub issue tracker to provide
+      feedback on how well their work demonstrates mastery of the assignment's
+      technical knowledge and skills.
 
 All grades for course projects will be reported through a student's GitHub
 repository using either messages in the GitHub commit log or issues raised in
 the issue tracker. Students should ask questions about their grade for this
 project in GitHub so as to facilitate an effective conversation about the
-submitted deliverables.
+submitted deliverables. Finally, I want to underscore the fact that, up to the
+deadline for an assignment, all students will have the opportunity to repeatedly
+revise their technical and mathematical work until it successfully demonstrates
+a mastery of the learning objectives for that project.
