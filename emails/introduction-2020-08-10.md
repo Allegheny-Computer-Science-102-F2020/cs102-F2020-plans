@@ -54,10 +54,21 @@ channel in Slack --- I am glad to address any concerns that you have!
 There are two course textbooks:
 
 - Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math
-Featuring Python by Allan M. Stavely, Available at: https://is.gd/l5zfpQ
+  Featuring Python by Allan M. Stavely, Available at: https://is.gd/l5zfpQ
 
 - Doing Math with Python: Use Programming to Explore Algebra, Statistics,
   Calculus, and More! by Amit Saha, Available at: https://is.gd/IQx79D
+
+## Course Teams
+
+To ensure that students can participate in an in-person class in a safe and
+socially distanced fashion, the instructor will divide the course into two teams
+that will meet on a schedule announced at the start of the Fall 2020 semester.
+Within those two large teams, students will be assigned to smaller groups of
+individuals in which they can collaborate during the completion of designated
+class activities, like the completion of an assignment or the creation of a
+response to the weekly technical question. The instructor will provide more
+details about your course team assignments after the Fall 2020 semester starts.
 
 ## Learning Activities
 
@@ -76,7 +87,7 @@ learning activities that will help you to be proficient at:
 
 Some specific activities that you will complete include the following:
 
-- Reading one of the course text books to prepare for in-class activities.
+- Read one of the course text books to prepare for in-class activities.
 
 - Review course slides in advance of hands-on in-class activities.
 
@@ -93,11 +104,11 @@ Some specific activities that you will complete include the following:
   (iii) the course instructor as you refine your technical knowledge and skills
   in the context of a programming task or laboratory or practical assignment.
 
-- Ask and answer technical questions about discrete structures on Slack and
-  during in-class problem solving and discussion sessions.
+- Ask and answer technical questions about discrete structures in the course's
+  Slack workspace and during in-class problem solving and discussion sessions.
 
 - Complete short and focused practical assignments that help you to master
-  specific programming skills in the field of discrete structures.
+  specific Python programming skills in the field of discrete structures.
 
 - Complete extended laboratory assignments that help you to engineer and
   evaluate full-featured solutions to real-world programming challenges using
@@ -111,7 +122,8 @@ the Fall 2020 semester and use it to receive starter materials and submit the
 final version of each laboratory and practical assignment and examination.
 
 Taking inspiration from the principles of specification-based grading, the grade
-that a student receives on laboratory assignments will have the following components:
+that a student receives on the laboratory assignments will have the following
+components:
 
   - Percentage of Correct GatorGrader Checks: Students are encouraged to
     repeatedly try to implement a Python program that passes all of
@@ -204,3 +216,52 @@ Both the interim examinations and the final examination will be conducted in an
 online fashion in an un-proctored fashion. Students will have a set period of
 time to complete the examinations and will be expected to complete them in
 accordance with standards that uphold the Allegheny College Honor Code.
+
+## Weekly Technical Questions
+
+Each week of the course will have a guiding technical question designed to focus
+all of the in-class activities and to ensure that students are developing a
+thorough understanding of the key topics in the field of discrete structures.
+Students should use their textbooks and the course slides, videos, and live
+coding sessions to developer and submit a comprehensive response for each week's
+technical question.At the end of the week, students will use GitHub and a text
+editor to submit an answer to the question, for which they will receive an
+checkmark-based assessment and feedback from the instructor.
+
+## Technologies for Learning About Discrete Structures
+
+- IMPORTANT: All students must have a department approved laptop to take the
+  CMPSC 102 course. You can learn whether or not your laptop meets the
+  guidelines for being a department approved laptop by visiting this web site:
+
+  https://www.cs.allegheny.edu/resources/laptops/
+
+  IMPORTANT: If your laptop has Windows 10 Home then it DOES NOT meet the
+  requirements for a department approved laptop. Students who plan to use
+  Windows for the completion of work in CMPSC 102 must have Windows 10 64-bit
+  Pro, Enterprise, or Education.
+
+- You will use Docker Desktop to run programs that the course instructor
+  provides to you through a Docker container. To learn more about Docker, you
+  can visit the following web site:
+
+  https://www.docker.com/products/docker-desktop
+
+  To learn if your laptop can run Docker Desktop, please visit this web site:
+
+  https://www.cs.allegheny.edu/canirundocker/
+
+  IMPORTANT: All students are required to run Docker Desktop on their laptop so
+  as to ensure that they can run the instructor-provided Docker containers.
+
+- You will use Version 3.8 of the Python programming language that a student
+  installed on their department approved laptop by using either the Pyenv or
+  Pyenv-win tools that are available for download from GitHub. You can learn
+  more about Python by visiting this web site:
+
+  https://www.python.org/
+
+  You can learn more about Pyenv and Pyenv-win by visiting these web sites:
+
+  https://github.com/pyenv/pyenv
+  https://github.com/pyenv-win/pyenv-win
