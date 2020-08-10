@@ -54,12 +54,10 @@ channel in Slack --- I am glad to address any concerns that you have!
 There are two course textbooks:
 
 - Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math
-Featuring Python by Allan M. Stavely
-  -- Available at: https://is.gd/l5zfpQ
+Featuring Python by Allan M. Stavely, Available at: https://is.gd/l5zfpQ
 
 - Doing Math with Python: Use Programming to Explore Algebra, Statistics,
-  Calculus, and More! by Amit Saha
-  -- Available at: https://is.gd/IQx79D
+  Calculus, and More! by Amit Saha, Available at: https://is.gd/IQx79D
 
 # Learning Activities
 
