@@ -265,3 +265,35 @@ checkmark-based assessment and feedback from the instructor.
 
   https://github.com/pyenv/pyenv
   https://github.com/pyenv-win/pyenv-win
+
+- You will use the Poetry tool for managing the Python package and dependencies
+  that you need to install for each laboratory or practical assignment. You can
+  learn more about Poetry and its features by visiting this web site:
+
+  https://python-poetry.org/
+
+- You will use the VS Code text editor when you need to implement and run a
+  Python program and write technical documentation in Markdown. Students who
+  want to pair program with the course instructor, one of the student technical
+  leaders, or another student in the class should also use VS Code's Live Share
+  feature. Although students may elect to use a different text editor than VS
+  Code, the course instructor and the student technical leaders will only be
+  available for remote pair programming and debugging through VS Code. You can
+  learn more about VS Code by visiting this web site:
+
+  https://code.visualstudio.com/
+
+- You will use a terminal window to allow you to execute commands such as the
+  creation of a virtual environment or the execution of a Python program.
+  Students may consider using a customized terminal for their operating system
+  or the integrated terminal in VS Code. Students should work with the course
+  instructor and the student technical leaders to ensure that their chosen
+  terminal window will support all of the course activities.
+
+- As mentioned throughout this email, we will use Slack to support course
+  communication and GitHub to support the delivery of course materials to a
+  student and the submission of completed projects to the instructor. Some of
+  the features of GitHub that we will use throughout the semester include, but
+  are not limited to, the issue tracker and GitHub Actions. Students must also
+  ensure that they have the git command-line client available for use in their
+  terminal window and through VS Code.
