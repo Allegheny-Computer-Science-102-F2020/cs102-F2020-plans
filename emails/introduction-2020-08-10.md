@@ -59,7 +59,7 @@ Featuring Python by Allan M. Stavely, Available at: https://is.gd/l5zfpQ
 - Doing Math with Python: Use Programming to Explore Algebra, Statistics,
   Calculus, and More! by Amit Saha, Available at: https://is.gd/IQx79D
 
-# Learning Activities
+## Learning Activities
 
 This class uses the Python programming language to equip you with the
 mathematical thinking skills that you will need as a software engineer. Through
@@ -81,13 +81,20 @@ Some specific activities that you will complete include the following:
 - Review course slides in advance of hands-on in-class activities.
 
 - Watch course videos on YouTube that the instructor creates to guide
-  you through an activity where you apply, analyze, and evaluate new ideas.
+  you through an activity where you apply, analyze, and evaluate new approaches
+  to solving problems with discrete structures.
 
-- Participate in online live coding sessions where you collaborate in real-time
-  with the course instructor to implement a solution to a programming challenge.
+- Participate in online live coding sessions where you use video, audio, and
+  text to collaborate in real-time with the course instructor to implement a
+  solution to a Python programming challenge.
 
-- Ask and answer questions on Slack and during in-class problem solving
-  and review sessions.
+- Participate in remote and socially distanced pair programming sessions with
+  (i) other students in the course, (ii) the student technical leaders, and
+  (iii) the course instructor as you refine your technical knowledge and skills
+  in the context of a programming task or laboratory or practical assignment.
+
+- Ask and answer technical questions about discrete structures on Slack and
+  during in-class problem solving and discussion sessions.
 
 - Complete short and focused practical assignments that help you to master
   specific programming skills in the field of discrete structures.
@@ -108,11 +115,12 @@ that a student receives on laboratory assignments will have the following compon
 
   - Percentage of Correct GatorGrader Checks: Students are encouraged to
     repeatedly try to implement a Python program that passes all of
-    GatorGrader's checks by, for instance, creating a program that produces
-    the correct output. Students should also repeatedly revise their technical
-    writing to ensure that it also passes all of GatorGrader's checks about,
-    for instance, the length of its content and its appropriate use of
-    Markdown.
+    GatorGrader's checks by, for instance, creating a program that produces the
+    correct output. Students should also repeatedly revise their technical
+    writing to ensure that it also passes all of GatorGrader's checks about, for
+    instance, the length of its content and its appropriate use of Markdown. The
+    status of each check run by GatorGrader will be available to a student on
+    their own laptop and in a GitHub dashboard available in a web browser.
 
   - GitHub CI Build Status: Since additional checks on the source code and/or
     technical writing may be encoded in GitHub CI's actions and, moreover, all
@@ -121,7 +129,8 @@ that a student receives on laboratory assignments will have the following compon
     green checkmark in their GitHub commit log instead of a red x. As with the
     previous grading component, students are encouraged to repeatedly revise
     their source code and technical writing in an attempt to get their GitHub
-    CI build to pass.
+    CI build to pass, thereby enabling them to earn the checkmark for this
+    component of their grade.
 
   - Mastery of Technical Writing: Students will also receive a checkmark grade
     when the responses to the technical writing questions presented in the
@@ -146,11 +155,52 @@ that a student receives on laboratory assignments will have the following compon
     feedback on how well their work demonstrates mastery of the assignment's
     technical knowledge and skills.
 
+The sole grade for a practical assignment will be the GitHub CI Build Status,
+meaning that you will receive either a checkmark or an x for the completion of
+the assignment, as described in the above paragraph.
+
 All grades for course projects will be reported through a student's GitHub
 repository using either messages in the GitHub commit log or issues raised in
-the issue tracker. Students should ask questions about their grade for this
+the issue tracker. Students should ask questions about their grade for any
 project in GitHub so as to facilitate an effective conversation about the
-submitted deliverables. Finally, I want to underscore the fact that, up to the
-deadline for an assignment, all students will have the opportunity to repeatedly
-revise their technical and mathematical work until it successfully demonstrates
-a mastery of the learning objectives for that project.
+submitted deliverables and to ensure that a student can ultimately master all of
+the technical knowledge and skills developed as part of that assignment.
+
+## Project Feedback
+
+Students who wish to receive feedback on their work for either a practical or a
+laboratory assignment should first open an issue in the issue tracker of a
+project's GitHub repository, giving an appropriate title and description for the
+type of feedback that you would like the course instructor to provide. After
+creating this issue, a student will see that GitHub has created a unique web
+site that references this issue. To alert the course instructor to the fact that
+the issue was created and that you want feedback on your work, please send it to
+him by a Slack direct message at least 24 hours in advance of the project's due
+date. After the instructor responds to the issue, please resolve all of the
+stated concerns and participate in the discussion until the issue is closed.
+
+## Learning Assessments
+
+Students will have numerous opportunities to demonstrate that they have mastered
+the technical knowledge and skills in the field of discrete structures. In
+addition to giving students feedback on all of their in-class, laboratory, and
+practical assignments, the course instructor will invite students to complete
+the following course assessments, thereby better helping them to assess their
+mastery of course content.
+
+- Short, weekly mastery quizzes that are administered through a web browser and
+  for which a student will automatically receive a grade upon quiz completion.
+
+- Two interim examinations that the course instructor will respectively
+  administer after about the fifth week and tenth weeks of the semester.
+  Students will use GitHub and a text editor to complete both of these
+  examinations under the Allegheny College Honor Code.
+
+- A final examination that the course instructor will administer on the day set
+  for the final examination. Students will use GitHub and a text editor to
+  complete the final examination under the Allegheny College Honor Code.
+
+Both the interim examinations and the final examination will be conducted in an
+online fashion in an un-proctored fashion. Students will have a set period of
+time to complete the examinations and will be expected to complete them in
+accordance with standards that uphold the Allegheny College Honor Code.
