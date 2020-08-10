@@ -11,4 +11,16 @@ encourage you to visit the following GitHub repository for more details:
 
 https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-plans
 
-You can also start to 
+Even if you do not yet have a GitHub account, you will be able to follow along
+in your web browser to see the planning that I am doing for the CMPSC 102
+course.
+
+Since I also want you to be able to easily communicate with me and the other
+students who will be in the course, I have also setup a Slack workspace. You can
+sign-up to join the Slack workspace for free at this web site:
+
+https://join.slack.com/t/cmpsc102fall2020/signup
+
+If you are not sure how to visit the planning site on GitHub or to signup to our
+Slack workspace, you can reply to this email with your questions. If you get
+stuck on a certain step, don't worry, I will be glad to help!
