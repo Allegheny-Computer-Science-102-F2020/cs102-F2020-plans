@@ -1,5 +1,17 @@
 Hello CMPSC 102 Students,
 
+## Read This Email Carefully
+
+This email is very long and includes many details about the CMPSC 102 course.
+Instead of bombarding you with many short emails, I decided that it was best to
+write you one long email that you can save and review frequently. Please take
+your time to read and regularly review this email so that you are comfortable
+with how the instructor designed the course, what type of work you will
+complete, and the ways in which the instructor will assess your work. To ensure
+that we effectively use our in-person course time, the course instructor will
+assume that you have carefully read this, and any other necessary follow-on
+emails before the start of the Fall 2020 semester.
+
 ## Introduction
 
 At the outset, you should know that I am writing this email to all of the
@@ -26,16 +38,6 @@ https://join.slack.com/t/cmpsc102fall2020/signup
 If you are not sure how to visit the planning site on GitHub or to signup to our
 Slack workspace, you can reply to this email with your questions. If you get
 stuck on a certain step, don't worry, I will be glad to help!
-
-## Read This Email Carefully
-
-This email is long and includes many details about the CMPSC 102 course. Please
-take your time to read, and re-read, this email so that you are comfortable
-about how the instructor designed the course, what type of work you will
-complete, and the ways in which the instructor will assess you work. To ensure
-that we use our in-person course time effectively, the course instructor will
-assume that you have carefully read this and other emails before the start of
-the Fall 2020 semester.
 
 ## Remote Learning
 
