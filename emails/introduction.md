@@ -10,7 +10,7 @@ with how the instructor designed the course, what type of work you will
 complete, and the ways in which the instructor will assess your work. To ensure
 that we effectively use our in-person course time, the course instructor will
 assume that you have carefully read this, and any other necessary follow-on
-emails before the start of the Fall 2020 semester.
+emails, before the start of the Fall 2020 semester.
 
 ## Introduction
 
@@ -66,8 +66,8 @@ There are two course textbooks:
 To ensure that students can participate in an in-person class in a safe and
 socially distanced fashion, the instructor will divide the course into two teams
 that will meet on a schedule announced at the start of the Fall 2020 semester.
-Within those two large teams, students will be assigned to smaller groups of
-individuals in which they can collaborate during the completion of designated
+Within these two teams, students will be assigned to smaller sub-teams of
+individuals with which they can collaborate during the completion of designated
 class activities, like the completion of an assignment or the creation of a
 response to the weekly technical question. The instructor will provide more
 details about your course team assignments after the Fall 2020 semester starts.
@@ -104,7 +104,7 @@ Some specific activities that you will complete include the following:
 - Participate in remote and socially distanced pair programming sessions with
   (i) other students in the course, (ii) the student technical leaders, and
   (iii) the course instructor as you refine your technical knowledge and skills
-  in the context of a programming task or laboratory or practical assignment.
+  in the context of a programming task or a laboratory or practical assignment.
 
 - Ask and answer technical questions about discrete structures in the course's
   Slack workspace and during in-class problem solving and discussion sessions.
@@ -166,17 +166,17 @@ components:
     their mastery of technical writing skills.
 
   - Mastery of Technical Knowledge and Skills: Students will also receive a
-    checkmark grade when their GitHub repository reveals that they have
-    mastered all the technical knowledge and skills developed during the
-    completion of this project. As a part of this grade, the instructor will
-    assess aspects of the project including, but not limited to, the inclusion
-    of effective source code comments, creation of Git commit messages,
-    correct use of Docker, implementation of an efficient Python program, and
-    correct installation and use of a full-fledge Python development
-    environment. Students are encouraged to ask the course instructor or a
-    student technical leader to use the GitHub issue tracker to provide
-    feedback on how well their work demonstrates mastery of the assignment's
-    technical knowledge and skills.
+    checkmark grade when their GitHub repository reveals that they have mastered
+    all the technical knowledge and skills developed during the completion of
+    this project. As a part of this grade, the instructor will assess aspects of
+    the project including, but not limited to, the inclusion of effective source
+    code comments, creation of effective Git commit messages, correct use of
+    Docker, implementation of an efficient Python program, and correct
+    installation and use of a full-fledge Python development environment.
+    Students are encouraged to ask the course instructor or a student technical
+    leader to use the GitHub issue tracker to provide feedback on how well their
+    work demonstrates mastery of the assignment's technical knowledge and
+    skills.
 
 The sole grade for a practical assignment will be the GitHub CI Build Status,
 meaning that you will receive either a checkmark or an x for the completion of
@@ -187,20 +187,22 @@ repository using either messages in the GitHub commit log or issues raised in
 the issue tracker. Students should ask questions about their grade for any
 project in GitHub so as to facilitate an effective conversation about the
 submitted deliverables and to ensure that a student can ultimately master all of
-the technical knowledge and skills developed as part of that assignment.
+the technical knowledge and skills developed as part of that assignment's
+exploration of a specific topic in the field of discrete structures.
 
 ## Project Feedback
 
 Students who wish to receive feedback on their work for either a practical or a
 laboratory assignment should first open an issue in the issue tracker of a
 project's GitHub repository, giving an appropriate title and description for the
-type of feedback that you would like the course instructor to provide. After
-creating this issue, a student will see that GitHub has created a unique web
-site that references this issue. To alert the course instructor to the fact that
-the issue was created and that you want feedback on your work, please send it to
-him by a Slack direct message at least 24 hours in advance of the project's due
-date. After the instructor responds to the issue, please resolve all of the
-stated concerns and participate in the discussion until the issue is closed.
+type of feedback that you would like the course instructor and the student
+technical leaders to provide. After creating this issue, a student will see that
+GitHub has created a unique web site that references this issue. To alert the
+course instructor and the student technical leaders to the fact that the issue
+was created and that you want feedback on your work, please send it to them by a
+Slack direct message at least 24 hours in advance of the project's due date.
+After the instructor responds to the issue, please resolve all of the stated
+concerns and participate in the discussion until the issue is closed.
 
 ## Learning Assessments
 
