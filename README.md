@@ -7,4 +7,4 @@ and manipulate discrete objects in a programming environment.
 
 ## Correspondence
 
-- [Email on 12-08-10: Introduction](emails/introduction-2020-08-10.md)
+- [Email on 12-08-11: Introduction](emails/introduction.md)
