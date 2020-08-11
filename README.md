@@ -11,5 +11,5 @@ and manipulate discrete objects in a programming environment.
 
 ## Learning Objectives
 
-- [Mathematical Thinking](learning-objectives/mathematical-thinking.md)
+- [Mathematically Informed Communication](learning-objectives/mathematical-thinking.md)
 - [Python Programming](learning-objectives/python-programming.md)
