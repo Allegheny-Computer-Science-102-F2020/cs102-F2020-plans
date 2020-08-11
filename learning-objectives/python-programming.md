@@ -13,6 +13,9 @@
     specification for the function.
   - Performs the specified operation in an efficient fashion, as determined
     through experiments that evaluate the function's performance.
+  - Correctly uses assignment statements, iteration constructs, conditional
+    logic, and recursion in a way that passes the test suite, works
+    efficiently, and conveys the intended purpose of the function.
   - Correctly uses discrete structures such as numbers, tuples, sets, streams,
     and sequences in a way that passes the test suite, works efficiently, and
     conveys the intended purpose of the function.
