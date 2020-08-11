@@ -20,9 +20,12 @@
 - A learner will use the GitHub version control system in the following fashion:
   - Clone a GitHub repository without error using either a terminal window or a
     Git integration in a text editor like VS Code.
-  - Write short and descriptive commit messages that describe the specific way
-    in which a commit changes the source code and documentation in the
+  - Write short and descriptive commit messages that explain the specific way in
+    which the commit changes the source code and documentation in the
     repository.
   - Create and discuss programming and technical writing issues through the use
     of the GitHub issue tracker, creating descriptive issue titles and
     descriptions that adhere to industry best practices.
+  - Submit completed projects that pass all of the instructor-provided and
+    industry-standard checks, as evidenced through the report of a passing build
+    by GitHub Actions.
