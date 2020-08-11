@@ -17,6 +17,19 @@
     and sequences in a way that passes the test suite, works efficiently, and
     conveys the intended purpose of the function.
 
+- A learner will use a Python programming environment to complete these tasks
+  while implementing a Python program consisting of between one and five hundred
+    lines of code:
+  - Install, upgrade, and use the Python 3.8 interpreter to run a Python
+    program.
+  - Create a virtual environment with Poetry to run a Python program without
+    error in an isolated and self-contained setting.
+  - Use Docker to run without error a program a Python program in an isolated
+    container containing the test suite and autograding tools.
+  - Use testing to detect a failure in a Python program and then effectively use
+    tools like a text editor and a terminal window to find and fix the failure
+    and confirm that the fix did not compromise other functions in the program.
+
 - A learner will use the GitHub version control system in the following fashion:
   - Clone a GitHub repository without error using either a terminal window or a
     Git integration in a text editor like VS Code.
