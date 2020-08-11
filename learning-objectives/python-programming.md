@@ -22,6 +22,9 @@
     - Correctly uses discrete structures such as numbers, tuples, sets, streams,
       and sequences in a way that passes the test suite, works efficiently, and
       conveys the intended purpose of the function.
+  - A learner will write Python programs consisting of between one and five
+    hundred lines of source code that correctly solve problems using discrete
+    structures.
 
 - **Using Python Programming Tools**:
   - A learner will use a Python programming environment to complete these tasks
