@@ -8,3 +8,8 @@ and manipulate discrete objects in a programming environment.
 ## Correspondence
 
 - [Email on 12-08-11: Introduction](emails/introduction.md)
+
+## Learning Objectives
+
+- [Mathematical Thinking](learning-objectives/mathematical-thinking.md)
+- [Python Programming](learning-objectives/python-programming.md)
