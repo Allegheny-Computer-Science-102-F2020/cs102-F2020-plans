@@ -307,9 +307,11 @@ checkmark-based assessment and feedback from the course instructor.
   communication and GitHub to support the delivery of course materials to a
   student and the submission of completed projects to the instructor. Some of
   the features of GitHub that we will use throughout the semester include, but
-  are not limited to, the issue tracker and GitHub Actions. Students must also
-  ensure that they have the git command-line client available for use in their
-  terminal window and through VS Code.
+  are not limited to, the issue tracker, the project board, and GitHub Actions.
+  Students must also ensure that they have the git command-line client available
+  for use in their terminal window and through VS Code. Finally, students must
+  be able to access their GitHub repositories both through the use of a
+  secure-shell and through their web browser.
 
 While the course instructor does not expect students to have all of of the
 aforementioned programs installed on their laptop on the first day of class, you
@@ -321,27 +323,27 @@ will be available to help students learn how to use all of these programs.
 
 I hope that you are looking forward to exploring Python programming and
 mathematical thinking as much as I am! Throughout this semester you will be
-given the opportunity to master many critical technical skills in the field of
-discrete structures, thereby preparing you for upcoming courses and an
-internship in the technology field. We will be using state-of-the-art technology
-to design and implement Python programs that solve problems by applying your
-knowledge of discrete mathematics. One way that the course will prepare you for
-work in a STEM field is through the use of cutting-edge remote collaboration
-tools such as YouTube videos and live streams, GitHub, and Slack.
+given the opportunity to master many technical skills in the field of discrete
+structures, thereby preparing you for upcoming courses and an internship in the
+technology field. We will be using state-of-the-art technology to design and
+implement Python programs that solve problems by applying your knowledge of
+discrete mathematics. One way that the course will prepare you for work in a
+STEM field is through the use of cutting-edge remote collaboration tools such as
+YouTube videos and live streams, GitHub, and Slack.
 
-Again, I recognize that this email is long and very detailed! I decided that it
-was better to send you one detailed email than to send multiple shorted emails.
-Don't forget that you can follow along with the planning for the course by
-visiting the following GitHub repository:
+Again, I recognize that this email is long and very detailed! As I mentioned
+before, I decided that it was better to send you one detailed email than to send
+multiple shorted emails. Don't forget that you can follow along with the
+planning for the course by visiting the following GitHub repository:
 
 https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-plans
 
 I also encourage you to signup for our Slack workspace and to begin a discussion
-with me and your classmates by clicking the following link. Going forward,
-except in the case of an emergency where we must use email, the course will rely
-on Slack and GitHub for all course announcements and discussions.
+with me and your classmates by clicking the following link.
 
 https://join.slack.com/t/cmpsc102fall2020/signup
 
-Okay, I hope that you will keep in touch with me throughout the Fall 2020
-semester!
+Going forward, except in the case of an emergency where we must use email, the
+course will rely on Slack and GitHub for all course announcements and
+discussions. Okay, I hope that you will keep in touch with me throughout the
+Fall 2020 semester!
