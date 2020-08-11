@@ -32,6 +32,12 @@
 - **Mathematical Functions**:
   - Leveraging their understanding of higher-order functions, lambda functions,
     and generating functions, the learner will, given a problem statement
-    involving discrete structures, pick the most suitable type of function for the
-    problem, implement it in an industry-standard fashion, and then use testing to
-    demonstrate its correctness and experimentation to evaluate its performance.
+    involving discrete structures:
+    - Translate the formal notation and equations used in the problem statement
+      to an algorithm that describes, in a step-by-step fashion, how to solve
+      the problem.
+    - Pick the most suitable type of function for the problem, implement it in
+      an industry-standard fashion, and then use testing to demonstrate its
+      correctness and experimentation to evaluate its performance.
+    - Use formal statements to defend the validity of their design,
+      implementation, and testing decisions made when solving the problem.
