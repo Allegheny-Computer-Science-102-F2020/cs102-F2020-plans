@@ -2,31 +2,32 @@
 
 - **Discrete Structures**:
   - Given the opportunity to input, store, and output a new type of data, the
-    learner will pick the correct mathematical object (e.g., a number, set,
-    multi-set, or sequence) and then implement it and integrate it into a correct,
-    well-tested, and well-documented Python program of between one hundred and
-    five hundred lines.
-  - Given the opportunity to input, store, and output a new type of data, the
-    learner will pick the correct mathematical object (e.g., a number, set,
-    multi-set, or sequence) and use formal and precise mathematical language to
-    correctly describe the representation, behavior, and limitations of the new
-    data type.
+    learner will pick the correct discrete structure (e.g., a number, set,
+    multi-set, or sequence) and then:
+    - Implement it and integrate it into a correct, well-tested, and
+      well-documented Python program of between one hundred and five hundred
+      lines.
+    - Use formal and precise mathematical language to correctly describe the
+      representation, behavior, and limitations of the new data type.
   - Given the formal definition of a discrete structure, the learner will
     correctly translate it into a Python function, bearing in mind the ways in
     which the working Python function may diverge from the formal definition due
     to implementation concerns related to computational costs and storage
     overheads.
-  - Given the formal definition of a discrete structure and its implementation as
-    a Python function, the learner will correctly describe its properties and
-    explain how it is similar to and different from other discrete structures.
+  - Given the formal definition of a discrete structure and its implementation
+    as a Python function, the learner will correctly describe its properties,
+    demonstrate and verify those properties through testing, and explain how the
+    it is similar to and different from other discrete
+    structures.
 
 - **Data Analysis**:
   - Given a data set of textual and numerical values, the learner will implement
+    and use:
     - An appropriate statistical technique as a Python function to summarize and
-    analyze the data.
-    - An appropriate visualization technique as a Python function and then use the
-    function to create graphs and diagrams that highlight the salient properties
-    of the data set.
+      analyze the data.
+    - An appropriate visualization technique as a Python function that can
+      create graphs and diagrams that highlight the salient properties of the
+      data set.
 
 - **Mathematical Functions**:
   - Leveraging their understanding of higher-order functions, lambda functions,
