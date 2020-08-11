@@ -59,7 +59,7 @@ There are two course textbooks:
   Featuring Python by Allan M. Stavely, Available at: https://is.gd/l5zfpQ
 
 - Doing Math with Python: Use Programming to Explore Algebra, Statistics,
-  Calculus, and More! by Amit Saha, Available at: https://is.gd/IQx79D
+  Calculus, and More! By Amit Saha, Available at: https://is.gd/IQx79D
 
 ## Course Teams
 
@@ -223,10 +223,11 @@ mastery of course content.
   for the final examination. Students will use GitHub and a text editor to
   complete the final examination under the Allegheny College Honor Code.
 
-Both the interim examinations and the final examination will be conducted in an
-online fashion in an un-proctored fashion. Students will have a set period of
-time to complete the examinations and will be expected to complete them in
-accordance with standards that uphold the Allegheny College Honor Code.
+Using GitHub repositories, both the interim examinations and the final
+examination will be conducted in an online fashion in an un-proctored fashion.
+Students will have a set period of time to complete the examinations and will be
+expected to complete them in accordance with standards that uphold the Allegheny
+College Honor Code.
 
 ## Weekly Technical Questions
 
@@ -234,10 +235,10 @@ Each week of the course will have a guiding technical question designed to focus
 all of the in-class activities and to ensure that students are developing a
 thorough understanding of the key topics in the field of discrete structures.
 Students should use their textbooks and the course slides, videos, and live
-coding sessions to developer and submit a comprehensive response for each week's
-technical question.At the end of the week, students will use GitHub and a text
+coding sessions to develop and submit a comprehensive response for each week's
+technical question. At the end of the week, students will use GitHub and a text
 editor to submit an answer to the question, for which they will receive an
-checkmark-based assessment and feedback from the instructor.
+checkmark-based assessment and feedback from the course instructor.
 
 ## Technologies for Learning About Discrete Structures
 
@@ -265,16 +266,17 @@ checkmark-based assessment and feedback from the instructor.
   IMPORTANT: All students are required to run Docker Desktop on their laptop so
   as to ensure that they can run the instructor-provided Docker containers.
 
-- You will use Version 3.8 of the Python programming language that a student
-  installed on their department approved laptop by using either the Pyenv or
-  Pyenv-win tools that are available for download from GitHub. You can learn
-  more about Python by visiting this web site:
+- You will use version 3.8 of the Python programming language that you installed
+  on your department approved laptop by using either the Pyenv or Pyenv-win
+  tools that are available for download from GitHub. You can learn more about
+  Python by visiting this web site:
 
   https://www.python.org/
 
   You can learn more about Pyenv and Pyenv-win by visiting these web sites:
 
   https://github.com/pyenv/pyenv
+
   https://github.com/pyenv-win/pyenv-win
 
 - You will use the Poetry tool for managing the Python package and dependencies
@@ -294,7 +296,7 @@ checkmark-based assessment and feedback from the instructor.
 
   https://code.visualstudio.com/
 
-- You will use a terminal window to allow you to execute commands such as the
+- You will use a terminal window to allows you to execute commands such as the
   creation of a virtual environment or the execution of a Python program.
   Students may consider using a customized terminal for their operating system
   or the integrated terminal in VS Code. Students should work with the course
@@ -308,6 +310,12 @@ checkmark-based assessment and feedback from the instructor.
   are not limited to, the issue tracker and GitHub Actions. Students must also
   ensure that they have the git command-line client available for use in their
   terminal window and through VS Code.
+
+While the course instructor does not expect students to have all of of the
+aforementioned programs installed on their laptop on the first day of class, you
+are encouraged to explore all of these programs during the remainder of the
+summer, if possible. The course instructor and the student technical leaders
+will be available to help students learn how to use all of these programs.
 
 ## Conclusion
 
