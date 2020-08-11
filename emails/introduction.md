@@ -30,7 +30,7 @@ in your web browser to see the planning that I am doing for the CMPSC 102
 course.
 
 Since I also want you to be able to easily communicate with me and the other
-students who will be in the course, I have also setup a Slack workspace. You can
+students who will be in the course, I have setup a Slack workspace. You can
 sign-up to join the Slack workspace for free at this web site:
 
 https://join.slack.com/t/cmpsc102fall2020/signup
@@ -118,10 +118,19 @@ Some specific activities that you will complete include the following:
 
 ## Project Assessment
 
-You will complete all of your course work through an industry-standard system
+You will complete all of your course work through an industry standard system
 called GitHub. All students will create a free GitHub account at the start of
 the Fall 2020 semester and use it to receive starter materials and submit the
 final version of each laboratory and practical assignment and examination.
+
+You will receive rapid feedback on your work through a tool called GatorGrader.
+The course instructor will define GatorGrader checks for each of your laboratory
+and practical assignments and your job will be use a programming language like
+Python to implement a complete solution that passes all of the GatorGrader
+checks. You can learn more about GatorGrader and how it works by visiting the
+following web site.
+
+https://github.com/GatorEducator/gatorgrader
 
 Taking inspiration from the principles of specification-based grading, the grade
 that a student receives on the laboratory assignments will have the following
