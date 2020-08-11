@@ -45,7 +45,7 @@ Before I start to explain the details of this course and the way in which I will
 teach it, I want to be upfront about the fact that some learning activities that
 you will participate in this semester will involve remote interactions. With
 that said, I'm confident that you will receive a top-notch introduction to
-Discrete Structures through these remote learning opportunities! I also want to
+discrete structures through these remote learning opportunities! I also want to
 stress that learning how to work in a remote fashion will make you more
 competitive for securing a position at a technology company. If you have any
 questions about remote learning, I hope that you will ask them in a public
@@ -201,8 +201,9 @@ GitHub has created a unique web site that references this issue. To alert the
 course instructor and the student technical leaders to the fact that the issue
 was created and that you want feedback on your work, please send it to them by a
 Slack direct message at least 24 hours in advance of the project's due date.
-After the instructor responds to the issue, please resolve all of the stated
-concerns and participate in the discussion until the issue is closed.
+After the instructor and/or a student technical leader responds to the issue,
+please resolve all of the stated concerns and participate in the discussion
+until the issue is closed on GitHub.
 
 ## Learning Assessments
 
