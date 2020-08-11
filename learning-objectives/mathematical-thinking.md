@@ -6,7 +6,7 @@
     multi-set, or sequence) and then:
     - Implement it and integrate it into a correct, well-tested, and
       well-documented Python program of between one hundred and five hundred
-      lines.
+      lines of code.
     - Use formal and precise mathematical language to correctly describe the
       representation, behavior, and limitations of the new data type.
   - Given the formal definition of a discrete structure, the learner will
