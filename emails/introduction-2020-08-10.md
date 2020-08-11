@@ -299,3 +299,32 @@ checkmark-based assessment and feedback from the instructor.
   are not limited to, the issue tracker and GitHub Actions. Students must also
   ensure that they have the git command-line client available for use in their
   terminal window and through VS Code.
+
+## Conclusion
+
+I hope that you are looking forward to exploring Python programming and
+mathematical thinking as much as I am! Throughout this semester you will be
+given the opportunity to master many critical technical skills in the field of
+discrete structures, thereby preparing you for upcoming courses and an
+internship in the technology field. We will be using state-of-the-art technology
+to design and implement Python programs that solve problems by applying your
+knowledge of discrete mathematics. One way that the course will prepare you for
+work in a STEM field is through the use of cutting-edge remote collaboration
+tools such as YouTube videos and live streams, GitHub, and Slack.
+
+Again, I recognize that this email is long and very detailed! I decided that it
+was better to send you one detailed email than to send multiple shorted emails.
+Don't forget that you can follow along with the planning for the course by
+visiting the following GitHub repository:
+
+https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-plans
+
+I also encourage you to signup for our Slack workspace and to begin a discussion
+with me and your classmates by clicking the following link. Going forward,
+except in the case of an emergency where we must use email, the course will rely
+on Slack and GitHub for all course announcements and discussions.
+
+https://join.slack.com/t/cmpsc102fall2020/signup
+
+Okay, I hope that you will keep in touch with me throughout the Fall 2020
+semester!
