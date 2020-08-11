@@ -20,15 +20,6 @@
     it is similar to and different from other discrete
     structures.
 
-- **Data Analysis**:
-  - Given a data set of textual and numerical values, the learner will implement
-    and use:
-    - An appropriate statistical technique as a Python function to summarize and
-      analyze the data.
-    - An appropriate visualization technique as a Python function that can
-      create graphs and diagrams that highlight the salient properties of the
-      data set.
-
 - **Mathematical Functions**:
   - Leveraging their understanding of higher-order functions, lambda functions,
     and generating functions, the learner will, given a problem statement
@@ -41,3 +32,12 @@
       correctness and experimentation to evaluate its performance.
     - Use formal statements to defend the validity of their design,
       implementation, and testing decisions made when solving the problem.
+
+- **Data Analysis**:
+  - Given a data set of textual and numerical values, the learner will implement
+    and use:
+    - An appropriate statistical technique as a Python function to summarize and
+      analyze the data.
+    - An appropriate visualization technique as a Python function that can
+      create graphs and diagrams that highlight the salient properties of the
+      data set.
