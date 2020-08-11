@@ -23,6 +23,9 @@
   - Write short and descriptive commit messages that explain the specific way in
     which the commit changes the source code and documentation in the
     repository.
+  - Use GitHub pre-commit hooks to ensure that the all of the source code,
+    technical writing, and commit messages adhere to industry standards for
+    content and format.
   - Create and discuss programming and technical writing issues through the use
     of the GitHub issue tracker, creating descriptive issue titles and
     descriptions that adhere to industry best practices.
