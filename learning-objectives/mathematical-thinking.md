@@ -8,7 +8,7 @@
       well-documented Python program of consisting of between one hundred and
       five hundred lines of code.
     - Use formal and precise mathematical language to correctly describe the
-      representation, behavior, and limitations of the new data type.
+      representation, behavior, and limitations of the new type of data.
   - Given the formal definition of a discrete structure, the learner will
     correctly translate it into a Python program, bearing in mind the ways in
     which the working system may diverge from the formal definition due to, for
