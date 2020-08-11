@@ -1,4 +1,4 @@
-# Learning Objectives for Mathematical Thinking
+# Learning Objectives for Mathematically Informed Communication
 
 - **Discrete Structures**:
   - Given the opportunity to input, store, and output a new type of data, the
