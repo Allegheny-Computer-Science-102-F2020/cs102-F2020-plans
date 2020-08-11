@@ -230,7 +230,8 @@ Using GitHub repositories, both the interim examinations and the final
 examination will be conducted in an online fashion in an un-proctored fashion.
 Students will have a set period of time to complete the examinations and will be
 expected to complete them in accordance with standards that uphold the Allegheny
-College Honor Code.
+College Honor Code. The course instructor will assess the interim and final
+examinations and report a percentage grade to a student through GitHub.
 
 ## Weekly Technical Questions
 
@@ -245,13 +246,13 @@ checkmark-based assessment and feedback from the course instructor.
 
 ## Technologies for Learning About Discrete Structures
 
-- IMPORTANT: All students must have a department approved laptop to take the
+- **IMPORTANT**: All students must have a department approved laptop to take the
   CMPSC 102 course. You can learn whether or not your laptop meets the
   guidelines for being a department approved laptop by visiting this web site:
 
   https://www.cs.allegheny.edu/resources/laptops/
 
-  IMPORTANT: If your laptop has Windows 10 Home then it DOES NOT meet the
+  **IMPORTANT**: If your laptop has Windows 10 Home then it DOES NOT meet the
   requirements for a department approved laptop. Students who plan to use
   Windows for the completion of work in CMPSC 102 must have Windows 10 64-bit
   Pro, Enterprise, or Education.
@@ -266,7 +267,7 @@ checkmark-based assessment and feedback from the course instructor.
 
   https://www.cs.allegheny.edu/canirundocker/
 
-  IMPORTANT: All students are required to run Docker Desktop on their laptop so
+  **IMPORTANT**: All students are required to run Docker Desktop on their laptop so
   as to ensure that they can run the instructor-provided Docker containers.
 
 - You will use version 3.8 of the Python programming language that you installed
