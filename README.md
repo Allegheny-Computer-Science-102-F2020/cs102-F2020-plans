@@ -12,4 +12,4 @@ and manipulate discrete objects in a programming environment.
 ## Learning Objectives
 
 - [Mathematically Informed Communication](learning-objectives/mathematical-thinking.md)
-- [Python Programming](learning-objectives/python-programming.md)
+- [Rigorous Python Programming](learning-objectives/python-programming.md)
