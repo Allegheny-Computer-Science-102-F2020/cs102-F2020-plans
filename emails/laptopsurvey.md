@@ -10,16 +10,19 @@ survey about the use of a laptop for the Fall 2020 semester:
 
 https://forms.gle/wHt8F7d9o7ANh8DG6
 
-While I recognize that many of you will have already received an invitation to
-complete this form from the Chair of the Department of Computer Science, it is
-possible that some students, especially if this is their first semester at
+While I recognize that many of you will have already received an invitation from
+the Chair of the Department of Computer Science to complete this form, it is
+possible that some students, especially if they are in their first semester at
 Allegheny College or if they are on the waiting list for this course, have not
 already completed this survey.
 
 Importantly, it is mandatory for you to complete this survey before the start of
 the Fall 2020 semester. If you do not have a laptop that meets the guidelines
 set by the Department of Computer Science then I urge you to complete this
-survey at your earliest convenience.
+survey at your earliest convenience. As I mentioned in my last email to you and
+I point out again in the remainder of this note, every student who enrolls in
+CMPSC 102 for the Fall 2020 semester must have a laptop that is approved for use
+in the Department of Computer Science.
 
 Here are the three key points I want you to remember from my previous email:
 
