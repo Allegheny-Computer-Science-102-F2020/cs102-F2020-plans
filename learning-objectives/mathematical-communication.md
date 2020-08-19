@@ -34,10 +34,10 @@
       the chosen function(s).
 
 - **Data Analysis**:
-  - Given a data set of textual, numerical, categorical, and binary values, the
-    learner will implement and use:
-    - An appropriate statistical technique as a Python function to summarize and
-      analyze the data.
-    - An appropriate visualization technique as a Python function that can
+  - Given a set of textual, numerical, categorical, and/or binary data, the
+    learner will implement, use, and evaluate:
+    - An appropriate statistical technique, as a Python function, to summarize
+      and analyze the data.
+    - An appropriate visualization technique, as a Python function, that can
       create graphs and diagrams that highlight the salient properties of the
       data set.
