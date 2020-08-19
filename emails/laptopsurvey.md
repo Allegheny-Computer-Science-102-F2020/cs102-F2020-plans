@@ -1,14 +1,12 @@
 Hello CMPSC 102 Students,
 
-As you will recall, about one week ago I sent you an email that introduced the CMPSC
-102 course. Today I wanted to remind you of several important points about the
-CMPSC 102 course and then ask you to complete a survey about your use of a
+As you will recall, about one week ago I sent you an email that introduced the
+CMPSC 102 course. Today I wanted to remind you of several important points about
+the CMPSC 102 course and then ask you to complete a survey about your use of a
 laptop for the course, only if you have not already done so.
 
-This is the new point that I wanted to share with you today:
-
--- If you have not already done so, please complete the following survey about
-the use of a laptop for the Fall 2020 semester:
+Specifically, if you have not already done so, please complete the following
+survey about the use of a laptop for the Fall 2020 semester:
 
 https://forms.gle/wHt8F7d9o7ANh8DG6
 
