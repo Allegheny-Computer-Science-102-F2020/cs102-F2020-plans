@@ -34,8 +34,8 @@
       the chosen function(s).
 
 - **Data Analysis**:
-  - Given a data set of textual and numerical values, the learner will implement
-    and use:
+  - Given a data set of textual, numerical, categorical, and binary values, the
+    learner will implement and use:
     - An appropriate statistical technique as a Python function to summarize and
       analyze the data.
     - An appropriate visualization technique as a Python function that can
