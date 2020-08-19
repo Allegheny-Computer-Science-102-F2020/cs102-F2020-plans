@@ -1,14 +1,14 @@
 # Learning Objectives for Mathematically Informed Communication
 
 - **Discrete Structures**:
-  - Given the opportunity to input, store, and output a new type of data, the
+  - Given the opportunity to input, store, and output a type of data, the
     learner will pick the correct discrete structure (e.g., a number, set,
     sequence, dictionary, or tree) and then:
     - Implement it and integrate it into a correct, well-tested, and
       well-documented Python program consisting of between one hundred and
       five hundred lines of code.
     - Use formal and precise mathematical language to correctly describe the
-      representation, behavior, and limitations of the new type of data.
+      representation, behavior, and limitations of the type of data.
   - Given the formal definition of a discrete structure, the learner will
     correctly translate it into a Python program, bearing in mind the ways in
     which the working system may diverge from the formal definition due to, for
