@@ -5,7 +5,7 @@
     learner will pick the correct discrete structure (e.g., a number, set,
     sequence, dictionary, or tree) and then:
     - Implement it and integrate it into a correct, well-tested, and
-      well-documented Python program of consisting of between one hundred and
+      well-documented Python program consisting of between one hundred and
       five hundred lines of code.
     - Use formal and precise mathematical language to correctly describe the
       representation, behavior, and limitations of the new type of data.
