@@ -26,12 +26,12 @@
     - Translate the formal notation and equations used in the problem statement
       to an algorithm that describes, in a step-by-step fashion, how to solve
       the problem.
-    - Pick the most suitable type of function for the problem, implement it in
+    - Pick the most suitable type of function(s) for the problem, implement it in
       an industry-standard fashion, and then use testing to demonstrate its
       correctness and experimentation to evaluate its performance.
     - Use formal statements to defend the validity of their design,
       implementation, and testing decisions made when solving the problem with
-      the chosen function.
+      the chosen function(s).
 
 - **Data Analysis**:
   - Given a data set of textual and numerical values, the learner will implement
