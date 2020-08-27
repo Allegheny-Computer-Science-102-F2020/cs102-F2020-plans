@@ -286,3 +286,14 @@ practical sessions to ensure that your system is correctly up and running!
   terminal window will support all of the course activities, such as running a
   Python program, starting a Docker container, and running an assessment tool
   like GatorGrader.
+
+## Please Stay in Touch
+
+Since the semester will start next week on Monday, I will now start to check
+Slack on a regular basis. If you have general questions about the course you can
+ask them in the #general channel. If you have specific questions that you think
+are best discussed in a private manner, then please send them to me as a direct
+message. Unless there is an absolute need for you to do so, please refrain from
+sending me emails and instead prefer to communicate with me through Slack.
+Finally, don't forget to be on the look out for the Google Meet link that I will
+send you on Monday morning! You can use this to join our first class on Monday.
