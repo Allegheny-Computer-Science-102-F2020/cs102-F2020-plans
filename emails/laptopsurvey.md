@@ -1,5 +1,17 @@
 Hello CMPSC 102 Students,
 
+## Read This Email Carefully
+
+This email is very long and includes many details about the CMPSC 102 course.
+Instead of bombarding you with many short emails, I will continue to write you a
+smaller number of more detailed emails and then archive them in our course's
+GitHub repository. Please take your time to read and regularly review this email
+so that you are comfortable with how the instructor designed the course, what
+type of work you will complete, and the ways in which the instructor will assess
+your work. To ensure that we effectively use our in-person course time, the
+course instructor will assume that you have carefully read this, and any other
+necessary follow-on emails, before the start of the Fall 2020 semester.
+
 ## Introduction
 
 As you will recall, awhile ago I sent you an email that introduced the CMPSC 102
@@ -134,13 +146,17 @@ course slides, Python source code, and any accompanying data or other materials.
 ## Encouragement for the Fall 2020 Semester
 
 Although I recognize that I will be teaching CMPSC 102 differently than all of
-the other courses that I have taught at Allegheny, I want you to know that I
-have been carefully planning the course for the entire summer!
+the other courses that I have taught at Allegheny College, I want you to know
+that I have been carefully planning the course for the entire summer! In fact,
+I've been using the majority of the remote-learning technologies that we will
+use this semester for many years. I find remote collaboration and learning a lot
+of fun and I anticipate that you will also find it fun and effective!
 
 I must move several of the CMPSC 102 course activities to an online venue so as
-to ensure that I keep you safe and that we all comply with the state and College
-guidelines concerning, for instance, the occupancy level of our classroom space
-and the number of feet between each person who is inside of the classroom.
+to ensure that I keep you as safe as is possible and that we all comply with the
+state and College guidelines concerning, for instance, the occupancy level of
+our classroom space and the number of feet between each person who is inside of
+the classroom. While this may not be ideal, it is an absolute necessity.
 
 Although the course will be different, I'm really excited about this new format
 and I look forward to convincing you of its merits throughout the semester.
@@ -154,11 +170,11 @@ participate in the YouTube Live streams and Google Meets, use all of the
 required software, and attend all of the in-person classroom sessions. To ensure
 that you best succeed in this course you must take ownership of your education
 by completing all of the work on time and communicating effectively with me and
-the student technical leaders who are part of the course's support team.
+the student technical leaders who are a part of the course's support team.
 
 ## Reminders
 
-Here are the three key points I want you to remember from my previous email:
+Here are some key points I want you to remember from my previous email:
 
 -- 1) To date, I anticipate that I can add everyone to the course who is on the
 waiting list. If you completed the waiting list form, then you should be able to
@@ -171,11 +187,11 @@ Service during the first few classes and you should then see that CMPSC 102 Fall
 Please note that, by default, I will not automatically add the name of each
 student on the waiting list to the course roster. This is because not everyone
 on the waiting list may still want to take CMPSC 102. As such, during the first
-two class periods I will need you to write to me by email to express you
+two class periods I will need you to write to me by email to express your
 confirmed interest in taking the CMPSC 102 Fall 2020 course. Please refer to the
 previous content about the first week of classes for more details on this issue.
 
--- 1) Since I want you to stay up-to-date with the planning for our course, I
+-- 2) Since I want you to stay up-to-date with the planning for our course, I
 encourage you to visit the following GitHub repository for more details:
 
 https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-plans
@@ -184,7 +200,7 @@ If you have not already checked the GitHub repository, then please do so! I will
 also be updating the content in this repository throughout this week and then
 during the entirety of the Fall 2020 academic semester.
 
--- 2) Since I also want you to be able to easily communicate with me and the
+-- 3) Since I also want you to be able to easily communicate with me and the
 other students who will be in the course, I have setup a Slack workspace. You
 can sign-up to join the Slack workspace for free at this web site:
 
@@ -196,7 +212,7 @@ earliest convenience. Instead of using email for communication during the Fall
 In addition to informally chatting with the other people in the course, you can
 also start asking me questions through Slack at any time!
 
--- 3) All students must have a department approved laptop to take the CMPSC 102
+-- 4) All students must have a department approved laptop to take the CMPSC 102
 course. You can learn whether or not your laptop meets the guidelines for being
 a department approved laptop by visiting this web site:
 
