@@ -48,13 +48,14 @@ Since there are many students who are interested in taking this class and yet
 are still on the course waiting list due to the College's registration
 procedure, I don't yet know how many students must fit into our classroom at the
 same time. Moreover, until I add everyone to the class, I will not be able to
-fairly divide us into groups that will meet in person according to a set
-schedule, thereby ensuring that we never exceed the room limit for our
+fairly divide all students into groups that will meet in person according to a
+set schedule, thereby ensuring that we never exceed the room limit for our
 classroom and that you are safer during the Fall 2020 semester.
 
-Therefore, to ensure that you are all safe during the first week of classes, I
-will be holding all classes, which are scheduled for M/W/F 10:20 AM - 11:10 AM,
-through a Google Meet link that I will provide on Monday morning of next week.
+Therefore, to ensure that you are all as safe as possible during the first week
+of classes, I will be holding all classes, which are scheduled for M/W/F 10:20
+AM - 11:10 AM, through a Google Meet link that I will provide on Monday morning
+of next week.
 
 Before you click this link, please make sure that you take the following steps:
 
@@ -98,8 +99,8 @@ by making a point or asking a question.
 your video enabled during all of the classroom sessions. Since these Google
 Meets are private for our class, there is not, to my knowledge, a risk that
 outsiders will enter our class or be able to record your video. By keeping your
-video enabled it will enable me and the other students in the class to see who
-is talking and who is currently engaged in the course.
+video enabled it will allow me and the other students in the class to see who is
+talking and who is currently engaged in the course.
 
 During the first three classes, please keep in mind the following points:
 
@@ -108,22 +109,24 @@ to find me in my office in Alden Hall to ask me questions about your laptop or
 the Google Meet software.
 
 -- During the class sessions next week, you will see that I will switch between
-full screen video and the projection of various programs on my laptop. If I am
-not using full screen video, then you will see my face in a small circle
-normally on the right-hand side of your video.
+full screen video and the display of various programs (e.g., terminal window,
+text editor, PDF viewer, or web browser) on my laptop. If I am not using full
+screen video, then you will see my face in a small circle normally on the
+right-hand side of your video.
 
 -- Throughout the semester I will use specialized broadcasting software that
 will allow me to seamlessly change between different scenes and sources during
 our classroom and laboratory and practical sessions. If something goes wrong
-with the broadcasting software, then please use a `*` in the Google Meet chat.
-Once you receive my acknowledgment you can explain what problem you are
-experiencing so that I can resolve it quickly and move on with the class.
+with the broadcasting software and you cannot see my video in Google Meet, then
+please use a `*` in the Google Meet chat. Once you receive my acknowledgment you
+can explain what problem you are experiencing so that I can resolve it quickly
+and move on with the class.
 
 ## Remainder of the Fall 2020 Semester
 
 I will share more details about the remainder of the Fall 2020 semester during
 our first week of the semester and through our GitHub planning repository to
-which I provided you a link in a previous email and in this email.
+which I provided you a link in a previous email and later in this email.
 
 Due to both the large size of our course and the limited space in Alden Hall,
 you will normally have one in-person class with me per week. When you are not in
@@ -151,15 +154,16 @@ course slides, Python source code, and any accompanying data or other materials.
 Although I recognize that I will be teaching CMPSC 102 differently than all of
 the other courses that I have taught at Allegheny College, I want you to know
 that I have been carefully planning the course for the entire summer! In fact,
-I've been using for many year the majority of the remote-learning technologies
-that we will use this semester. I find remote collaboration and learning a lot
-of fun and I anticipate that you will also find it fun and effective!
+I've been using, for many years, the majority of the remote-learning
+technologies that we will use this semester. I find remote collaboration and
+learning a lot of fun and I anticipate that you will also find it exciting and
+effective!
 
 I must move several of the CMPSC 102 course activities to an online venue so as
 to ensure that I keep you as safe as is possible and that we all comply with the
-state and College guidelines concerning, for instance, the occupancy level of
-our classroom space and the number of feet between each person who is inside of
-the classroom. While this may not be ideal, it is an absolute necessity.
+official state and CDC guidelines concerning, for instance, the occupancy level
+of our classroom space and the number of feet between each person who is inside
+of the classroom. While this may not be ideal, it is an absolute necessity.
 
 Although the course will be different, I'm really excited about this innovative
 format for collaborative learning and I look forward to convincing you of its
@@ -183,14 +187,14 @@ Here are some key points I want you to remember from my previous email:
 -- 1) To date, I anticipate that I can add everyone to the course who is on the
 waiting list. If you completed the waiting list form, then you should be able to
 add the course at the start of the Fall 2020 semester. To add the course, you
-will need to express to me in writing during the first or second class that you
-want to join the course. I will then use "Add Authorization" feature of Self
-Service during the first few classes and you should then see that CMPSC 102 Fall
-2020 is visible in your course roster.
+will need to confirm with me by writing me an email by the first or second class
+that you want to join the course. I will then use the "Add Authorization"
+feature of Self Service during the first week of classes and you should then see
+that CMPSC 102 Fall 2020 is visible in your course roster.
 
 Please note that, by default, I will not automatically add the name of each
 student on the waiting list to the course roster. This is because not everyone
-on the waiting list may still want to take CMPSC 102. As such, during the first
+on the waiting list may still want to take CMPSC 102. Again, before the first
 two class periods I will need you to write to me by email to express your
 confirmed interest in taking the CMPSC 102 Fall 2020 course. Please refer to the
 previous content about the first week of classes for more details on this issue.
@@ -229,8 +233,8 @@ summer, I encourage you to please explore the various programs I mentioned in my
 previous email so that you are able to participate in all course activities.
 
 Here is a summary of the technologies that we will use during the semester.
-Please make sure that, during the first week of the semester, you have taken the
-required steps to install these programs on your laptop. If you are not able to
+Please make sure that, during the first week of the semester, you have taken any
+necessary steps to install these programs on your laptop. If you are not able to
 install these programs on your laptop, then I will be available through Google
 Meet during office hours, virtual classroom sessions, and the laboratory and
 practical sessions to ensure that your system is correctly up and running!
@@ -294,6 +298,6 @@ Slack on a regular basis. If you have general questions about the course you can
 ask them in the #general channel. If you have specific questions that you think
 are best discussed in a private manner, then please send them to me as a direct
 message. Unless there is an absolute need for you to do so, please refrain from
-sending me emails and instead prefer to communicate with me through Slack.
+sending me emails and instead focus on communicating with me through Slack.
 Finally, don't forget to be on the look out for the Google Meet link that I will
 send you on Monday morning! You can use this to join our first class on Monday.
