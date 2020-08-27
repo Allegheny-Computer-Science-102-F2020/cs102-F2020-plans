@@ -9,7 +9,7 @@ environment.
 ## Correspondence
 
 - [Email on 12-08-11: Introduction](emails/introduction.md)
-- [Email on 12-08-19: Laptop Survey](emails/laptopsurvey.md)
+- [Email on 27-08-19: Laptop Survey](emails/laptopsurvey.md)
 
 ## Learning Objectives
 
