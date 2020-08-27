@@ -130,6 +130,14 @@ Importantly, you will be learning to use all of the remote working technology
 that is normally adopted by experts in industry, thereby better ensuring that
 you are prepared for a position in the software and technology fields.
 
+Finally, I want to encourage you to actively engage with the course throughout
+the Fall 2020 semester. It is important that you watch all of the videos,
+participate in the YouTube Live streams and Google Meets, use all of the
+required software, and attend all of the in-person classroom sessions. To ensure
+that you best succeed in this course you must take ownership of your education
+by completing all of the work on time and communicating effectively with me and
+the student technical leaders who are part of the course's support team.
+
 ## Reminders
 
 Here are the three key points I want you to remember from my previous email:
