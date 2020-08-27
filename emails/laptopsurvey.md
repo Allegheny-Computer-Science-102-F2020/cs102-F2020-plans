@@ -1,9 +1,14 @@
 Hello CMPSC 102 Students,
 
-As you will recall, about one week ago I sent you an email that introduced the
-CMPSC 102 course. Today I wanted to remind you of several important points about
-the CMPSC 102 course and then ask you to complete a survey about your use of a
-laptop for the course, only if you have not already done so.
+## Introduction
+
+As you will recall, awhile ago I sent you an email that introduced the CMPSC 102
+course. Today I wanted to remind you of several important points about the CMPSC
+102 course and then ask you to complete a survey about your use of a laptop for
+the course --- but only if you have not already done so. Finally, I am going to
+share some updates about the first week of the Fall 2020 semester.
+
+## Laptop Survey
 
 Specifically, if you have not already done so, please complete the following
 survey about the use of a laptop for the Fall 2020 semester:
@@ -24,7 +29,125 @@ I point out again in the remainder of this note, every student who enrolls in
 CMPSC 102 for the Fall 2020 semester must have a laptop that is approved for use
 in the Department of Computer Science.
 
+## First Week of Class
+
+Since there are many students who are interested in taking this class and yet
+are still on the course waiting list due to College registration procedure, I
+don't yet know how many students need to fit into our classroom at the same
+time. Moreover, until I add everyone to the class, I will not be able to fairly
+divide us into groups that will meet in person according to a set schedule,
+thereby ensuring that we never exceed the room limit for our classroom.
+
+Therefore, to ensure that you are all safe during the first week of classes, I
+will be holding all classes, which are scheduled for M/W/F 10:20 AM - 11:10 AM
+through a Google Meet link that I will provide on Monday morning of next week.
+
+Before you click this link, please make sure that you take the following steps:
+
+-- Ensure that you have headphones connected to your laptop and that you are
+able to hear sound through your headphones when you use Google Meet. Please note
+that you can test to ensure that your sound is working by visiting this site and
+creating a sample Google Meet of which you are the only member:
+
+https://meet.google.com/
+
+-- Ensure that your video is working correctly on your laptop so that it records
+you face and can transmit it correctly to Google Meet. Again, you can test this
+by using the aforementioned web site. If you click the three vertical dots in
+the right-hand-side of Google Meet then you can go into the settings and confirm
+that your audio and video are working correctly. Please note that you must
+complete these steps before the start of our first class next week.
+
+After clicking this link, please make sure that you take the following steps:
+
+-- You should mute your microphone if you are not talking so that noise from
+your laptop is not transmitted into the meeting.
+
+-- You should "pin" my video stream to your center screen by clicking a pin icon
+that will appear when you hover your mouse near the center of my video.
+
+-- If you want to ask a question or participate in a discussion, then you need
+to type a `*` into the chat window of Google Meet. I will use this symbol as an
+indicator that the student who typed it wants to contribute to our conversation
+by making a point or asking a question.
+
+During the first three classes, please keep in mind the following points:
+
+-- I will be recording from my home studio which means that you will not be able
+to find me in my office in Alden Hall to ask questions.
+
+-- During the class sessions next week, you will see that I will switch between
+full screen video and the projection of various programs on my laptop. If I am
+not using full screen video, then you will see my face in a small circle
+normally on the right-hand side of your video.
+
+-- Throughout the semester I will use specialized broadcasting software that
+will allow me to seamlessly change between different scenes and sources during
+our classroom and laboratory sessions. If something goes wrong with the
+broadcasting software, then please use a `*` in the Google Meet chat and then
+once you receive my acknowledgment you can explain that there is a problem.
+
+## Remainder of the Fall 2020 Semester
+
+I will share more details about the remainder of the Fall 2020 semester during
+our first week of the semester and through our GitHub planning repository to
+which I provided you a link in a previous email and in this email.
+
+Due to the large size of our course and due to the limited space in Alden Hall,
+you will normally have one in-person class with me per week. When you are not in
+class you will be completing activities that are guided by specialized YouTube
+videos and live streaming sessions through either YouTube Live or Google Meet.
+
+We will have all of our course's laboratory and practical sessions through
+either YouTube Live or Google Meet. The student technical leaders and I will be
+available to answer your questions about an assignment through YouTube, Google
+Meet, and/or Slack. You will also actively participate in these sessions by, for
+instance, live coding with me and the other student technical leaders, asking
+questions and interactively working through each of the steps in the assignment.
+
+During the laboratory and practical sessions you will be able to pair program
+with me and the other student technical leaders through programs like VS Code. I
+will also release a survey every week in which you can request that I make a
+customized YouTube video about any topic that I covered during the recently
+completed week. Through my web site and our course's GitHub repositories, every
+week you will have access to all the assignment sheets, reading assignments,
+course slides, Python source code, and any accompanying data or other materials.
+
+## Encouragement for the Fall 2020 Semester
+
+Although I recognize that I will be teaching CMPSC 102 differently than all of
+the other courses that I have taught at Allegheny, I want you to know that I
+have been carefully planning the course for the entire summer!
+
+I must move several of the CMPSC 102 course activities to an online venue so as
+to ensure that I keep you safe and that we all comply with the state and College
+guidelines concerning, for instance, the occupancy level of our classroom space
+and the number of feet between each person who is inside of the classroom.
+
+Although the course will be different, I'm really excited about this new format
+and I look forward to convincing you of its merits throughout the semester.
+Importantly, you will be learning to use all of the remote working technology
+that is normally adopted by experts in industry, thereby better ensuring that
+you are prepared for a position in the software and technology fields.
+
+## Reminders
+
 Here are the three key points I want you to remember from my previous email:
+
+-- 1) To date, I anticipate that I can add everyone to the course who is on the
+waiting list. If you completed the waiting list form, then you should be able to
+add the course at the starting of the Fall 2020 semester. To add the course, you
+will need to express to me in writing during the first or second class that you
+want to join the course. I will then use "Add Authorization" feature of Self
+Service during the first few classes and you should then see that CMPSC 102 Fall
+2020 is visible in your course roster.
+
+Please note that, by default, I will not automatically add the name of each
+student on the waiting list to the course roster. This is because not everyone
+on the waiting list may still want to take CMPSC 102. As such, during the first
+two class periods I will need you to write to me by email to express you
+confirmed interest in taking the CMPSC 102 Fall 2020 course. Please refer to the
+previous content about the first week of classes for more details on this issue.
 
 -- 1) Since I want you to stay up-to-date with the planning for our course, I
 encourage you to visit the following GitHub repository for more details:
@@ -32,12 +155,12 @@ encourage you to visit the following GitHub repository for more details:
 https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-plans
 
 If you have not already checked the GitHub repository, then please do so! I will
-also be updating the content in this repository throughout the next two weeks
-and then during the entirety of the Fall 2020 academic semester.
+also be updating the content in this repository throughout this week and then
+during the entirety of the Fall 2020 academic semester.
 
--- 2) Since I also want you to be able to easily communicate with me and the other
-students who will be in the course, I have setup a Slack workspace. You can
-sign-up to join the Slack workspace for free at this web site:
+-- 2) Since I also want you to be able to easily communicate with me and the
+other students who will be in the course, I have setup a Slack workspace. You
+can sign-up to join the Slack workspace for free at this web site:
 
 https://join.slack.com/t/cmpsc102fall2020/signup
 
@@ -59,7 +182,12 @@ through your headphones. As your schedule permits during the remainder of the
 summer, I encourage you to please explore the various programs I mentioned in my
 previous email so that you are able to participate in all course activities.
 
-Here is a summary of the technologies that we will use during the semester:
+Here is a summary of the technologies that we will use during the semester.
+Please make sure that, during the first week of the semester, you have taken the
+required steps to install these programs on your laptop. If you are not able to
+install these programs on your laptop, then I will be available through Google
+Meet during office hours, virtual classroom sessions, and the laboratory and
+practical sessions to ensure that your system is correctly up and running!
 
 - You will use Docker Desktop to run programs that the course instructor
   provides to you through a Docker container. To learn more about Docker, you
