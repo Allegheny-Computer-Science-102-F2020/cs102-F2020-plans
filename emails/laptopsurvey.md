@@ -6,7 +6,8 @@ As you will recall, awhile ago I sent you an email that introduced the CMPSC 102
 course. Today I wanted to remind you of several important points about the CMPSC
 102 course and then ask you to complete a survey about your use of a laptop for
 the course --- but only if you have not already done so. Finally, I am going to
-share some updates about the first week of the Fall 2020 semester.
+share some updates about the first week of the Fall 2020 semester and then
+furnish a high-level overview of our course's structure.
 
 ## Laptop Survey
 
@@ -32,11 +33,12 @@ in the Department of Computer Science.
 ## First Week of Class
 
 Since there are many students who are interested in taking this class and yet
-are still on the course waiting list due to College registration procedure, I
-don't yet know how many students need to fit into our classroom at the same
-time. Moreover, until I add everyone to the class, I will not be able to fairly
-divide us into groups that will meet in person according to a set schedule,
-thereby ensuring that we never exceed the room limit for our classroom.
+are still on the course waiting list due to the College's registration
+procedure, I don't yet know how many students must fit into our classroom at the
+same time. Moreover, until I add everyone to the class, I will not be able to
+fairly divide us into groups that will meet in person according to a set
+schedule, thereby ensuring that we never exceed the room limit for our
+classroom and that you are safer during the Fall 2020 semester.
 
 Therefore, to ensure that you are all safe during the first week of classes, I
 will be holding all classes, which are scheduled for M/W/F 10:20 AM - 11:10 AM
@@ -46,8 +48,8 @@ Before you click this link, please make sure that you take the following steps:
 
 -- Ensure that you have headphones connected to your laptop and that you are
 able to hear sound through your headphones when you use Google Meet. Please note
-that you can test to ensure that your sound is working by visiting this site and
-creating a sample Google Meet of which you are the only member:
+that you can test to ensure that your sound is working by visiting the following
+site and creating a sample Google Meet of which you are the only member:
 
 https://meet.google.com/
 
@@ -57,6 +59,13 @@ by using the aforementioned web site. If you click the three vertical dots in
 the right-hand-side of Google Meet then you can go into the settings and confirm
 that your audio and video are working correctly. Please note that you must
 complete these steps before the start of our first class next week.
+
+-- If you laptop and Internet connection will support it, please configure
+Google Meet to transmit and receive video at the 720p resolution. Picking these
+settings will ensure that you can read all of the video content that I stream to
+you and that everyone else in the class can clearly see your face. If you find
+that your connection drops regularly or the video becomes choppy or irregular
+then you can pick a lower level of video quality and see if that helps.
 
 After clicking this link, please make sure that you take the following steps:
 
@@ -71,10 +80,18 @@ to type a `*` into the chat window of Google Meet. I will use this symbol as an
 indicator that the student who typed it wants to contribute to our conversation
 by making a point or asking a question.
 
+-- Unless your laptop or Internet connection does not support it, please leave
+your video enabled during all of the classroom sessions. Since these Google
+Meets are private for our class, there is not, to my knowledge, a risk that
+outsiders will enter our class or be able to record your video. By keeping your
+video enabled it will enable me and the other students in the class to see who
+is talking and who is currently engaged in the course.
+
 During the first three classes, please keep in mind the following points:
 
 -- I will be recording from my home studio which means that you will not be able
-to find me in my office in Alden Hall to ask questions.
+to find me in my office in Alden Hall to ask me questions about your laptop or
+the Google Meet software.
 
 -- During the class sessions next week, you will see that I will switch between
 full screen video and the projection of various programs on my laptop. If I am
@@ -83,9 +100,10 @@ normally on the right-hand side of your video.
 
 -- Throughout the semester I will use specialized broadcasting software that
 will allow me to seamlessly change between different scenes and sources during
-our classroom and laboratory sessions. If something goes wrong with the
-broadcasting software, then please use a `*` in the Google Meet chat and then
-once you receive my acknowledgment you can explain that there is a problem.
+our classroom and laboratory and practical sessions. If something goes wrong
+with the broadcasting software, then please use a `*` in the Google Meet chat.
+Once you receive my acknowledgment you can explain what problem you are
+experiencing so that I can resolve it quickly and move on with the class.
 
 ## Remainder of the Fall 2020 Semester
 
