@@ -53,7 +53,7 @@ schedule, thereby ensuring that we never exceed the room limit for our
 classroom and that you are safer during the Fall 2020 semester.
 
 Therefore, to ensure that you are all safe during the first week of classes, I
-will be holding all classes, which are scheduled for M/W/F 10:20 AM - 11:10 AM
+will be holding all classes, which are scheduled for M/W/F 10:20 AM - 11:10 AM,
 through a Google Meet link that I will provide on Monday morning of next week.
 
 Before you click this link, please make sure that you take the following steps:
@@ -77,7 +77,9 @@ Google Meet to transmit and receive video at the 720p resolution. Picking these
 settings will ensure that you can read all of the video content that I stream to
 you and that everyone else in the class can clearly see your face. If you find
 that your connection drops regularly or the video becomes choppy or irregular
-then you can pick a lower level of video quality and see if that helps.
+then you can pick a lower level of video quality and see if that helps. You
+should only stop transmitting or receiving video when your laptop or Internet
+connection absolutely do not support any type of video streaming.
 
 After clicking this link, please make sure that you take the following steps:
 
@@ -123,7 +125,7 @@ I will share more details about the remainder of the Fall 2020 semester during
 our first week of the semester and through our GitHub planning repository to
 which I provided you a link in a previous email and in this email.
 
-Due to the large size of our course and due to the limited space in Alden Hall,
+Due to both the large size of our course and the limited space in Alden Hall,
 you will normally have one in-person class with me per week. When you are not in
 class you will be completing activities that are guided by specialized YouTube
 videos and live streaming sessions through either YouTube Live or Google Meet.
@@ -133,7 +135,8 @@ either YouTube Live or Google Meet. The student technical leaders and I will be
 available to answer your questions about an assignment through YouTube, Google
 Meet, and/or Slack. You will also actively participate in these sessions by, for
 instance, live coding with me and the other student technical leaders, asking
-questions and interactively working through each of the steps in the assignment.
+questions, participating in interactive quizzes, and collaboratively working
+through each of the steps in the assignment.
 
 During the laboratory and practical sessions you will be able to pair program
 with me and the other student technical leaders through programs like VS Code. I
@@ -148,8 +151,8 @@ course slides, Python source code, and any accompanying data or other materials.
 Although I recognize that I will be teaching CMPSC 102 differently than all of
 the other courses that I have taught at Allegheny College, I want you to know
 that I have been carefully planning the course for the entire summer! In fact,
-I've been using the majority of the remote-learning technologies that we will
-use this semester for many years. I find remote collaboration and learning a lot
+I've been using for many year the majority of the remote-learning technologies
+that we will use this semester. I find remote collaboration and learning a lot
 of fun and I anticipate that you will also find it fun and effective!
 
 I must move several of the CMPSC 102 course activities to an online venue so as
@@ -158,11 +161,12 @@ state and College guidelines concerning, for instance, the occupancy level of
 our classroom space and the number of feet between each person who is inside of
 the classroom. While this may not be ideal, it is an absolute necessity.
 
-Although the course will be different, I'm really excited about this new format
-and I look forward to convincing you of its merits throughout the semester.
-Importantly, you will be learning to use all of the remote working technology
-that is normally adopted by experts in industry, thereby better ensuring that
-you are prepared for a position in the software and technology fields.
+Although the course will be different, I'm really excited about this innovative
+format for collaborative learning and I look forward to convincing you of its
+merits throughout the semester. Importantly, you will be learning to use all of
+the remote working technology that is normally adopted by experts in industry,
+thereby better ensuring that you are prepared for a position in the software and
+technology fields.
 
 Finally, I want to encourage you to actively engage with the course throughout
 the Fall 2020 semester. It is important that you watch all of the videos,
@@ -178,7 +182,7 @@ Here are some key points I want you to remember from my previous email:
 
 -- 1) To date, I anticipate that I can add everyone to the course who is on the
 waiting list. If you completed the waiting list form, then you should be able to
-add the course at the starting of the Fall 2020 semester. To add the course, you
+add the course at the start of the Fall 2020 semester. To add the course, you
 will need to express to me in writing during the first or second class that you
 want to join the course. I will then use "Add Authorization" feature of Self
 Service during the first few classes and you should then see that CMPSC 102 Fall
