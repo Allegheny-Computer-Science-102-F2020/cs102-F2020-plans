@@ -41,3 +41,5 @@
     - An appropriate visualization technique, as a Python function, that can
       create graphs and diagrams that highlight the salient properties of the
       data set.
+    - An appropriate data transmission method, as a Python function, that can
+      transform the data into any format required by other external tools.
