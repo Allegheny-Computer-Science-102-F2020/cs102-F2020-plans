@@ -6,7 +6,7 @@
 
 #### Instructor
 
-- Add and update weekly tasks to the [GitHub Project
+- Add to and update weekly tasks on the [GitHub Project
   Board](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-plans/projects/1)
 
 #### All Students
@@ -43,6 +43,7 @@
 
 - Release the GitHub classroom link for today's laboratory assignment
 - Release the Google Meet link for today's laboratory assignment
+- Publish the laboratory assignment sheet on the course web site
 - Assist students through Google Meet on the laboratory assignment
 
 #### Teams A and B
@@ -85,8 +86,12 @@
   - Administer the course wellness survey through Google Forms
   - Administer the weekly technical quiz through Google Forms
 
+- Preparation for the Live Coding Session:
+- Release the GitHub classroom link for today's practical assignment
+- Release the YouTube Live link for today's laboratory assignment
+- Publish the practical assignment sheet on the course web site
+
 - Live Coding Session through YouTube Live:
-  - Release the practical assignment link through Slack
   - Interactively review select answers to the weekly technical quiz
   - Briefly review the technical question, topics, and ideas for the week
   - Conduct a Live Coding session to implement key parts of the practical
@@ -118,3 +123,11 @@
 - When the instructor stops live coding every three to five minutes, engage in
   the YouTube Live chat by asking questions and providing feedback to the
   instructor and the other students in the course
+
+## Remote Students
+
+The instructor will assign students who elect to be off-campus for the Fall 2020
+semester to either [Team A](../teams/team-a.md) or [Team B](../teams/team-b.md).
+After their assignment to a team, these students will then follow the schedule
+of their team, with the exception of attending their assigned class session
+remotely instead of in-person.
