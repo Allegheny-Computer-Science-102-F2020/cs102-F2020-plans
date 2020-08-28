@@ -41,7 +41,7 @@
 
 #### Instructor
 
-- Release the GitHub classroom link for today's laboratory assignment
+- Release the GitHub Classroom link for today's laboratory assignment
 - Release the Google Meet link for today's laboratory assignment
 - Publish the laboratory assignment sheet on the course web site
 - Assist students through Google Meet on the laboratory assignment
@@ -87,9 +87,9 @@
   - Administer the weekly technical quiz through Google Forms
 
 - Preparation for the Live Coding Session:
-- Release the GitHub classroom link for today's practical assignment
-- Release the YouTube Live link for today's laboratory assignment
-- Publish the practical assignment sheet on the course web site
+  - Release the GitHub classroom link for today's practical assignment
+  - Release the YouTube Live link for today's practical assignment
+  - Publish the practical assignment sheet on the course web site
 
 - Live Coding Session through YouTube Live:
   - Interactively review select answers to the weekly technical quiz
@@ -123,6 +123,18 @@
 - When the instructor stops live coding every three to five minutes, engage in
   the YouTube Live chat by asking questions and providing feedback to the
   instructor and the other students in the course
+
+### End of the Day
+
+#### Instructor
+
+- Add to and update weekly tasks on the [GitHub Project
+  Board](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-plans/projects/1)
+
+#### All Students
+
+- Check all weekly tasks on the [GitHub Project
+  Board](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-plans/projects/1)
 
 ## Remote Students
 
