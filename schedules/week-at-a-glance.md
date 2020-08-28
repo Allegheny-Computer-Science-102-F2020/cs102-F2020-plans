@@ -19,6 +19,6 @@
 #### Instructor
 
 - Post weekly tasks to the GitHub project board
-- In-person class activities for [Team A](teams/team-a.md):
+- In-person class activities for [Team A](../teams/team-a.md):
   - Teach key topics for the week
   - Conduct Q&A session for practical assignment from last week
