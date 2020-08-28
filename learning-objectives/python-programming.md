@@ -29,7 +29,7 @@
 - **Using Python Programming Tools**:
   - A learner will use a Python programming environment to complete these tasks
     while implementing a Python program consisting of between one and five
-    hundred lines of code:
+      hundred lines of code:
     - Install, upgrade, and use the Python 3.8 interpreter to run a Python
       program.
     - Create a virtual environment with Poetry and use it to run a Python
@@ -38,9 +38,8 @@
       container that can run the test suite and autograding tools.
     - Use testing to detect a failure in a Python program and then effectively
       use tools like a text editor and a terminal window to find and fix the
-      failure, ultimately confirming that the Python programs not longer
-      contains the failure and the fix did not compromise other functions in the
-      program.
+      failure, ultimately confirming that the Python programs no longer contains
+      the failure and the fix did not compromise other functions in the program.
 
 - **Using Version Control Systems**:
   - A learner will use the GitHub version control system in the following
