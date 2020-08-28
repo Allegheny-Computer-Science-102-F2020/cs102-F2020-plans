@@ -87,7 +87,7 @@
 
 - Live Coding Session through YouTube Live:
   - Release the practical assignment link through Slack
-  - Interactively review select answers to the technical quiz
+  - Interactively review select answers to the weekly technical quiz
   - Briefly review the technical question, topics, and ideas for the week
   - Conduct a Live Coding session to implement key parts of the practical
     assignment
@@ -96,9 +96,25 @@
     - Clone the GitHub repository
     - Repeatedly complete the following tasks:
       - Confirm that there is a passing build status in the GitHub repository
-      - Create a feature branch in GitHub repository for new function
+      - Create a feature branch in the GitHub repository for new function
       - Add Python source code to implement the function for the current feature
-      - Confirm that test suite and linters pass on the modified source code
-      - Answer any recent student questions evident in YouTube Live
-      - Merge the feature branch into the main one in GitHub
-      - Push all modified source code to the main branch in GitHub
+      - Confirm that the test suite and linters pass on the modified source code
+      - Answer any recent student questions evident in YouTube Live Chat
+      - Merge the feature branch into the main one in the GitHub repository
+      - Push all modified source code to the main branch in the GitHub
+        repository
+
+#### Teams A and B
+
+- Submit the practical assignment from the previous week
+- Take the course wellness survey (two minutes) and the weekly technical quiz
+  (eight minutes)
+- Join the live coding session through the provided YouTube Live link
+- Answer all of the interactive questions that the instructor poses through
+  YouTube Live
+- Accept the practical assignment and follow each step of the assignment
+- Regularly ask the instructor questions about the practical assignment through
+  YouTube Live
+- When the instructor stops live coding every three to five minutes, engage in
+  the YouTube Live chat by asking questions and providing feedback to the
+  instructor and the other students in the course
