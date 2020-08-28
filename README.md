@@ -15,3 +15,12 @@ environment.
 
 - [Mathematically Informed Communication](learning-objectives/mathematical-communication.md)
 - [Rigorous Python Programming](learning-objectives/python-programming.md)
+
+## Teams
+
+- [Team A](teams/team-a.md)
+- [Team B](teams/team-b.md)
+
+## Schedules
+
+- [Week At a Glance](schedules/week-at-a-glance.md)
