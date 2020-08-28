@@ -1,7 +1,7 @@
 # Learning Objectives for Python Programming
 
 - **Performing Python Programming**:
-  - A learner will write short Python functions of ten to twenty lines that have
+  - A learner will write short Python functions of ten to twenty Lines that have
     the following characteristics:
     - Has function and variable names that adhere to an industry-standard coding
       style.
@@ -29,7 +29,7 @@
 - **Using Python Programming Tools**:
   - A learner will use a Python programming environment to complete these tasks
     while implementing a Python program consisting of between one and five
-      hundred lines of code:
+    hundred lines of code:
     - Install, upgrade, and use the Python 3.8 interpreter to run a Python
       program.
     - Create a virtual environment with Poetry and use it to run a Python
