@@ -18,7 +18,16 @@
 
 #### Instructor
 
-- Post weekly tasks to the GitHub project board
 - In-person class activities for [Team A](../teams/team-a.md):
   - Teach key topics for the week
   - Conduct Q&A session for practical assignment from last week
+
+#### Team A
+
+- Attend the in-person classroom session in Alden Hall
+
+### Laboratory Session 3:00 PM - 4:50 PM
+
+#### Entire Class
+
+- Participate in the laboratory session through Google Meet and Slack
