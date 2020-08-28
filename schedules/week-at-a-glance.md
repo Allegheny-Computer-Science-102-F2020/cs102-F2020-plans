@@ -74,3 +74,22 @@
 - Attend the in-person classroom session in Alden Hall
 - Work on the technical challenge assignment for this week
 - Work on the current laboratory and practical assignments
+
+## Friday
+
+### Remote Practical Session 10:20 AM - 11:10 AM
+
+#### Instructor
+
+- Assessments and Feedback:
+  - Administer the course wellness survey through Google Forms
+  - Administer the weekly technical quiz through Google Forms
+
+- Remote Live Coding Session through YouTube Live:
+  - Interactively review select answers to the technical quiz
+  - Briefly review the technical question, topics, and ideas for the week
+  - Conduct a Live Coding Session to implement key components of the practical
+    assignment
+    - Accept the assignment
+    - Create the GitHub repository
+    - Clone the GitHub repository
