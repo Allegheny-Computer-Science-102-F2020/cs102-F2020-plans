@@ -85,11 +85,20 @@
   - Administer the course wellness survey through Google Forms
   - Administer the weekly technical quiz through Google Forms
 
-- Remote Live Coding Session through YouTube Live:
+- Live Coding Session through YouTube Live:
+  - Release the practical assignment link through Slack
   - Interactively review select answers to the technical quiz
   - Briefly review the technical question, topics, and ideas for the week
-  - Conduct a Live Coding Session to implement key components of the practical
+  - Conduct a Live Coding session to implement key parts of the practical
     assignment
     - Accept the assignment
     - Create the GitHub repository
     - Clone the GitHub repository
+    - Repeatedly complete the following tasks:
+      - Confirm that there is a passing build status in the GitHub repository
+      - Create a feature branch in GitHub repository for new function
+      - Add Python source code to implement the function for the current feature
+      - Confirm that test suite and linters pass on the modified source code
+      - Answer any recent student questions evident in YouTube Live
+      - Merge the feature branch into the main one in GitHub
+      - Push all modified source code to the main branch in GitHub
