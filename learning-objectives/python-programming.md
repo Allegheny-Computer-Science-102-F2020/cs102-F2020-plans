@@ -10,7 +10,7 @@
     - Features a source code format that adheres to an industry-standard coding
       style.
     - Has a high-coverage test suite, written with an industry-standard
-      framework, that effectively exercises at least the 70% of the statements
+      framework, that effectively exercises at least the 80% of the statements
       and branches in the function.
     - Passes the test suite and furnishes a correct implementation of the
       specification for the function.
