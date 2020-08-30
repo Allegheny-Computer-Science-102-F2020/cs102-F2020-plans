@@ -62,3 +62,7 @@ limited number of laptops are available for use during class and lab sessions.
 
 - [Team A](teams/team-a.md)
 - [Team B](teams/team-b.md)
+
+## Resources
+
+- [Slack Workspace](https://join.slack.com/t/cmpsc102fall2020/signup)
