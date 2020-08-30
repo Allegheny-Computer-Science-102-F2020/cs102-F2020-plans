@@ -2,6 +2,17 @@
 
 ## Table of Contents
 
+* [Assignment Types](#assignment-types)
+* [Assessment Overview](#assessment-overview)
+* [Assessment Strategy Details](#assessment-strategy-details)
+  + [Laboratory Assignments](#laboratory-assignments)
+  + [Practical Assignments and Technical Challenges](#practical-assignments-and-technical-challenges)
+* [Assessment Delivery](#assessment-delivery)
+* [Advance Feedback on an Assignment](#advance-feedback-on-an-assignment)
+* [Calculating Your Grade](#calculating-your-grade)
+  + [Laboratory Assignments](#laboratory-assignments-1)
+  + [Practical Assignments](#practical-assignments)
+  + [Technical Challenges](#technical-challenges)
 
 ## Assignment Types
 
