@@ -51,19 +51,19 @@ this assignment, your grade will have the following components:
   instance, ensuring that it produces the correct output and has all of the
   required characteristics. Your technical writing must pass all of
   GatorGrader's checks about, for instance, the length of its content and its
-  appropriate use of the Markdown language features for technical writing. For
-  this component of a laboratory assignment's grade, your work will receive a
+  use of the required Markdown language features for technical writing. For this
+  component of a laboratory assignment's grade, your work will receive a
   percentage, ranging from 0 to 100, that corresponds to the percentage of
   GatorGrader checks that automatically pass inside of a GitHub Actions build.
 
 - **GitHub Actions Build Status of Either ✔  or ❌**: Since additional checks on
-  the source code and/or technical writing are encoded in GitHub Action
+  the Python source code and/or technical writing are encoded in GitHub Action
   workflows and, moreover, all of the GatorGrader checks are also run in GitHub
   Actions, your work will receive a checkmark grade if the last
   before-the-deadline build passes and a ✔  appears in their GitHub commit log
   instead of an ❌. The build status reported by GitHub Actions will only be a ✔
   if the source code and technical writing in the GitHub repository passes all
-  of the GatorGrader checks and all the additional checks pass without error.
+  of both the GatorGrader checks and the additional checks.
 
 - **Technical Writing Mastery of Either ✔  or ❌**: Students will also receive a
   ✔ grade when the responses to the technical writing questions presented in the
