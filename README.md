@@ -39,6 +39,10 @@ limited number of laptops are available for use during class and lab sessions.
 - [Email on 12-08-11: Introduction](emails/introduction.md)
 - [Email on 27-08-19: Laptop Survey](emails/laptopsurvey.md)
 
+## Course Schedules
+
+- [Week At a Glance](schedules/week-at-a-glance.md)
+
 ## Learning Objectives
 
 - [Mathematically Informed Communication](learning-objectives/mathematical-communication.md)
@@ -58,7 +62,3 @@ limited number of laptops are available for use during class and lab sessions.
 
 - [Team A](teams/team-a.md)
 - [Team B](teams/team-b.md)
-
-## Course Schedules
-
-- [Week At a Glance](schedules/week-at-a-glance.md)
