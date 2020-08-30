@@ -66,4 +66,5 @@ limited number of laptops are available for use during class and lab sessions.
 
 ## Resources
 
+- [Programming Tools](tools/programming-tools.md)
 - [Slack Workspace](https://join.slack.com/t/cmpsc102fall2020/signup)
