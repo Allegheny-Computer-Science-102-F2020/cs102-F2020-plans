@@ -2,13 +2,6 @@
 
 ## Table of Contents
 
-* [Assignment Types](#assignment-types)
-* [Assessment Overview](#assessment-overview)
-* [Assessment Strategy Details](#assessment-strategy-details)
-  + [Laboratory Assignments](#laboratory-assignments)
-  + [Practical Assignments](#practical-assignments)
-  + [Technical Challenges](#technical-challenges)
-* [Assessment Delivery](#assessment-delivery)
 
 ## Assignment Types
 
@@ -165,4 +158,30 @@ Laboratory Assignment Grade:
   ```
   (0.833 + 0.572 + 0.808) / 3 * 100
           73.767
+  ```
+
+### Practical Assignments
+
+- Assignment One: ✔
+- Assignment Two: ❌
+- Assignment Three: ❌
+
+- Overall:
+
+  ```
+  (1+0+0)/3 * 100
+        33.33
+  ```
+
+### Technical Challenges
+
+- Assignment One: ✔
+- Assignment Two: ✔
+- Assignment Three: ✔
+
+- Overall:
+
+  ```
+  (1+1+1)/3 * 100
+        100.00
   ```
