@@ -5,11 +5,12 @@
 * [Introduction](#introduction)
 * [Course Description](#course-description)
 * [Instructor Correspondence](#instructor-correspondence)
+* [Course Schedules](#course-schedules)
 * [Learning Objectives](#learning-objectives)
 * [Assignment Types](#assignment-types)
 * [Assessment Strategy](#assessment-strategy)
 * [Team Assignment](#team-assignment)
-* [Course Schedules](#course-schedules)
+* [Resources](#resources)
 
 ## Introduction
 
