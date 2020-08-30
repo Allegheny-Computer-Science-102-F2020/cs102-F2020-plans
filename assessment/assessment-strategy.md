@@ -103,17 +103,18 @@ evidenced by:
 ## Assessment Delivery
 
 All grades for course projects will be reported through a student's GitHub
-repository using either messages in the GitHub commit log or issues raised in
-the issue tracker. Students should ask questions about their grade for any
-project in GitHub so as to facilitate an effective conversation about the
-submitted deliverables and to ensure that a student can ultimately master all of
-the technical knowledge and skills developed as part of that assignment's
+repository using either messages in the GitHub repository's commit log, issues
+raised in the issue tracker, or comments on a pull request in the GitHub
+repository. Students should ask questions about their grade for any project on
+GitHub so as to facilitate an effective conversation about the submitted
+deliverables and to ensure that a student can ultimately master all of the
+technical knowledge and skills developed as part of that assignment's
 exploration of a specific topic in the field of discrete structures.
 
-## Assignment Feedback
+## Advance Feedback on an Assignment
 
-Students who wish to receive feedback on their work for an assignment should
-first open an issue on the issue tracker for their assignment's GitHub
+Students who wish to receive feedback on their work for any course assignment
+should first open an issue on the issue tracker for their assignment's GitHub
 repository, giving an appropriate title and description for the type of feedback
 that you would like the course instructor to provide. After creating this issue,
 you will see that GitHub has created a unique web site that references it. To
@@ -124,3 +125,44 @@ responds to the issue, please resolve all of the stated concerns and participate
 in the discussion until the issue is closed.
 
 ## Calculating Your Grade
+
+The instructor will convert the specification-based grades that you received to
+a numerical grade for each type of assignment. The following example best
+illustrates the calculation of your grade under the simplifying assumption that
+there are three of each type of assignment with the following grades:
+
+### Laboratory Assignments
+
+- Assignment One: 100%, ✔, ✔, ❌
+- Assignment Two: 81%, ❌, ✔, ❌
+- Assignment Three: 95%, ❌, ✔, ✔
+
+Laboratory Assignment Grade:
+
+- Assignment One:
+
+  ```
+  (100 + ((1+1+0)/3)*100)/200
+          0.833
+  ```
+
+- Assignment Two:
+
+  ```
+  (81 + ((0+1+0)/3)*100)/200
+         0.572
+  ```
+
+- Assignment Three:
+
+  ```
+  (95 + ((0+1+1)/3)*100)/200
+         0.808
+  ```
+
+- Overall:
+
+  ```
+  (0.833 + 0.572 + 0.808) / 3 * 100
+          73.767
+  ```
