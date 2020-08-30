@@ -2,7 +2,13 @@
 
 ## Table of Contents
 
-
+* [Assignment Types](#assignment-types)
+* [Assessment Overview](#assessment-overview)
+* [Assessment Strategy Details](#assessment-strategy-details)
+  + [Laboratory Assignments](#laboratory-assignments)
+  + [Practical Assignments](#practical-assignments)
+  + [Technical Challenges](#technical-challenges)
+* [Assessment Delivery](#assessment-delivery)
 
 ## Assignment Types
 
@@ -25,9 +31,12 @@ instructor will define GatorGrader checks for each type of course assignment and
 your job will be use a programming language like Python to implement a complete
 solution that passes all of the GatorGrader checks. In addition to running the
 GatorGrader tool on your laptop, you will see the results from running
-GatorGrader checks in the GitHub Actions continuous integration environment.
+GatorGrader checks in the [GitHub Actions](https://github.com/features/actions)
+continuous integration environment.
 
-## Assessing Laboratory Assignments
+## Assessment Strategy Details
+
+### Laboratory Assignments
 
 Taking inspiration from the principles of [specification-based
 grading](http://rtalbert.org/return-to-specs-grading-calculus/), the grade that
@@ -38,19 +47,20 @@ assignment, your grade will have the following components:
 
 - **Percentage of Correct GatorGrader Checks**: Students are encouraged to
   repeatedly try to implement a Python program that passes all of GatorGrader's
-  checks by, for instance, creating a program that produces the correct output.
-  Students should also repeatedly revise their technical writing to ensure that
-  it also passes all of GatorGrader's checks about, for instance, the length of
-  its content and its appropriate use of Markdown.
+  checks by, for instance, ensuring that their program produces the correct
+  output and has all of the required characteristics. Students should also
+  repeatedly revise their technical writing to ensure that it also passes all of
+  GatorGrader's checks about, for instance, the length of its content and its
+  appropriate use of the Markdown language for technical writing.
 
-- **Travis CI Build Status**: Since additional checks on the source code and/or
-  technical writing may be encoded in Travis CI's actions and, moreover, all of
-  the GatorGrader checks are also run in Travis CI, students will receive a
-  checkmark grade if their last before-the-deadline build passes and a green
-  &#x2714; appears in their GitHub commit log instead of a red &#x2717;. As with
-  the previous grading component, students are encouraged to repeatedly revise
-  their source code and technical writing in an attempt to get their Travis CI
-  build to pass.
+- **GitHub Actions Build Status**: Since additional checks on the source code
+  and/or technical writing may be encoded in GitHub Action workflows and,
+  moreover, all of the GatorGrader checks are also run in GitHub Actions,
+  students will receive a checkmark grade if their last before-the-deadline
+  build passes and a green &#x2714; appears in their GitHub commit log instead
+  of a red &#x2717;. As with the previous grading component, students are
+  encouraged to repeatedly revise their source code and technical writing in an
+  attempt to get their GitHub Action build to pass correctly.
 
 - **Mastery of Technical Writing**: Students will also receive a checkmark grade
   when the responses to the technical writing questions presented in the
@@ -72,6 +82,9 @@ assignment, your grade will have the following components:
   provide feedback on how well their work demonstrates mastery of the
   assignment's technical knowledge and skills.
 
+### Practical Assignments
+
+### Technical Challenges
 
 ## Assessment Delivery
 
