@@ -28,11 +28,12 @@ examination.
 You will receive rapid feedback on your work through a tool called
 [GatorGrader](https://github.com/GatorEducator/gatorgrader). The course
 instructor will define GatorGrader checks for each type of course assignment and
-your job will be use a programming language like Python to implement a complete
-solution that passes all of the GatorGrader checks. In addition to running the
-GatorGrader tool on your laptop, you will see the results from running
-GatorGrader checks in the [GitHub Actions](https://github.com/features/actions)
-continuous integration environment.
+your job will be to use a programming language like Python to implement a
+complete solution that passes all of the GatorGrader checks. In addition to
+running the GatorGrader tool on your laptop, you will see the results from
+running GatorGrader checks in the [GitHub
+Actions](https://github.com/features/actions) continuous integration
+environment.
 
 ## Assessment Strategy Details
 
@@ -42,29 +43,28 @@ Taking inspiration from the principles of [specification-based
 grading](http://rtalbert.org/return-to-specs-grading-calculus/), the grade that
 a student receives on a laboratory assignment will be based on whether or not it
 meets the standards for technical work in the fields of software engineering and
-discrete structures. Instead of receiving a numerical or letter grade for this
-assignment, your grade will have the following components:
+discrete structures. Instead of receiving a single numerical or letter grade for
+this assignment, your grade will have the following components:
 
-- **Percentage of Correct GatorGrader Checks Ranging Between 0 and 100**:
-  Students are invited to repeatedly try to implement a Python program that
-  passes all of GatorGrader's checks by, for instance, ensuring that their
-  program produces the correct output and has all of the required
-  characteristics. Students should also repeatedly revise their technical
-  writing to ensure that it also passes all of GatorGrader's checks about, for
-  instance, the length of its content and its appropriate use of the Markdown
-  language for technical writing. For this component of a laboratory
-  assignment's grade, your work will receive a percentage, ranging from 0 to
-  100, that corresponds to the percentage of GatorGrader checks that
-  automatically pass inside of a GitHub Actions build.
+- **Percentage of Correct GatorGrader Checks Ranging Between 0 and 100**: Your
+  submitted Python program must pass all of GatorGrader's checks by, for
+  instance, ensuring that it produces the correct output and has all of the
+  required characteristics. Your technical writing must pass all of
+  GatorGrader's checks about, for instance, the length of its content and its
+  appropriate use of the Markdown language features for technical writing. For
+  this component of a laboratory assignment's grade, your work will receive a
+  percentage, ranging from 0 to 100, that corresponds to the percentage of
+  GatorGrader checks that automatically pass inside of a GitHub Actions build.
 
 - **GitHub Actions Build Status of Either ✔  or ❌**: Since additional checks on
-  the source code and/or technical writing may be encoded in GitHub Action
+  the source code and/or technical writing are encoded in GitHub Action
   workflows and, moreover, all of the GatorGrader checks are also run in GitHub
   Actions, your work will receive a checkmark grade if the last
   before-the-deadline build passes and a ✔  appears in their GitHub commit log
   instead of an ❌. The build status reported by GitHub Actions will only be a
   checkmark if the source code and technical writing in the GitHub repository
-  passes all of the GatorGrader checks. .
+  passes all of the GatorGrader checks and all additional checks pass without
+  error.
 
 - **Technical Writing Mastery of Either ✔  or ❌**: Students will also receive a
   checkmark grade when the responses to the technical writing questions
@@ -75,19 +75,29 @@ assignment, your grade will have the following components:
   grade for this component if the build report from GitHub Actions reveals that
   there are no detected mistakes in the technical writing.
 
-- **Overall Technical Knowledge Mastery of Either ✔  or ❌**: Students will also
-  receive a checkmark grade when their GitHub repository reveals that they have
-  mastered all of the technical knowledge and skills developed during the
+- **Technical Knowledge and Skill Mastery of Either ✔  or ❌**: Students will
+  also receive a checkmark grade when their GitHub repository reveals that they
+  have mastered all of the technical knowledge and skills developed during the
   completion of the laboratory assignment. As a part of this grade, the
   instructor will assess aspects of the project including, but not limited to,
-  the use of effective Python source code comments and Git commit messages.
+  the use of effective Python source code comments, correct Git commit messages,
+  and accurate responses to the technical writing questions.
+
+As with all other grading components, students are encouraged to repeatedly
+revise their source code and technical writing in an attempt to get their GitHub
+Action build to pass correctly.
+
   Students are encouraged to ask the course instructor or a student technical
   leader to use the GitHub issue tracker to provide feedback on how well their
   work demonstrates mastery of the assignment's technical knowledge and skills.
 
-As with all other grading components, students are encouraged to repeatedly
-revise their source code and technical writing in an attempt to get their GitHub
-Action build to pass correctly. 
+### Practical Assignments
+
+### Technical Challenges
+
+## Calculating Your Grade
+
+### Laboratory Assignments
 
 ### Practical Assignments
 
