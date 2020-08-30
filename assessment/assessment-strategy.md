@@ -61,19 +61,18 @@ this assignment, your grade will have the following components:
   workflows and, moreover, all of the GatorGrader checks are also run in GitHub
   Actions, your work will receive a checkmark grade if the last
   before-the-deadline build passes and a ✔  appears in their GitHub commit log
-  instead of an ❌. The build status reported by GitHub Actions will only be a
-  checkmark if the source code and technical writing in the GitHub repository
-  passes all of the GatorGrader checks and all additional checks pass without
-  error.
+  instead of an ❌. The build status reported by GitHub Actions will only be a ✔
+  if the source code and technical writing in the GitHub repository passes all
+  of the GatorGrader checks and all the additional checks pass without error.
 
 - **Technical Writing Mastery of Either ✔  or ❌**: Students will also receive a
-  checkmark grade when the responses to the technical writing questions
-  presented in the `writing/reflection.md` reveal a mastery of technical writing
-  skills. To receive a checkmark grade, the submitted writing should have
-  correct spelling, grammar, punctuation, and formatting in addition to
-  following the rules of Markdown language. Your work will receive a checkmark
-  grade for this component if the build report from GitHub Actions reveals that
-  there are no detected mistakes in the technical writing.
+  ✔ grade when the responses to the technical writing questions presented in the
+  `writing/reflection.md` reveal a mastery of technical writing skills. To
+  receive a checkmark grade, the submitted writing should have correct spelling,
+  grammar, punctuation, and formatting in addition to following the rules of the
+  Markdown language. Your work will receive a ✔ grade for this component
+  if the build report from GitHub Actions reveals that there are no detected
+  mistakes in the technical writing.
 
 - **Technical Knowledge and Skill Mastery of Either ✔  or ❌**: Students will
   also receive a checkmark grade when their GitHub repository reveals that they
@@ -82,14 +81,6 @@ this assignment, your grade will have the following components:
   instructor will assess aspects of the project including, but not limited to,
   the use of effective Python source code comments, correct Git commit messages,
   and accurate responses to the technical writing questions.
-
-As with all other grading components, students are encouraged to repeatedly
-revise their source code and technical writing in an attempt to get their GitHub
-Action build to pass correctly.
-
-  Students are encouraged to ask the course instructor or a student technical
-  leader to use the GitHub issue tracker to provide feedback on how well their
-  work demonstrates mastery of the assignment's technical knowledge and skills.
 
 ### Practical Assignments
 
@@ -113,7 +104,7 @@ submitted deliverables and to ensure that a student can ultimately master all of
 the technical knowledge and skills developed as part of that assignment's
 exploration of a specific topic in the field of discrete structures.
 
-## Project Feedback
+## Assignment Feedback
 
 Students who wish to receive feedback on their work for an assignment should
 first open an issue on the issue tracker for their assignment's GitHub
