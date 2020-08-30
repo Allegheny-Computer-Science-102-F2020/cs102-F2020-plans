@@ -45,42 +45,49 @@ meets the standards for technical work in the fields of software engineering and
 discrete structures. Instead of receiving a numerical or letter grade for this
 assignment, your grade will have the following components:
 
-- **Percentage of Correct GatorGrader Checks**: Students are encouraged to
-  repeatedly try to implement a Python program that passes all of GatorGrader's
-  checks by, for instance, ensuring that their program produces the correct
-  output and has all of the required characteristics. Students should also
-  repeatedly revise their technical writing to ensure that it also passes all of
-  GatorGrader's checks about, for instance, the length of its content and its
-  appropriate use of the Markdown language for technical writing.
+- **Percentage of Correct GatorGrader Checks Ranging Between 0 and 100**:
+  Students are invited to repeatedly try to implement a Python program that
+  passes all of GatorGrader's checks by, for instance, ensuring that their
+  program produces the correct output and has all of the required
+  characteristics. Students should also repeatedly revise their technical
+  writing to ensure that it also passes all of GatorGrader's checks about, for
+  instance, the length of its content and its appropriate use of the Markdown
+  language for technical writing. For this component of a laboratory
+  assignment's grade, your work will receive a percentage, ranging from 0 to
+  100, that corresponds to the percentage of GatorGrader checks that
+  automatically pass inside of a GitHub Actions build.
 
-- **GitHub Actions Build Status**: Since additional checks on the source code
-  and/or technical writing may be encoded in GitHub Action workflows and,
-  moreover, all of the GatorGrader checks are also run in GitHub Actions,
-  students will receive a checkmark grade if their last before-the-deadline
-  build passes and a green &#x2714; appears in their GitHub commit log instead
-  of a red &#x2717;. As with the previous grading component, students are
-  encouraged to repeatedly revise their source code and technical writing in an
-  attempt to get their GitHub Action build to pass correctly.
+- **GitHub Actions Build Status of Either ✔  or ❌**: Since additional checks on
+  the source code and/or technical writing may be encoded in GitHub Action
+  workflows and, moreover, all of the GatorGrader checks are also run in GitHub
+  Actions, your work will receive a checkmark grade if the last
+  before-the-deadline build passes and a ✔  appears in their GitHub commit log
+  instead of an ❌. The build status reported by GitHub Actions will only be a
+  checkmark if the source code and technical writing in the GitHub repository
+  passes all of the GatorGrader checks. .
 
-- **Mastery of Technical Writing**: Students will also receive a checkmark grade
-  when the responses to the technical writing questions presented in the
-  `writing/reflection.md` reveal a mastery of both writing skills and technical
-  knowledge. To receive a checkmark grade, the submitted writing should have
-  correct spelling, grammar, and punctuation in addition to following the rules
-  of Markdown and providing technically accurate answers. Students are
-  encouraged to ask the course instructor or a student technical leader to use
-  the GitHub issue tracker to provide feedback on their mastery of technical
-  writing skills.
+- **Technical Writing Mastery of Either ✔  or ❌**: Students will also receive a
+  checkmark grade when the responses to the technical writing questions
+  presented in the `writing/reflection.md` reveal a mastery of technical writing
+  skills. To receive a checkmark grade, the submitted writing should have
+  correct spelling, grammar, punctuation, and formatting in addition to
+  following the rules of Markdown language. Your work will receive a checkmark
+  grade for this component if the build report from GitHub Actions reveals that
+  there are no detected mistakes in the technical writing.
 
-- **Mastery of Technical Knowledge and Skills**: Students will also receive a
-  checkmark grade when their GitHub repository reveals that they have mastered
-  all of the technical knowledge and skills developed during the completion of
-  this project. As a part of this grade, the instructor will assess aspects of
-  the project including, but not limited to, the use of effective source code
-  comments and Git commit messages. Students are encouraged to ask the course
-  instructor or a student technical leader to use the GitHub issue tracker to
-  provide feedback on how well their work demonstrates mastery of the
-  assignment's technical knowledge and skills.
+- **Overall Technical Knowledge Mastery of Either ✔  or ❌**: Students will also
+  receive a checkmark grade when their GitHub repository reveals that they have
+  mastered all of the technical knowledge and skills developed during the
+  completion of the laboratory assignment. As a part of this grade, the
+  instructor will assess aspects of the project including, but not limited to,
+  the use of effective Python source code comments and Git commit messages.
+  Students are encouraged to ask the course instructor or a student technical
+  leader to use the GitHub issue tracker to provide feedback on how well their
+  work demonstrates mastery of the assignment's technical knowledge and skills.
+
+As with all other grading components, students are encouraged to repeatedly
+revise their source code and technical writing in an attempt to get their GitHub
+Action build to pass correctly. 
 
 ### Practical Assignments
 
@@ -95,3 +102,16 @@ project in GitHub so as to facilitate an effective conversation about the
 submitted deliverables and to ensure that a student can ultimately master all of
 the technical knowledge and skills developed as part of that assignment's
 exploration of a specific topic in the field of discrete structures.
+
+## Project Feedback
+
+Students who wish to receive feedback on their work for an assignment should
+first open an issue on the issue tracker for their assignment's GitHub
+repository, giving an appropriate title and description for the type of feedback
+that you would like the course instructor to provide. After creating this issue,
+you will see that GitHub has created a unique web site that references it. To
+alert the course instructor to the fact that the issue was created and that you
+want feedback on your work, please send it to him by a Slack direct message at
+least 24 hours in advance of the project's due date. After the instructor
+responds to the issue, please resolve all of the stated concerns and participate
+in the discussion until the issue is closed.
