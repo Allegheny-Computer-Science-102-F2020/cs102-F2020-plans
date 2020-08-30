@@ -60,10 +60,11 @@ this assignment, your grade will have the following components:
   the Python source code and/or technical writing are encoded in GitHub Action
   workflows and, moreover, all of the GatorGrader checks are also run in GitHub
   Actions, your work will receive a checkmark grade if the last
-  before-the-deadline build passes and a ✔  appears in their GitHub commit log
-  instead of an ❌. The build status reported by GitHub Actions will only be a ✔
-  if the source code and technical writing in the GitHub repository passes all
-  of both the GatorGrader checks and the additional checks.
+  before-the-deadline build in GitHub Actions passes and a ✔  appears in their
+  GitHub commit log instead of an ❌. The build status reported by GitHub
+  Actions will only be a ✔ if the source code and technical writing in the
+  GitHub repository passes all of both the GatorGrader checks and the additional
+  checks.
 
 - **Technical Writing Mastery of Either ✔  or ❌**: Students will also receive a
   ✔ grade when the responses to the technical writing questions presented in the
@@ -82,17 +83,23 @@ this assignment, your grade will have the following components:
   the use of effective Python source code comments, correct Git commit messages,
   and accurate responses to the technical writing questions.
 
-### Practical Assignments
+### Practical Assignments and Technical Challenges
 
-### Technical Challenges
+Again taking inspiration from the principles of [specification-based
+grading](http://rtalbert.org/return-to-specs-grading-calculus/), the grade that
+a student receives on either a practical assignment or a technical challenge
+will be based on whether or not it meets the standards for technical work in the
+fields of software engineering and discrete structures as evidenced by:
+
+- **GitHub Actions Build Status of Either ✔  or ❌**: Your work will receive a ✔
+  if the last before-the-deadline build in GitHub Actions passes and a ✔ appears
+    in their GitHub commit log instead of an ❌. The build status reported by
+    GitHub Actions will only be a ✔ if the Python source code and technical
+    writing in the GitHub repository passes all of both the GatorGrader checks
+    and any additional checks.
 
 ## Calculating Your Grade
 
-### Laboratory Assignments
-
-### Practical Assignments
-
-### Technical Challenges
 
 ## Assessment Delivery
 
