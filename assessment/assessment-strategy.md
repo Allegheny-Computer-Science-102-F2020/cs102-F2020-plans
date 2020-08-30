@@ -40,11 +40,12 @@ environment.
 ### Laboratory Assignments
 
 Taking inspiration from the principles of [specification-based
-grading](http://rtalbert.org/return-to-specs-grading-calculus/), the grade that
-a student receives on a laboratory assignment will be based on whether or not it
-meets the standards for technical work in the fields of software engineering and
-discrete structures. Instead of receiving a single numerical or letter grade for
-this assignment, your grade will have the following components:
+grading](https://www.amazon.com/Specifications-Grading-Restoring-Motivating-Students/dp/1620362422),
+the grade that a student receives on a laboratory assignment will be based on
+whether or not it meets the standards for technical work in the fields of
+software engineering and discrete structures. Instead of receiving a single
+numerical or letter grade for this assignment, your grade will have the
+following components:
 
 - **Percentage of Correct GatorGrader Checks Ranging Between 0 and 100**: Your
   submitted Python program must pass all of GatorGrader's checks by, for
@@ -63,7 +64,7 @@ this assignment, your grade will have the following components:
   before-the-deadline build in GitHub Actions passes and a ✔  appears in their
   GitHub commit log instead of an ❌. The build status reported by GitHub
   Actions will only be a ✔ if the source code and technical writing in the
-  GitHub repository passes all of both the GatorGrader checks and the additional
+  GitHub repository pass all of both the GatorGrader checks and the additional
   checks.
 
 - **Technical Writing Mastery of Either ✔  or ❌**: Students will also receive a
@@ -86,20 +87,18 @@ this assignment, your grade will have the following components:
 ### Practical Assignments and Technical Challenges
 
 Again taking inspiration from the principles of [specification-based
-grading](http://rtalbert.org/return-to-specs-grading-calculus/), the grade that
-a student receives on either a practical assignment or a technical challenge
-will be based on whether or not it meets the standards for technical work in the
-fields of software engineering and discrete structures as evidenced by:
+grading](https://www.amazon.com/Specifications-Grading-Restoring-Motivating-Students/dp/1620362422),
+the grade that a student receives on either a practical assignment or a
+technical challenge will be based on whether or not it meets the standards for
+technical work in the fields of software engineering and discrete structures as
+evidenced by:
 
 - **GitHub Actions Build Status of Either ✔  or ❌**: Your work will receive a ✔
   if the last before-the-deadline build in GitHub Actions passes and a ✔ appears
     in their GitHub commit log instead of an ❌. The build status reported by
     GitHub Actions will only be a ✔ if the Python source code and technical
-    writing in the GitHub repository passes all of both the GatorGrader checks
-    and any additional checks.
-
-## Calculating Your Grade
-
+    writing in the GitHub repository pass all of both the GatorGrader checks and
+    any additional checks.
 
 ## Assessment Delivery
 
@@ -123,3 +122,5 @@ want feedback on your work, please send it to him by a Slack direct message at
 least 24 hours in advance of the project's due date. After the instructor
 responds to the issue, please resolve all of the stated concerns and participate
 in the discussion until the issue is closed.
+
+## Calculating Your Grade
