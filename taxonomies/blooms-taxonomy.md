@@ -43,8 +43,16 @@ Creating:
     new pattern or proposing alternative solutions. (design, construct, improve,
     adapt, maximize, solve)
 
-## Connection
+## Connections
 
 - The [technical challenges](../assignments/technical-challenge.md) invite
   learners to complete tasks primarily at the **remembering** and
   **understanding** levels of Bloom's taxonomy.
+
+- The [practical assignments](../assignments/practical-assignment.md) invite
+  learners to complete tasks primarily at the **understanding** and **applying**
+  levels of Bloom's taxonomy.
+
+- The [laboratory assignments](../assignments/laboratory-assignment.md) invite
+  learners to complete tasks primarily at the **applying**, **analyzing**, and
+  **evaluating** levels of Bloom's taxonomy.
