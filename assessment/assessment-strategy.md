@@ -13,6 +13,7 @@
   + [Laboratory Assignments](#laboratory-assignments-1)
   + [Practical Assignments](#practical-assignments)
   + [Technical Challenges](#technical-challenges)
+* [Questions About Your Grade](#questions-about-your-grade)
 
 ## Assignment Types
 
@@ -136,7 +137,7 @@ in the discussion until the issue is closed.
 ## Calculating Your Grade
 
 The instructor will convert the specification-based grades that you received to
-a numerical grade for each type of assignment. The following example best
+a numerical grade for each type of assignment. The following example succinctly
 illustrates the calculation of your grade under the simplifying assumption that
 there are three of each type of assignment with the following grades:
 
@@ -201,3 +202,13 @@ Laboratory Assignment Grade:
   (1+1+1)/3 * 100
         100.00
   ```
+
+## Questions About Your Grade
+
+Before asking the course instructor a question about the calculation of your
+assignment grades, please make sure that you have already consulted the GitHub
+repository for each assignment to see your grades and then calculated your grade
+using this approach outlined in this document. The course instructor will use
+your calculations to support the discussion of any questions that you have about
+how to calculate your grade for the technical challenges, laboratory
+assignments, and practical assignments.
