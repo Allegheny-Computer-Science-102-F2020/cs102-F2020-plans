@@ -45,8 +45,9 @@ limited number of laptops are available for use during class and lab sessions.
 
 ## Instructor Correspondence
 
-- [Email on 12-08-11: Introduction](emails/introduction.md)
-- [Email on 27-08-19: Laptop Survey](emails/laptopsurvey.md)
+- [Email on 08-12-2020: Introduction](emails/introduction.md)
+- [Email on 08-27-2020: Laptop Survey](emails/laptopsurvey.md)
+- [Email on 08-31-2020: First Class Meeting](emails/firstclassmeeting.md)
 
 ## Course Schedules
 
