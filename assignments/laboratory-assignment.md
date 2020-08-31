@@ -8,12 +8,12 @@ following weeks of the semester, laboratory assignments have the following
 goals:
 
 - Equip a learner to solve new problems in the field of discrete structures by
-  applying in a new way your knowledge of the facts, techniques, and rules of
+  applying in a novel way your knowledge of the facts, techniques, and rules of
   discrete mathematics and Python programming.
 
 - Afford a learner the opportunity to compare and contrast implementations of
   discrete structures in Python, enabling you to find evidence to support
-  appropriate generalizations and simplifications.
+  both the generalization and simplification of a structure.
 
 - Enable a learner to develop the skills needed conduct experiments and use
   experimental results to present and defend judgements about the efficiency,
