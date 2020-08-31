@@ -4,6 +4,7 @@
 
 * [Introduction](#introduction)
 * [Course Description](#course-description)
+* [Course Textbooks](#course-textbooks)
 * [Instructor Correspondence](#instructor-correspondence)
 * [Course Schedules](#course-schedules)
 * [Learning Objectives](#learning-objectives)
