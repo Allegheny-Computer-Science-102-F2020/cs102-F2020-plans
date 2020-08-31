@@ -72,10 +72,23 @@ You can learn more about Python by visiting these web sites:
 
 ## Python Packages
 
+The Python programming language features a wide variety of popular and powerful
+packages that enable you to more effectively write efficient and correct
+programs. Although we will only explore a limited number of Python packages this
+semester, we will use the Poetry packaging and dependency management tool
+support the installation of the packages that you will use to complete the
+course assignments. We will also use the Pytest testing framework to write and
+run test cases that help us to know whether or not our Python program is
+correct. Finally, we will use the Streamlit system to create web-based
+interfaces for our Python applications that explore the field of discrete
+structures. Of course, there are many other Python packages that you can explore
+through the Python Package Index. You can learn more about these Python packages
+by visiting these web sites:
 
   - [Poetry](https://python-poetry.org/)
   - [Pytest](https://docs.pytest.org/en/stable/)
   - [Streamlit](https://www.streamlit.io/)
+  - [Python Package Index](https://pypi.org/)
 
 
 ## Markdown
