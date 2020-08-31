@@ -9,10 +9,11 @@ free download in English and Spanish.
 
 ## Overview
 
-Remembering:
+**Remembering**:
 
-  Exhibit memory of previously learned material by recalling facts, terms,
-  basic concepts, and answers. (recognize, list, describe, name, find)
+  - **Definition**: Exhibit memory of previously learned material by recalling
+    facts, terms, basic concepts, and answers.
+  - **Keywords**: recognize, list, describe, name, find
 
 Understanding:
 
