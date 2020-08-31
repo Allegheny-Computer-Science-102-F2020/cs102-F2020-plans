@@ -13,8 +13,8 @@ in-person classroom session, practical assignments have the following goals:
   applying &mdash; in a new way &mdash; your knowledge of the facts, techniques,
   and rules of discrete mathematics and Python programming.
 
-Building on the Python functions in a textbook, practical assignments invite you
-to complete tasks like the following:
+Building on the Python functions in the textbooks, practical assignments invite
+you to complete tasks like the following:
 
 - Use a text editor and a terminal window to design, implement, and use a new
   Python function, recording its output when provided with different inputs and
