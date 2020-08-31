@@ -28,15 +28,16 @@ assignments invite you to complete tasks like the following:
 
 - After using a text editor and a terminal window to refactor the implementation
   of a Python function to ensure that it strikes the right balance between
-  understandability, generalizability, and specialization, justify your
-  decisions in technical writing.
+  understandability, generalizability, and specialization, justify and
+  reflectively examine your decisions in technical writing.
 
 - Use a text editor and a terminal window to design, implement, test, and use an
   experimentation framework to run experiments to evaluate the Python function.
-  Using the data collected from experiments, evaluate the implementation of the
-  Python function as you consider, for instance, its efficiency and correctness.
+  Using the data collected from the experiments, evaluate the implementation of
+  the Python function as you consider, for instance, its efficiency and
+  correctness.
 
 - After using a text editor and a terminal window to design, implement, test,
   and use an integrated Python program that features user documentation, a test
-  suite, and a complete implementation with either a command-line or web-based
-  interface, critique the quality of the program based on pre-defined criteria.
+  suite, and either a command-line or web-based interface, critique the quality
+  of the program based on pre-defined criteria.
