@@ -175,6 +175,4 @@ basis. If you have general questions about the course you can ask them in the
 `#general` channel. If you have specific questions that you think are best
 discussed in a private manner, then please send them to me as a direct message.
 Unless there is an absolute need for you to do so, please refrain from sending
-me emails and instead focus on communicating with me through Slack. Finally,
-don't forget to be on the look out for the Google Meet link that I will send you
-on Monday morning! You can use this to join our first class on Monday.
+me emails and instead focus on communicating with me through Slack.
