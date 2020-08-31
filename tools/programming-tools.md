@@ -90,8 +90,17 @@ by visiting these web sites:
   - [Streamlit](https://www.streamlit.io/)
   - [Python Package Index](https://pypi.org/)
 
-
 ## Markdown
+
+In addition to implementing and testing programs in Python, you will write
+technical documentation using Markdown, a formatting language that enables you
+to use rules to control the display of plain text in your GitHub repository. For
+instance, Markdown has features that enable it to display source code, itemized
+lists, and graphics. Importantly, you can edit Markdown files inside of your
+VSCode text editor and store them in your GitHub repository. Students will write
+in Markdown as part of the laboratory and practical assignments and the course
+examinations. You can learn more about the Markdown language for technical
+writing by visiting these web sites:
 
   - [Markdown Guide](https://www.markdownguide.org/)
   - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
