@@ -35,6 +35,13 @@ presentations. Students are invited to use their own [departmentally approved
 laptop](https://www.cs.allegheny.edu/resources/laptops/) in this course; a
 limited number of laptops are available for use during class and lab sessions.
 
+## Course Textbooks
+
+- Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math
+  Featuring Python by Allan M. Stavely, [Available on Amazon](https://is.gd/l5zfpQ)
+- Doing Math with Python: Use Programming to Explore Algebra, Statistics,
+  Calculus, and More! By Amit Saha, [Available on Amazon](https://is.gd/IQx79D)
+
 ## Instructor Correspondence
 
 - [Email on 12-08-11: Introduction](emails/introduction.md)
