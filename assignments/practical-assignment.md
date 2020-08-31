@@ -4,12 +4,12 @@
 - **Due**: At the start of the remote practical session one week after it was assigned
 
 Building on material in the textbooks and the content covered during that day's
-in-person classroom session, technical challenges have the following goals:
+in-person classroom session, practical assignments have the following goals:
 
-- Allow you to demonstrate an understanding of facts and ideas by translating,
+- Allow a learner to demonstrate an understanding of facts and ideas by translating,
   interpreting, and stating the main technical ideas presented in the textbooks.
 
-- Equip you to solve new problems in the field of discrete structures by
+- Equip a learner to solve new problems in the field of discrete structures by
   applying in a new way your knowledge of the facts, techniques, and rules of
   discrete mathematics and Python programming.
 
