@@ -45,5 +45,6 @@ Creating:
 
 ## Connection
 
-- The technical challenges invite learners to complete tasks primarily at the
-  **remembering** and **understanding** levels of Bloom's taxonomy.
+- The [technical challenges](../assignments/technical-challenge.md) invite
+  learners to complete tasks primarily at the **remembering** and
+  **understanding** levels of Bloom's taxonomy.
