@@ -2,6 +2,13 @@
 
 ## Table of Contents
 
+## GitHub
+
+  - [GitHub](https://github.com/)
+  - [Git Version Control Tool](https://git-scm.com/)
+  - [Pro Git Book](https://git-scm.com/book/en/v2)
+  - [GitHub Guides on YouTube](https://www.youtube.com/githubguides)
+
 ## Visual Studio Code
 
 Since the [2019 Stack Overflow Technology
@@ -58,12 +65,6 @@ You can learn more about Python by visiting these web sites:
   - [Pytest](https://docs.pytest.org/en/stable/)
   - [Streamlit](https://www.streamlit.io/)
 
-## GitHub
-
-  - [Git Version Control Tool](https://git-scm.com/)
-  - [Pro Git Book](https://git-scm.com/book/en/v2)
-  - [GitHub](https://github.com/)
-  - [GitHub Guides on YouTube](https://www.youtube.com/githubguides)
 
 ## Markdown
 
