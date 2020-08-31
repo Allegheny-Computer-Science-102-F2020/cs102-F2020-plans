@@ -9,7 +9,7 @@ free download in English and Spanish.
 
 ## Overview
 
-**Remembering**:
+- **Remembering**:
 
   - **Definition**: Exhibit memory of previously learned material by recalling
     facts, terms, basic concepts, and answers.
