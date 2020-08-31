@@ -2,6 +2,13 @@
 
 ## Table of Contents
 
+* [GitHub](#github)
+* [Visual Studio Code](#visual-studio-code)
+* [Docker](#docker)
+* [Python](#python)
+* [Python Packages](#python-packages)
+* [Markdown](#markdown)
+
 ## GitHub
 
 Throughout this semester, the course instructor will use GitHub to deliver to
