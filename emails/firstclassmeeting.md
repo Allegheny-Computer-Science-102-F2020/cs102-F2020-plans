@@ -24,6 +24,9 @@ Google Meet. For today's class, please also make sure that:
 
 - You are prepared to start working on technical tasks after class finishes
 
+- You are prepared to login to our Slack workspace and start a discussion and
+  ask questions about the technical tasks that you are going to start today
+
 As I will explain today in class, we are not going to review the syllabus today.
 Instead, I am going to introduce the content in our course planning repository
 and overview the technologies that we will use to investigate discrete
