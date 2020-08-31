@@ -49,3 +49,24 @@ You can learn more about Python by visiting these web sites:
   - [Python](https://www.python.org/)
   - [Pyenv](https://github.com/pyenv/pyenv)
   - [Pyenv-Win](https://github.com/pyenv-win/pyenv-win)
+
+## Python Packages
+
+
+  - [Poetry](https://python-poetry.org/)
+  - [Pytest](https://docs.pytest.org/en/stable/)
+  - [Streamlit](https://www.streamlit.io/)
+
+## GitHub
+
+  - [Git Version Control Tool](https://git-scm.com/)
+  - [Pro Git Book](https://git-scm.com/book/en/v2)
+  - [GitHub](https://github.com/)
+  - [GitHub Guides on YouTube](https://www.youtube.com/githubguides)
+
+## Markdown
+
+  - [Markdown Guide](https://www.markdownguide.org/)
+  - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
