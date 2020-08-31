@@ -105,4 +105,3 @@ writing by visiting these web sites:
   - [Markdown Guide](https://www.markdownguide.org/)
   - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
