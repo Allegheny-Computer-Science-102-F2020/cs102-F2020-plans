@@ -10,8 +10,8 @@ in-person classroom session, practical assignments have the following goals:
   interpreting, and stating the main technical ideas presented in the textbooks.
 
 - Equip a learner to solve new problems in the field of discrete structures by
-  applying in a new way your knowledge of the facts, techniques, and rules of
-  discrete mathematics and Python programming.
+  applying &mdash; in a new way &mdash; your knowledge of the facts, techniques,
+  and rules of discrete mathematics and Python programming.
 
 Building on the Python functions in a textbook, practical assignments invite you
 to complete tasks like the following:
