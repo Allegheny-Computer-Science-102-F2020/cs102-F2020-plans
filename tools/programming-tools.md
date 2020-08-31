@@ -16,9 +16,9 @@ you can visit the following web sites:
 
   - [GitHub](https://github.com/)
   - [GitHub Classroom](https://classroom.github.com/)
+  - [GitHub Guides on YouTube](https://www.youtube.com/githubguides)
   - [Git Version Control Tool](https://git-scm.com/)
   - [Pro Git Book](https://git-scm.com/book/en/v2)
-  - [GitHub Guides on YouTube](https://www.youtube.com/githubguides)
 
 ## Visual Studio Code
 
