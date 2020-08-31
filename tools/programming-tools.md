@@ -2,6 +2,24 @@
 
 ## Table of Contents
 
+## Visual Studio Code
+
+Since the [2019 Stack Overflow Technology
+Survey](https://insights.stackoverflow.com/survey/2019#technology) reports that
+Visual Studio Code (or VSCode) is the most popular development environment, you
+will exclusively use it to complete Python programming projects in the field of
+discrete structures. In addition to providing a wide variety of program
+analysis, debugging, linting, and testing tools, VSCode supports live share
+programming where two programmers can work together in the same development
+environment! VSCode also features an extremely popular and powerful Python
+programming extensions that will make your assignments significantly easier.
+
+  - [VSCode Code Editor](https://code.visualstudio.com/)
+  - [VSCode Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  - [VSCode Live Share Overview](https://visualstudio.microsoft.com/services/live-share/)
+  - [VSCode Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+  - [VSCode Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+
 ## Docker
 
 Since a Docker container provides a wide variety of programming tools that
