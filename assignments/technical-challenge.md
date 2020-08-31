@@ -19,9 +19,9 @@ Technical challenges invite you to complete tasks like the following:
   inputs and explaining why it is implemented in that fashion.
 
 - Use a text editor and a terminal window to modify the provided implementation
-  of a Python function from a textbook, explaining your modification's impact on
-  the original function and the output of the modified function.
+  of a Python function from a textbook, explaining both your modification's
+  impact on the original function and the output of the modified function.
 
 - Use a text editor and a terminal window to combine multiple Python functions
-  from one of the textbooks into a unified Python function, explaining how you
+  from the textbooks into a unified Python function, explaining both how you
   combined the functions and the output of the combined function.
