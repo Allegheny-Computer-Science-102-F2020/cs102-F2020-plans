@@ -60,7 +60,7 @@ sites:
   - [Docker Desktop](https://www.docker.com/products/docker-desktop)
   - [Docker Desktop Overview](https://docs.docker.com/desktop/)
   - [Install Docker Desktop on Mac](https://docs.docker.com/docker-for-mac/install/)
-  - [Install Docker Desktop on Mac](https://docs.docker.com/docker-for-mac/install/)
+  - [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
 
 ## Python
 
