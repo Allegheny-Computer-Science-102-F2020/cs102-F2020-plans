@@ -4,7 +4,18 @@
 
 ## GitHub
 
+Throughout this semester, the course instructor will use GitHub to deliver to
+you all of the starting source code and documentation for the technical
+challenges, practical assignments, and laboratory assignments. In addition to
+using GitHub to submit all of your assignments to the course instructor, you can
+use GitHub to engage with the instructor and the student technical leaders to
+ask questions about your work. The GitHub repositories that you create for your
+assignments will also serve as an archive of the material that you can review
+for the quizzes and examinations that you will take. To learn more about GitHub,
+you can visit the following web sites:
+
   - [GitHub](https://github.com/)
+  - [GitHub Classroom](https://classroom.github.com/)
   - [Git Version Control Tool](https://git-scm.com/)
   - [Pro Git Book](https://git-scm.com/book/en/v2)
   - [GitHub Guides on YouTube](https://www.youtube.com/githubguides)
@@ -20,7 +31,8 @@ variety of program analysis, debugging, linting, and testing tools, VSCode
 supports live share programming where two programmers can work together in the
 same development environment! VSCode also features an extremely popular and
 powerful Python programming extensions that will make your assignments
-significantly easier.
+significantly easier. To learn more about VSCode, you can visit the following
+web sites:
 
   - [VSCode Code Editor](https://code.visualstudio.com/)
   - [VSCode Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
