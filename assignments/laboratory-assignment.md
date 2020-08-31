@@ -33,5 +33,10 @@ assignments invite you to complete tasks like the following:
 
 - Use a text editor and a terminal window to design, implement, test, and use an
   experimentation framework to run experiments to evaluate the Python function.
-  Using the data collected from experiments, critique the implementation of the
+  Using the data collected from experiments, evaluate the implementation of the
   Python function as you consider, for instance, its efficiency and correctness.
+
+- After using a text editor and a terminal window to design, implement, test,
+  and use an integrated Python program that features user documentation, a test
+  suite, and a complete implementation with either a command-line or web-based
+  interface, critique the quality of the program based on pre-defined criteria.
