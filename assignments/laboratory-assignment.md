@@ -18,3 +18,20 @@ goals:
 - Enable a learner to develop the skills needed conduct experiments and use
   experimental results to present and defend judgements about the efficiency,
   effectiveness, and correctness of discrete structures implemented in Python.
+
+Using the Python functions in a textbook as a starting point, laboratory
+assignments invite you to complete tasks like the following:
+
+- Use a text editor and a terminal window to design, implement, test, and use a
+  new Python function, recording its output when provided with different inputs
+  and explaining why you decided to implement it in the chosen fashion.
+
+- After using a text editor and a terminal window to refactor the implementation
+  of a Python function to ensure that it strikes the right balance between
+  understandability, generalizability, and specialization, justify your
+  decisions in technical writing.
+
+- Use a text editor and a terminal window to design, implement, test, and use an
+  experimentation framework to run experiments to evaluate the Python function.
+  Using the data collected from experiments, critique the implementation of the
+  Python function as you consider, for instance, its efficiency and correctness.
