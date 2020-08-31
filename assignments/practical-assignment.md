@@ -13,12 +13,12 @@ in-person classroom session, technical challenges have the following goals:
   applying in a new way your knowledge of the facts, techniques, and rules of
   discrete mathematics and Python programming.
 
-Building on the Python functions in a textbook, practical Assignments invite you
+Building on the Python functions in a textbook, practical assignments invite you
 to complete tasks like the following:
 
 - Use a text editor and a terminal window to design, implement, and use a new
   Python function, recording its output when provided with different inputs and
-  explaining why you decided to implement it implemented in the chosen fashion.
+  explaining why you decided to implement it in the chosen fashion.
 
 - Use a text editor and a terminal window to write and execute test cases for a
   new Python function, recording its output when provided with different inputs
@@ -28,4 +28,3 @@ to complete tasks like the following:
   new Python function, recording the pass or fail status of each test as it
   provides the function under test with different inputs, explaining why you
   decided to implement it implemented in the chosen fashion
-
