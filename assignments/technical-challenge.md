@@ -16,12 +16,12 @@ Technical challenges invite you to complete tasks like the following:
 
 - Use a text editor and a terminal window to implement one of the Python
   functions in a textbook, recording its output when provided with different
-  inputs and explaining why it is implemented in that fashion
+  inputs and explaining why it is implemented in that fashion.
 
 - Use a text editor and a terminal window to modify the provided implementation
   of a Python function from a textbook, explaining your modification's impact on
-  the original function and the output of the modified function
+  the original function and the output of the modified function.
 
 - Use a text editor and a terminal window to combine multiple Python functions
   from one of the textbooks into a unified Python function, explaining how you
-  combined the functions and the output of the combined function
+  combined the functions and the output of the combined function.
