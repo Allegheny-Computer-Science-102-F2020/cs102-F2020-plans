@@ -63,6 +63,7 @@ limited number of laptops are available for use during class and lab sessions.
 - [Technical Challenge](assignments/technical-challenge.md)
 - [Practical Assignment](assignments/practical-assignment.md)
 - [Laboratory Assignment](assignments/laboratory-assignment.md)
+- [Bloom's Taxonomy for Activities](taxonomies/blooms-taxonomy.md)
 
 ## Assessment Strategy
 
