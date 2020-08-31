@@ -22,9 +22,9 @@ to complete tasks like the following:
 
 - Use a text editor and a terminal window to write and execute test cases for a
   new Python function, recording its output when provided with different inputs
-  and explaining why you decided to implement it in the chosen fashion
+  and explaining why you decided to implement it in the chosen fashion.
 
 - Use a text editor and a terminal window to write and execute test cases for a
   new Python function, recording the pass or fail status of each test as it
   provides the function under test with different inputs, explaining why you
-  decided to implement it implemented in the chosen fashion
+  decided to implement it implemented in the chosen fashion.
