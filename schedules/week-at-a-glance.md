@@ -125,7 +125,7 @@
   YouTube Live
 - Accept the practical assignment and follow each step of the assignment
 - Regularly ask the instructor questions about the practical assignment through
-  YouTube Live
+  the chat on YouTube Live
 - When the instructor stops live coding every three to five minutes, engage in
   the YouTube Live chat by asking questions and providing feedback to the
   instructor and the other students in the course
