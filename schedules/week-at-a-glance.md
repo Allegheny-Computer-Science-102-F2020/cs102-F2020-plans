@@ -25,6 +25,7 @@
   - Teach key facts and ideas to support weekly activities
   - Introduce the technical challenge due next week at this time
   - Conduct the Q&A session for the current laboratory and practical assignments
+  - Observe student demonstrations for the current laboratory and practical assignments
 
 #### Team A
 
@@ -64,6 +65,7 @@
   - Teach key facts and ideas to support weekly activities
   - Introduce the technical challenge due next week at this time
   - Conduct the Q&A session for the current laboratory and practical assignments
+  - Observe student demonstrations for the current laboratory and practical assignments
 
 #### Team A
 
