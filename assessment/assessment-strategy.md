@@ -130,8 +130,8 @@ submits your grade to a pull request in your repository for a laboratory
 assignment, then you should ask questions about your grade in that pull request,
 bearing in mind the need to @-mention the course instructor in the body of your
 comment. Students can continue to discuss the graded assignment with the course
-instructor until they understand all of the technical topics that were the
-focus on the particular assignment.
+instructor until they understand all the technical topics that were the
+focus of the particular assignment.
 
 ## Advance Feedback on an Assignment
 
