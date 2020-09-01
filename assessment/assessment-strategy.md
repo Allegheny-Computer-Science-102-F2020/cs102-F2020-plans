@@ -121,6 +121,18 @@ ensure that a student can ultimately master all of the technical knowledge and
 skills developed as part of that assignment's exploration of a specific topic in
 the field of discrete structures.
 
+## Retrospective Discussion of a Graded Assignment
+
+Students who wish to receive feedback on their work for any graded course
+assignment should leave question in the same region of Github where the course
+instructor submitted the assignment's grade. For example, if the instructor
+submits your grade to a pull request in your repository for a laboratory
+assignment, then you should ask questions about your grade in that pull request,
+bearing in mind the need to @-mention the course instructor in the body of your
+comment. Students can continue to discuss the graded assignment with the course
+instructor until they understand all of the technical topics that were the
+focus on the particular assignment.
+
 ## Advance Feedback on an Assignment
 
 Students who wish to receive feedback on their work for any course assignment
