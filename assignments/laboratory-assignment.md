@@ -13,7 +13,7 @@ goals:
 
 - Afford a learner the opportunity to compare and contrast implementations of
   discrete structures in Python, enabling you to find evidence to support
-  both the generalization and simplification of a structure.
+  both the generalization and specialization of a structure.
 
 - Enable a learner to develop the skills needed conduct experiments and use
   experimental results to present and defend judgements about the efficiency,
