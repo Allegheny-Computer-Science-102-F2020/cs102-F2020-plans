@@ -9,11 +9,11 @@
       function's code that adhere to an industry-standard coding style.
     - Features a source code format that adheres to an industry-standard coding
       style.
-    - Has a high-coverage test suite, written with an industry-standard
-      framework, that effectively exercises at least the 80% of the statements
-      and branches in the function.
-    - Passes the test suite and furnishes a correct implementation of the
-      specification for the function.
+    - Has a high-coverage automated test suite, written with an
+      industry-standard framework, that effectively exercises at least the 80%
+      of the statements and branches in the function.
+    - Passes an automated test suite and furnishes a correct implementation of
+      the specification for the function.
     - Performs the specified operation in an efficient fashion, as determined
       through experiments that evaluate the function's performance.
     - Correctly uses assignment statements, iteration constructs, conditional
