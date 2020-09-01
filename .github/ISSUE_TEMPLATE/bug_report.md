@@ -45,4 +45,4 @@ technical leaders can work to assist you with your problems!
 course instructor are committed to your success. With that said, "success"
 involves you being intellectually challenged and facing and overcoming the
 struggles associated with learning more about discrete structure and Python
-programming. --->
+programming. -->
