@@ -86,7 +86,7 @@
 
 - Assessments and Feedback:
   - Administer the course wellness survey through Google Forms
-  - Administer the weekly technical quiz through Google Forms
+  - Administer the weekly technical assessment through Google Forms
 
 - Preparation for the Live Coding Session:
   - Release the GitHub classroom link for today's practical assignment
@@ -94,7 +94,7 @@
   - Publish the practical assignment sheet on the course web site
 
 - Live Coding Session through YouTube Live:
-  - Interactively review select answers to the weekly technical quiz
+  - Interactively review select answers to the weekly technical assessment
   - Briefly review the technical question, topics, and ideas for the week
   - Conduct a Live Coding session to implement key parts of the practical
     assignment
@@ -114,8 +114,10 @@
 #### Teams A and B
 
 - Submit the practical assignment from the previous week
-- Take the course wellness survey (two minutes) and the weekly technical quiz
-  (eight minutes)
+- Take the course wellness survey (two minutes) and the weekly technical
+  assessment (eight minutes)
+- Must complete both the wellness survey and the weekly technical assessment
+  before 5 pm on Friday
 - Join the live coding session through the provided YouTube Live link
 - Answer all of the interactive questions that the instructor poses through
   YouTube Live
