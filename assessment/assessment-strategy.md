@@ -121,7 +121,7 @@ ensure that a student can ultimately master all of the technical knowledge and
 skills developed as part of that assignment's exploration of a specific topic in
 the field of discrete structures.
 
-## Retrospective Discussion of a Graded Assignment
+## Discussion of a Graded Assignment
 
 Students who wish to receive feedback on their work for any graded course
 assignment should leave question in the same region of Github where the course
