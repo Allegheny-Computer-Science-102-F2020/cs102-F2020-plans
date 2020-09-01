@@ -6,8 +6,9 @@
 Building on material in the textbooks and the content covered during that day's
 in-person classroom session, technical challenges have the following goals:
 
-- Help a learner to demonstrate that you can remember learned material by recalling
-  facts, basic concepts, and answers to questions presented in the textbooks.
+- Help a learner to demonstrate that they can remember learned material by
+  recalling facts, basic concepts, and answers to questions presented in the
+  textbooks.
 
 - Allow a learner to demonstrate an understanding of facts and ideas by translating,
   interpreting, and stating the main technical ideas presented in the textbooks.
