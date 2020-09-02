@@ -32,10 +32,10 @@ assignments invite you to complete tasks like the following:
   reflectively examine your decisions in technical writing.
 
 - Use a text editor and a terminal window to design, implement, test, and use an
-  experimentation framework to run experiments to evaluate the Python function.
-  Using the data collected from the experiments, evaluate the implementation of
-  the Python function as you consider, for instance, its efficiency and
-  correctness.
+  experimentation framework to run experiments that evaluate the Python
+  function. Using the data collected from the experiments, evaluate the
+  implementation of the Python function as you consider, for instance, its
+  efficiency and correctness.
 
 - After using a text editor and a terminal window to design, implement, test,
   and use an integrated Python program that features user documentation, a test
