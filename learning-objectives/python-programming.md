@@ -52,7 +52,7 @@
   - A learner will use the GitHub version control system in the following
     fashion:
     - Clone a GitHub repository without error using either a terminal window or
-      a Git integration in a text editor like VS Code.
+      an extension for Git integration in a text editor like VS Code.
     - Write short and descriptive commit messages that explain the specific way
       in which a commit changes the source code and documentation in the GitHub
       repository.
