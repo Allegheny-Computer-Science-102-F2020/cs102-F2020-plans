@@ -4,7 +4,6 @@ about: Suggest an idea for a YouTube video to explain a technical concept
 title: ''
 labels: feature
 assignees: ''
-
 ---
 
 <!-- IMPORTANT: Please provide all of the requested information or the student
