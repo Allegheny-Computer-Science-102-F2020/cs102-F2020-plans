@@ -4,7 +4,6 @@ about: Report a bug and help us to improve the course
 title: ''
 labels: bug
 assignees: ''
-
 ---
 
 <!-- IMPORTANT: Please provide all of the requested information or the student
