@@ -21,12 +21,13 @@ explain which assignment you are currently working on, giving a link to the
 assignment sheet and excepting from the assignment sheet the part of text you
 are reading and currently stuck on.
 
-**Explain the steps you have taken So Far**
+**Explain the steps you have taken so Far**
 
 Steps to taken so far in an attempt to resolve the issue:
 
-- <!-- Replace this text --!>
-- <!-- Replace this text --!>
+- Replace this text
+- Replace this text
+- Add as many steps as is needed
 
 **Explain the expected behavior**
 
