@@ -223,5 +223,6 @@ either assignment grades or your overall grade, please make sure that you have
 already consulted the GitHub repository for each assignment to see your grades
 and then calculated your grade using this approach outlined in this document.
 The course instructor will use your calculations to support the discussion of
-any questions that you have about how to calculate your grade for the technical
-challenges, laboratory assignments, and practical assignments.
+any questions that you have about how to calculate either your grade for the
+technical challenges, laboratory assignments, and practical assignments or your
+overall grade for the course.
