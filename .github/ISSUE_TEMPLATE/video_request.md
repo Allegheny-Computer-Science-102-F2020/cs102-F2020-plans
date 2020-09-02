@@ -2,7 +2,7 @@
 name: Video request
 about: Suggest an idea for a YouTube video to explain a technical concept
 title: ''
-labels: feature
+labels: video
 assignees: ''
 ---
 
