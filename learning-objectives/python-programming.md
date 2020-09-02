@@ -42,11 +42,11 @@
       the failure and the fix did not compromise other functions in the program.
     - Use a text editor to participate in remote Python programming by
       effectively completing the following tasks:
-        - Creating and accepting an invitation to collaboratively implement a
-          Python program.
-        - Collaboratively sharing a terminal window with a remote developer.
-        - Running a Python program that starts a server and then sharing the
-          access to that server with a remote developer.
+      - Creating and accepting an invitation to collaboratively implement a
+        Python program.
+      - Collaboratively sharing a terminal window with a remote developer.
+      - Running a Python program that starts a server and then sharing the
+        access to that server with a remote developer.
 
 - **Using Version Control Systems**:
   - A learner will use the GitHub version control system in the following
