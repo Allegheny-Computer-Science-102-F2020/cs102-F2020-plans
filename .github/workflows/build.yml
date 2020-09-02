@@ -1,5 +1,6 @@
 # Basic workflow that:
-# --> lints the markdown in the README file and all other Markdown files
+# --> Lints the markdown in the README file and all other Markdown files
+# --> Confirms that specific files exist inside of the repository
 name: build
 
 # Controls when the action will run.
@@ -28,3 +29,14 @@ jobs:
       # for further configuration details
       - name: Run mdl
         uses: actionshub/markdownlint@master
+      # Run checks to ensure that files exist in repo
+      - name: Check file existence
+        id: check_files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "README.md,.github/ISSUE_TEMPLATE/assistance_request.md,.github/ISSUE_TEMPLATE/bug_report.md,.github/ISSUE_TEMPLATE/video_request.md"
+      # Produce debugging output if all of the files exist
+      - name: Debugging output concerning files existence
+        if: steps.check_files.outputs.files_exists == 'true'
+        # Only display debugging output if all of the files exist
+        run: echo All of the files files exist!
