@@ -219,9 +219,9 @@ Laboratory Assignment Grade:
 ## Questions About Your Grade
 
 Before asking the course instructor a question about the calculation of your
-assignment grades, please make sure that you have already consulted the GitHub
-repository for each assignment to see your grades and then calculated your grade
-using this approach outlined in this document. The course instructor will use
-your calculations to support the discussion of any questions that you have about
-how to calculate your grade for the technical challenges, laboratory
-assignments, and practical assignments.
+either assignment grades or your overall grade, please make sure that you have
+already consulted the GitHub repository for each assignment to see your grades
+and then calculated your grade using this approach outlined in this document.
+The course instructor will use your calculations to support the discussion of
+any questions that you have about how to calculate your grade for the technical
+challenges, laboratory assignments, and practical assignments.
