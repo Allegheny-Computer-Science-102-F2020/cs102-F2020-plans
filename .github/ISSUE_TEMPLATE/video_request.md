@@ -37,7 +37,7 @@ the video to ensure that the course instructor creates the best quality video
 before releasing it to YouTube.
 
 **Give the name of at least three members of the course who will review
-the video and give critical feedbac**
+the video and give critical feedback**
 
 <!-- Please replace all of the text below this bold header. -->
 
