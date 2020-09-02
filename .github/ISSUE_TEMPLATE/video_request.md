@@ -43,5 +43,6 @@ the video and give critical feedback**
 
 Who are at least three other members of the course who are also interested in
 having this video created? After ensuring that these individuals also want the
-course instructor and the student technical leaders, make sure to @-mention them
-in this issue so that they can review and give feedback on a draft of the video.
+course instructor and the student technical leaders to make this video, make
+sure to @-mention them in this issue so that they can review and give feedback
+on a draft of the video.
