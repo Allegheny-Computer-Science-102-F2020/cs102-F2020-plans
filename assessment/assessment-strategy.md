@@ -57,8 +57,8 @@ following components:
   submitted Python program must pass all of GatorGrader's checks by, for
   instance, ensuring that it produces the correct output and has all of the
   required characteristics. Your technical writing must pass all of
-  GatorGrader's checks about, for instance, the length of its content and its
-  use of the required Markdown language features for technical writing. For this
+  GatorGrader's checks about, for instance, the length of its output and its use
+  of the required Markdown language features for technical writing. For this
   component of a laboratory assignment's grade, your work will receive a
   percentage, ranging from 0 to 100, that corresponds to the percentage of
   GatorGrader checks that automatically pass inside of a GitHub Actions build.
