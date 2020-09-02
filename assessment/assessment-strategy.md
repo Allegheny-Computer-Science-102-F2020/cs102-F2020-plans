@@ -67,7 +67,7 @@ following components:
   the Python source code and/or technical writing are encoded in GitHub Action
   workflows and, moreover, all of the GatorGrader checks are also run in GitHub
   Actions, your work will receive a checkmark grade if the last
-  before-the-deadline build in GitHub Actions passes and a ✔  appears in their
+  before-the-deadline build in GitHub Actions passes and a ✔  appears in the
   GitHub commit log instead of an ❌. The build status reported by GitHub
   Actions will only be a ✔ if the source code and technical writing in the
   GitHub repository pass all of both the GatorGrader checks and the additional
@@ -83,7 +83,7 @@ following components:
   mistakes in the technical writing.
 
 - **Technical Knowledge and Skill Mastery of Either ✔  or ❌**: Students will
-  also receive a checkmark grade when their GitHub repository reveals that they
+  also receive a checkmark grade when the GitHub repository reveals that they
   have mastered all of the technical knowledge and skills developed during the
   completion of the laboratory assignment. As a part of this grade, the
   instructor will assess aspects of the project including, but not limited to,
@@ -101,10 +101,10 @@ evidenced by:
 
 - **GitHub Actions Build Status of Either ✔  or ❌**: Your work will receive a ✔
   if the last before-the-deadline build in GitHub Actions passes and a ✔ appears
-    in their GitHub commit log instead of an ❌. The build status reported by
-    GitHub Actions will only be a ✔ if the Python source code and technical
-    writing in the GitHub repository pass all of both the GatorGrader checks and
-    any additional checks.
+  in the GitHub commit log instead of an ❌. The build status reported by
+  GitHub Actions will only be a ✔ if the Python source code and technical
+  writing in the GitHub repository pass all of both the GatorGrader checks and
+  any additional checks.
 
 ## Advance Feedback on an Assignment
 
