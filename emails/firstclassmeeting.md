@@ -1,6 +1,6 @@
 Hello CMPSC 102 Students,
 
-## Introduction
+# Introduction
 
 As you will recall, I promised you that I would send you a link to join a Google
 Meet for our first CMPSC 102 course in Discrete Structures.
