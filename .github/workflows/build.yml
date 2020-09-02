@@ -35,8 +35,3 @@ jobs:
         uses: andstor/file-existence-action@v1
         with:
           files: "README.md,.github/ISSUE_TEMPLATE/assistance_request.md,.github/ISSUE_TEMPLATE/bug_report.md,.github/ISSUE_TEMPLATE/video_request.md"
-      # Produce debugging output if all of the files exist
-      - name: Debugging output concerning files existence
-        if: steps.check_files.outputs.files_exists == 'true'
-        # Only display debugging output if all of the files exist
-        run: echo All of the files files exist!
