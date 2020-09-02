@@ -80,4 +80,5 @@ limited number of laptops are available for use during class and lab sessions.
 ## Resources
 
 - [Programming Tools](tools/programming-tools.md)
+- [Notional Machine for Python Programs](http://teachtogether.tech/en/#s:models-notional)
 - [Slack Workspace](https://join.slack.com/t/cmpsc102fall2020/signup)
