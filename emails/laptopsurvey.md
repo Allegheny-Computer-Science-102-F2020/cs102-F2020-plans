@@ -1,6 +1,6 @@
 Hello CMPSC 102 Students,
 
-## Read This Email Carefully
+# Read This Email Carefully
 
 This email is very long and includes many details about the CMPSC 102 course.
 Instead of bombarding you with many short emails, I will continue to write you a
@@ -249,8 +249,8 @@ practical sessions to ensure that your system is correctly up and running!
 
   https://www.cs.allegheny.edu/canirundocker/
 
-  **IMPORTANT**: All students are required to run Docker Desktop on their laptop so
-  as to ensure that they can run the instructor-provided Docker containers.
+  **IMPORTANT**: All students are required to run Docker Desktop on their laptop
+  so as to ensure that they can run the instructor-provided Docker containers.
 
 - You will use version 3.8 of the Python programming language that you installed
   on your department approved laptop by using either the Pyenv or Pyenv-win
