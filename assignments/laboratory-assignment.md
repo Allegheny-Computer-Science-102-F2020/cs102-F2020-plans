@@ -12,7 +12,7 @@ goals:
   and rules of discrete mathematics and Python programming.
 
 - Afford a learner the opportunity to compare and contrast implementations of
-  discrete structures in Python, enabling you to find evidence to support
+  discrete structures in Python, enabling them to find evidence to support
   both the generalization and specialization of a structure.
 
 - Enable a learner to develop the skills needed conduct experiments and use
