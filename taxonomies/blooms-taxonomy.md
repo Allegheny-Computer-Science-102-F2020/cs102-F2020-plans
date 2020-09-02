@@ -30,23 +30,23 @@ free download in English and Spanish.
 
 - **Analyzing**:
 
-    - **Definition**: Examine and break information into parts by identifying
-      motives or causes; make inferences and find evidence to support
-      generalizations.
-    - **Keywords**: compare, contrast, simplify.
+  - **Definition**: Examine and break information into parts by identifying
+    motives or causes; make inferences and find evidence to support
+    generalizations.
+  - **Keywords**: compare, contrast, simplify.
 
 - **Evaluating**:
 
-    - **Definition**: Present and defend opinions by making judgments about
-      information, validity of ideas, or quality of work based on a set of
-      criteria.
-    - **Keywords**: check, choose, critique, prove, rate.
+  - **Definition**: Present and defend opinions by making judgments about
+    information, validity of ideas, or quality of work based on a set of
+    criteria.
+  - **Keywords**: check, choose, critique, prove, rate.
 
 - **Creating**:
 
-    - **Definition**: Compile information together in a different way by
-      combining elements in a new pattern or proposing alternative solutions.
-    - **Keywords**: design, construct, improve, adapt, maximize, solve.
+  - **Definition**: Compile information together in a different way by
+    combining elements in a new pattern or proposing alternative solutions.
+  - **Keywords**: design, construct, improve, adapt, maximize, solve.
 
 ## Connections
 
