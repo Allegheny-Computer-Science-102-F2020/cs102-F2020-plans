@@ -13,7 +13,7 @@ help you to resolve this issue. -->
 
 **Describe the bug**
 
-<!-- Please replace all of the text below this bold headers. -->
+<!-- Please replace all of the text below this bold header. -->
 
 Please provide a clear and concise description of what the bug is and where you
 found it. Is the bug in an assignment? Is it a bug in a video? Is there a bug in
