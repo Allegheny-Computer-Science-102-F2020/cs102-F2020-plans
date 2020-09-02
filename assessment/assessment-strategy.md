@@ -117,7 +117,7 @@ alert the course instructor to the fact that the issue was created and that you
 want feedback on your work, please send it to him by a Slack direct message at
 least 24 hours in advance of the project's due date. After the instructor
 responds to the issue, please resolve all of the stated concerns and participate
-in the discussion until the issue is closed.
+in the discussion until the issue is resolved and ultimately marked as closed.
 
 ## Assessment Delivery
 
