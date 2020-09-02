@@ -21,11 +21,11 @@ assignments will also serve as an archive of the material that you can review
 for the quizzes and examinations that you will take. To learn more about GitHub,
 you can visit the following web sites:
 
-  - [GitHub](https://github.com/)
-  - [GitHub Classroom](https://classroom.github.com/)
-  - [GitHub Guides on YouTube](https://www.youtube.com/githubguides)
-  - [Git Version Control Tool](https://git-scm.com/)
-  - [Pro Git Book](https://git-scm.com/book/en/v2)
+- [GitHub](https://github.com/)
+- [GitHub Classroom](https://classroom.github.com/)
+- [GitHub Guides on YouTube](https://www.youtube.com/githubguides)
+- [Git Version Control Tool](https://git-scm.com/)
+- [Pro Git Book](https://git-scm.com/book/en/v2)
 
 ## Visual Studio Code
 
@@ -41,11 +41,11 @@ powerful Python programming extensions that will make your assignments
 significantly easier. To learn more about VSCode, you can visit the following
 web sites:
 
-  - [VSCode Code Editor](https://code.visualstudio.com/)
-  - [VSCode Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-  - [VSCode Live Share Overview](https://visualstudio.microsoft.com/services/live-share/)
-  - [VSCode Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-  - [VSCode Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+- [VSCode Code Editor](https://code.visualstudio.com/)
+- [VSCode Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [VSCode Live Share Overview](https://visualstudio.microsoft.com/services/live-share/)
+- [VSCode Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [VSCode Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
 
 ## Docker
 
@@ -56,11 +56,11 @@ Desktop to run programs that the course instructor provides to you through a
 Docker container. To learn more about Docker, you can visit the following web
 sites:
 
-  - [Can I Run Docker?](https://www.cs.allegheny.edu/canirundocker/)
-  - [Docker Desktop](https://www.docker.com/products/docker-desktop)
-  - [Docker Desktop Overview](https://docs.docker.com/desktop/)
-  - [Install Docker Desktop on Mac](https://docs.docker.com/docker-for-mac/install/)
-  - [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
+- [Can I Run Docker?](https://www.cs.allegheny.edu/canirundocker/)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
+- [Docker Desktop Overview](https://docs.docker.com/desktop/)
+- [Install Docker Desktop on Mac](https://docs.docker.com/docker-for-mac/install/)
+- [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
 
 ## Python
 
@@ -73,9 +73,9 @@ invited to install version 3.8 of the Python programming language by using
 either the Pyenv or Pyenv-win tools that are available for download from GitHub.
 You can learn more about Python by visiting these web sites:
 
-  - [Python](https://www.python.org/)
-  - [Pyenv](https://github.com/pyenv/pyenv)
-  - [Pyenv-Win](https://github.com/pyenv-win/pyenv-win)
+- [Python](https://www.python.org/)
+- [Pyenv](https://github.com/pyenv/pyenv)
+- [Pyenv-Win](https://github.com/pyenv-win/pyenv-win)
 
 ## Python Packages
 
@@ -92,10 +92,10 @@ structures. Of course, there are many other Python packages that you can explore
 through the Python Package Index. You can learn more about these Python packages
 by visiting these web sites:
 
-  - [Poetry](https://python-poetry.org/)
-  - [Pytest](https://docs.pytest.org/en/stable/)
-  - [Streamlit](https://www.streamlit.io/)
-  - [Python Package Index](https://pypi.org/)
+- [Poetry](https://python-poetry.org/)
+- [Pytest](https://docs.pytest.org/en/stable/)
+- [Streamlit](https://www.streamlit.io/)
+- [Python Package Index](https://pypi.org/)
 
 ## Markdown
 
@@ -109,6 +109,6 @@ in Markdown as part of the laboratory and practical assignments and the course
 examinations. You can learn more about the Markdown language for technical
 writing by visiting these web sites:
 
-  - [Markdown Guide](https://www.markdownguide.org/)
-  - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
-  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
