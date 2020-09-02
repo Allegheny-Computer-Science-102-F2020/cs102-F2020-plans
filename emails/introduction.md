@@ -1,6 +1,6 @@
 Hello CMPSC 102 Students,
 
-## Read This Email Carefully
+# Read This Email Carefully
 
 This email is very long and includes many details about the CMPSC 102 course.
 Instead of bombarding you with many short emails, I decided that it was best to
@@ -136,47 +136,47 @@ Taking inspiration from the principles of specification-based grading, the grade
 that a student receives on the laboratory assignments will have the following
 components:
 
-  - Percentage of Correct GatorGrader Checks: Students are encouraged to
-    repeatedly try to implement a Python program that passes all of
-    GatorGrader's checks by, for instance, creating a program that produces the
-    correct output. Students should also repeatedly revise their technical
-    writing to ensure that it also passes all of GatorGrader's checks about, for
-    instance, the length of its content and its appropriate use of Markdown. The
-    status of each check run by GatorGrader will be available to a student on
-    their own laptop and in a GitHub dashboard available in a web browser.
+- Percentage of Correct GatorGrader Checks: Students are encouraged to
+  repeatedly try to implement a Python program that passes all of
+  GatorGrader's checks by, for instance, creating a program that produces the
+  correct output. Students should also repeatedly revise their technical
+  writing to ensure that it also passes all of GatorGrader's checks about, for
+  instance, the length of its content and its appropriate use of Markdown. The
+  status of each check run by GatorGrader will be available to a student on
+  their own laptop and in a GitHub dashboard available in a web browser.
 
-  - GitHub CI Build Status: Since additional checks on the source code and/or
-    technical writing may be encoded in GitHub CI's actions and, moreover, all
-    of the GatorGrader checks are also run in GitHub CI, students will receive
-    a checkmark grade if their last before-the-deadline build passes and a
-    green checkmark in their GitHub commit log instead of a red x. As with the
-    previous grading component, students are encouraged to repeatedly revise
-    their source code and technical writing in an attempt to get their GitHub
-    CI build to pass, thereby enabling them to earn the checkmark for this
-    component of their grade.
+- GitHub CI Build Status: Since additional checks on the source code and/or
+  technical writing may be encoded in GitHub CI's actions and, moreover, all
+  of the GatorGrader checks are also run in GitHub CI, students will receive
+  a checkmark grade if their last before-the-deadline build passes and a
+  green checkmark in their GitHub commit log instead of a red x. As with the
+  previous grading component, students are encouraged to repeatedly revise
+  their source code and technical writing in an attempt to get their GitHub
+  CI build to pass, thereby enabling them to earn the checkmark for this
+  component of their grade.
 
-  - Mastery of Technical Writing: Students will also receive a checkmark grade
-    when the responses to the technical writing questions presented in the
-    writing/reflection.md reveal a mastery of both writing skills and
-    technical knowledge. To receive a checkmark grade, the submitted writing
-    should have correct spelling, grammar, and punctuation in addition to
-    following the rules of Markdown and providing technically accurate
-    answers. Students are encouraged to ask the course instructor or a student
-    technical leader to use the GitHub issue tracker to provide feedback on
-    their mastery of technical writing skills.
+- Mastery of Technical Writing: Students will also receive a checkmark grade
+  when the responses to the technical writing questions presented in the
+  writing/reflection.md reveal a mastery of both writing skills and
+  technical knowledge. To receive a checkmark grade, the submitted writing
+  should have correct spelling, grammar, and punctuation in addition to
+  following the rules of Markdown and providing technically accurate
+  answers. Students are encouraged to ask the course instructor or a student
+  technical leader to use the GitHub issue tracker to provide feedback on
+  their mastery of technical writing skills.
 
-  - Mastery of Technical Knowledge and Skills: Students will also receive a
-    checkmark grade when their GitHub repository reveals that they have mastered
-    all the technical knowledge and skills developed during the completion of
-    this project. As a part of this grade, the instructor will assess aspects of
-    the project including, but not limited to, the inclusion of effective source
-    code comments, creation of effective Git commit messages, correct use of
-    Docker, implementation of an efficient Python program, and correct
-    installation and use of a full-fledge Python development environment.
-    Students are encouraged to ask the course instructor or a student technical
-    leader to use the GitHub issue tracker to provide feedback on how well their
-    work demonstrates mastery of the assignment's technical knowledge and
-    skills.
+- Mastery of Technical Knowledge and Skills: Students will also receive a
+  checkmark grade when their GitHub repository reveals that they have mastered
+  all the technical knowledge and skills developed during the completion of
+  this project. As a part of this grade, the instructor will assess aspects of
+  the project including, but not limited to, the inclusion of effective source
+  code comments, creation of effective Git commit messages, correct use of
+  Docker, implementation of an efficient Python program, and correct
+  installation and use of a full-fledge Python development environment.
+  Students are encouraged to ask the course instructor or a student technical
+  leader to use the GitHub issue tracker to provide feedback on how well their
+  work demonstrates mastery of the assignment's technical knowledge and
+  skills.
 
 The sole grade for a practical assignment will be the GitHub CI Build Status,
 meaning that you will receive either a checkmark or an x for the completion of
@@ -267,8 +267,8 @@ checkmark-based assessment and feedback from the course instructor.
 
   https://www.cs.allegheny.edu/canirundocker/
 
-  **IMPORTANT**: All students are required to run Docker Desktop on their laptop so
-  as to ensure that they can run the instructor-provided Docker containers.
+  **IMPORTANT**: All students are required to run Docker Desktop on their laptop
+  so as to ensure that they can run the instructor-provided Docker containers.
 
 - You will use version 3.8 of the Python programming language that you installed
   on your department approved laptop by using either the Pyenv or Pyenv-win
