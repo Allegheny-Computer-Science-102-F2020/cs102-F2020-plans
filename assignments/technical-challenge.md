@@ -1,7 +1,8 @@
 # Technical Challenges
 
 - **Assigned**: Immediately after your assigned in-person classroom session
-- **Due**: At the start of the in-person classroom session one week after it was assigned
+- **Due**: At the start of the in-person classroom session one week after it was
+  assigned
 
 Building on material in the textbooks and the content covered during that day's
 in-person classroom session, technical challenges have the following goals:
