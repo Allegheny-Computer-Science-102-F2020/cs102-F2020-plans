@@ -21,7 +21,7 @@ explain which assignment you are currently working on, giving a link to the
 assignment sheet and excepting from the assignment sheet the part of text you
 are reading and currently stuck on.
 
-**Explain the steps you have taken so Far**
+**Explain the steps you have taken so far**
 
 Steps to taken so far in an attempt to resolve the issue:
 
