@@ -26,6 +26,7 @@ Steps to reproduce the behavior the bug that you found:
 
 - <!-- Replace this text --!>
 - <!-- Replace this text --!>
+- <!-- Replace this text --!>
 
 **Explain the expected behavior**
 
