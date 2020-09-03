@@ -36,12 +36,12 @@ that the individuals requesting the video should budget time to give feedback on
 the video to ensure that the course instructor creates the best quality video
 before releasing it to YouTube.
 
-**Give the name of at least three members of the course who will review
+**Give the name of at least two members of the course who will review
 the video and give critical feedback**
 
 <!-- Please replace all of the text below this bold header. -->
 
-Who are at least three other members of the course who are also interested in
+Who are at least two other members of the course who are also interested in
 having this video created? After ensuring that these individuals also want the
 course instructor and the student technical leaders to make this video, make
 sure to @-mention them in this issue so that they can review and give feedback
