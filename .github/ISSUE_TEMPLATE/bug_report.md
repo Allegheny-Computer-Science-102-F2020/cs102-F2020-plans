@@ -22,7 +22,7 @@ detail.
 
 **State the reproduction steps**
 
-Steps to reproduce the behavior the bug that you found:
+Steps to reproduce the behavior of the bug that you found:
 
 - <!-- Replace this text --!>
 - <!-- Replace this text --!>
