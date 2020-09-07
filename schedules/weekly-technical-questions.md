@@ -27,7 +27,7 @@
 
 - How do I connect mathematical terminology (e.g., *mapping*, *function*,
   *number*, and *set*), to the implementation of Python programs that declare
-  and call functions and declare and manipulate primitive variables?
+  and call functions and declare and manipulate variables?
 
 **Reading Assignments**
 
