@@ -3,7 +3,7 @@
 - **Assigned**: At the start of a remote practical session every Friday
 - **Due**: At the start of the remote practical session one week after it was assigned
 
-Building on material in the textbooks and the content covered during that day's
+Building on material in the textbooks and the content covered during that week's
 in-person classroom session, practical assignments have the following goals:
 
 - Allow a learner to demonstrate an understanding of facts and ideas by translating,
