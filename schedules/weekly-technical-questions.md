@@ -4,6 +4,7 @@
 
 * [Technical Questions](#technical-questions)
   + [Week One: August 31, 2020 to September 4, 2020](#week-one-august-31-2020-to-september-4-2020)
+  + [Week Two: September 7, 2020 to September 11, 2020](#week-two-september-7-2020-to-september-11-2020)
 * [Calendar Overview](#calendar-overview)
   + [August](#august)
   + [September](#september)
@@ -18,7 +19,7 @@
   Tools](../tools/programming-tools.md) that will help me to rigorously
   exploring discrete structures with the Python programming language?
 
-#### Reading Assignments
+**Reading Assignments**
 
 - Details about all of the referenced[programming tools](../tools/programming-tools.md)
 
@@ -28,7 +29,7 @@
   *number*, and *set*), to the implementation of Python programs that declare
   and call functions and declare and manipulate primitive variables?
 
-#### Reading Assignments
+**Reading Assignments**,
 
 - Chapters 1 and 2 of *Programming and Mathematical Thinking*
 - Chapter 1 of *Doing Math with Python*
