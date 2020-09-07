@@ -17,7 +17,7 @@
 
 - How do I install and use the industry-standard [Programming
   Tools](../tools/programming-tools.md) that will help me to rigorously
-  exploring discrete structures with the Python programming language?
+  explore discrete structures with the Python programming language?
 
 **Reading Assignments**
 
