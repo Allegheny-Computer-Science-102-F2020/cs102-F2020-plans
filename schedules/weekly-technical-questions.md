@@ -29,7 +29,7 @@
   *number*, and *set*), to the implementation of Python programs that declare
   and call functions and declare and manipulate primitive variables?
 
-**Reading Assignments**,
+**Reading Assignments**
 
 - Chapters 1 and 2 of *Programming and Mathematical Thinking*
 - Chapter 1 of *Doing Math with Python*
