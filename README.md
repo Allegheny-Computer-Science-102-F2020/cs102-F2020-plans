@@ -17,13 +17,16 @@
 
 ## Introduction
 
-This repository contains all of the course planning documents for
-Computer Science 102 Fall 2020, Discrete Structures. This course
-introduces the mathematical foundations of Computer Science, ensuring
-that students can effectively create and manipulate discrete objects in a
-Python programming environment. More details about the course are
-available in the [course
+This repository contains all of the course planning documents for Computer
+Science 102 Fall 2020, Discrete Structures. This course introduces the
+mathematical foundations of Computer Science, ensuring that students can
+effectively create and manipulate discrete objects in a Python programming
+environment. More details about the course are available in the [course
 syllabus](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-syllabus).
+A collection of slides for each week of the course is also available in the
+[course
+slides](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-slides)
+repository.
 
 ## Course Description
 
