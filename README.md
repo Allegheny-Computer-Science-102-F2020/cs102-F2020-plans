@@ -77,6 +77,11 @@ limited number of laptops are available for use during class and lab sessions.
 
 - [Assessment Strategy](assessment/assessment-strategy.md)
 
+## Laboratory Assignments
+
+- [Laboratory Assignment One: Mastering the Software Tools Used in Discrete
+  Structures](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab1-starter)
+
 ## Team Assignment
 
 - [Team A](teams/team-a.md)
