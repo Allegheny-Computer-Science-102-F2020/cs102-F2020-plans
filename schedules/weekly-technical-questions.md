@@ -16,8 +16,8 @@
 
 ### Week One: August 31, 2020 to September 4, 2020
 
-- How do I install and use the industry-standard [Programming
-  Tools](../tools/programming-tools.md) that will help me to rigorously
+- How do I install and use the industry-standard [programming
+  tools](../tools/programming-tools.md) that will help me to rigorously
   explore discrete structures with the Python programming language?
 
 **Reading Assignments**
