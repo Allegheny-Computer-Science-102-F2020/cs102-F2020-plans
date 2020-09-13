@@ -34,6 +34,17 @@
 - Chapters 1 and 2 of *Programming and Mathematical Thinking*
 - Chapter 1 of *Doing Math with Python*
 
+### Week Two: September 14, 2020 to September 18, 2020
+
+- How do I use iteration and conditional logic in a Python program to perform
+  computational tasks like processing the contents of a file and mathematical
+  tasks like using Newton's method to approximate the square root of a number?
+
+**Reading Assignments**
+
+- Chapter 3 of *Programming and Mathematical Thinking*
+- Appendix B of *Doing Math with Python*
+
 ## Calendar Overview
 
 ### August
