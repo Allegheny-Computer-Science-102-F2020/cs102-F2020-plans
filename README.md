@@ -81,7 +81,8 @@ limited number of laptops are available for use during class and lab sessions.
 
 - [Laboratory Assignment One: Mastering the Software Tools Used in Discrete
   Structures](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab1-starter)
-- [Laboratory Assignment Two: Implementing and Testing a Python Program for Quadratic Root Finding](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab2-starter)
+- [Laboratory Assignment Two: Implementing and Testing a Python Program for
+   Quadratic Root Finding](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab2-starter)
 
 Please note that you must click the instructor-provided link in Slack to start
 each laboratory assignment.
