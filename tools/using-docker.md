@@ -140,7 +140,7 @@ docker run -it --rm --name dockagator \
 
 Please note that if you attempt to run `gradle grade` in an updated Docker
 container it is possible that the command will execute incorrectly if you
-previously use GatorGrader with a Docker container that contained different
+previously used GatorGrader with a Docker container that featured a different
 version of the Python programming language. In this situation, you should delete
 the directories inside of the `.dockagator` directory and then again attempt to
 run the `gradle grade` command inside of the Docker container. Specifically, you
