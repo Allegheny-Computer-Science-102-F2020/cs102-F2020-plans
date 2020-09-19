@@ -2,6 +2,10 @@
 
 ## Table of Contents
 
+* [Non-Interactive Docker Commands](#non-interactive-docker-commands)
+* [Interactive Docker Shell Commands](#interactive-docker-shell-commands)
+* [Upgrading the Docker Container](#upgrading-the-docker-container)
+
 ## Non-Interactive Docker Commands
 
 Once you have installed [Docker
@@ -72,7 +76,7 @@ Here are some additional commands that you may need to run when using Docker:
 * `docker container prune`: remove all stopped docker containers from your workstation
 * `docker rmi $(docker images -q) --force`: remove all docker images from your workstation
 
-### Interactive Docker Shell Commands
+## Interactive Docker Shell Commands
 
 Since the above `docker run` command uses a Docker images that, by default, runs
 `gradle grade` and then exits the Docker container, you may want to instead run
@@ -118,7 +122,7 @@ Remember, to correctly run any of the commands mentioned in this guide, you must
 be in the main (i.e., "home base") directory for a course assignment where the
 `build.gradle` file is located.
 
-### Upgrading the Docker Container
+## Upgrading the Docker Container
 
 If the course instructor provides a new version of the Docker container called
 `gatoreducator/dockagator` and you want to receive it immediately, you must
