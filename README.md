@@ -97,5 +97,6 @@ each laboratory assignment.
 - [Course Syllabus](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-syllabus)
 - [Course Slides](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-slides)
 - [Programming Tools](tools/programming-tools.md)
+- [Tips for Using Docker Containers](tools/using-docker.md)
 - [Notional Machine for Python Programs](http://teachtogether.tech/en/#s:models-notional)
 - [Slack Workspace](https://join.slack.com/t/cmpsc102fall2020/signup)
