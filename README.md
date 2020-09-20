@@ -77,15 +77,29 @@ limited number of laptops are available for use during class and lab sessions.
 
 - [Assessment Strategy](assessment/assessment-strategy.md)
 
-## Laboratory Assignments
+## Course Assignments
+
+### Laboratory Assignments
 
 - [Laboratory Assignment One: Mastering the Software Tools Used in Discrete
   Structures](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab1-starter)
 - [Laboratory Assignment Two: Implementing and Testing a Python Program for
    Quadratic Root Finding](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab2-starter)
 
+### Practical Assignments
+
+- [Practical Assignment One: Translating a Mathematical Equation to a Python
+  Program](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical1-starter)
+
+### Technical Challenge Assignments
+
+- [Technical Challenge One: Using Typer to Implement a Command-Line
+  Interface](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-challenge1-starter)
+
+### Assignment Reminder
+
 Please note that you must click the instructor-provided link in Slack to start
-each laboratory assignment.
+each of the laboratory, practical, and technical challenge assignments.
 
 ## Team Assignment
 
