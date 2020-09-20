@@ -93,8 +93,9 @@ limited number of laptops are available for use during class and lab sessions.
 
 ### Practical Assignments
 
-- [Practical Assignment One: Translating a Mathematical Equation to a Python
-  Program](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical1-starter)
+- [Practical Assignment One: Translating a Temperature Conversion Equation to a
+  Python
+  Function](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical1-starter)
 
 ### Technical Challenge Assignments
 
