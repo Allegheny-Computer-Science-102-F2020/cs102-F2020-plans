@@ -12,6 +12,11 @@
 * [Learning Objectives](#learning-objectives)
 * [Assignment Types](#assignment-types)
 * [Assessment Strategy](#assessment-strategy)
+* [Course Assignments](#course-assignments)
+  + [Laboratory Assignments](#laboratory-assignments)
+  + [Practical Assignments](#practical-assignments)
+  + [Technical Challenge Assignments](#technical-challenge-assignments)
+  + [Assignment Reminder](#assignment-reminder)
 * [Team Assignment](#team-assignment)
 * [Resources](#resources)
 
