@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Non-Interactive Docker Commands](#non-interactive-docker-commands)
-* [Interactive Docker Shell Commands](#interactive-docker-shell-commands)
+* [Commands for an Interactive Docker Shell](#commands-for-an-interactive-docker-shell)
 * [Upgrading the Docker Container](#upgrading-the-docker-container)
 
 ## Non-Interactive Docker Commands
@@ -76,7 +76,7 @@ Here are some additional commands that you may need to run when using Docker:
 * `docker container prune`: remove all stopped docker containers from your workstation
 * `docker rmi $(docker images -q) --force`: remove all docker images from your workstation
 
-## Interactive Docker Shell Commands
+## Commands for an Interactive Docker Shell
 
 Since the above `docker run` command uses a Docker images that, by default, runs
 `gradle grade` and then exits the Docker container, you may want to instead run
