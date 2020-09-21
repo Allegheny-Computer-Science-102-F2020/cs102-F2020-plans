@@ -93,7 +93,7 @@ limited number of laptops are available for use during class and lab sessions.
   Finding](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab2-starter)
 - [Laboratory Assignment Three: Implementing and Debugging an Iterative Python
   Program for
-  Exponentiation](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab2-starter)
+  Exponentiation](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab3-starter)
 
 ### Practical Assignments
 
