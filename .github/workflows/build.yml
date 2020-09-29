@@ -3,10 +3,6 @@
 # --> Confirms that specific files exist inside of the repository
 name: build
 
-# Specify that the builds for this repository run on the self-hosted
-# runner currently called "cmpsc102-runner1" and tagged with "self-hosted"
-runs-on: self-hosted
-
 # Controls when the action will run.
 # Triggers the workflow on push or pull request
 # events but only for the master branch.
@@ -19,9 +15,11 @@ on:
 jobs:
   # The workflow contains a single job called "build"
   build:
+    # Specify that the builds for this repository run on the self-hosted
+    # runner currently called "cmpsc102-runner1" and tagged with "self-hosted"
+    runs-on: self-hosted
     # The runner will run on the latest version of Ubuntu
-    runs-on: ubuntu-latest
-
+    # runs-on: ubuntu-latest
     # Define the steps run in the workflow
     steps:
       # Checkout out the code in the repository
