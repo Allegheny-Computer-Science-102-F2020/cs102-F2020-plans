@@ -14,6 +14,7 @@
   + [Laboratory Assignments](#laboratory-assignments-1)
   + [Practical Assignments](#practical-assignments)
   + [Technical Challenges](#technical-challenges)
+* [Grading Percentages](#grading-percentages)
 * [Questions About Your Grade](#questions-about-your-grade)
 
 ## Assignment Types
@@ -215,6 +216,15 @@ Laboratory Assignment Grade:
   (1+1+1)/3 * 100
         100.00
   ```
+
+## Grading Percentages
+
+- Technical Assessments: 10%
+- Midterm Examination: 10%
+- Final Examination: 10%
+- Technical Challenges: 10%
+- Practical Assignments: 30%
+- Laboratory Assignments: 30%
 
 ## Questions About Your Grade
 
