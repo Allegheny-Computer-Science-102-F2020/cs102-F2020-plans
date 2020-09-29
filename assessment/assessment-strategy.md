@@ -226,6 +226,9 @@ Laboratory Assignment Grade:
 - Practical Assignments: 30%
 - Laboratory Assignments: 30%
 
+Please note that these grading percentages supersede those originally specified
+in the course syllabus.
+
 ## Questions About Your Grade
 
 Before asking the course instructor a question about the calculation of your
