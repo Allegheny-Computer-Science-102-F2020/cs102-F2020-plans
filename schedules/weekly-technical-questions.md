@@ -58,6 +58,18 @@
 - Chapter 4 of *Programming and Mathematical Thinking*
 - Chapter 3 of *Doing Math with Python*
 
+### Week Five: September 28, 2020 to October 2, 2020
+
+- How do I use debugging statements to better understand the behavior of
+  functions that use iteration and recursion to perform mathematical operations
+  such as computing the factorial sequence, the square of a number, and the
+  mean and median of a sequence of numbers?
+
+**Reading Assignments**
+
+- All previously assigned chapters in *Programming and Mathematical Thinking*
+- All previously assigned chapters in *Doing Math with Python*
+
 ## Calendar Overview
 
 ### August
