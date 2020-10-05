@@ -8,6 +8,7 @@
   + [Week Three: September 14, 2020 to September 18, 2020](#week-two-september-14-2020-to-september-18-2020)
   + [Week Four: September 21, 2020 to September 25, 2020](#week-four-september-21-2020-to-september-25-2020)
   + [Week Five: September 28, 2020 to October 2, 2020](#week-five-september-28-2020-to-october-2-2020)
+  + [Week Six: October 5, 2020 to October 9, 2020](#week-six-october-5-2020-to-october-9-2020)
 * [Calendar Overview](#calendar-overview)
   + [August](#august)
   + [September](#september)
@@ -73,9 +74,10 @@
 
 ### Week Six: October 5, 2020 to October 9, 2020
 
-- How do I employ the mathematical concepts of order pairs, n-tuples, monoids,
-  and sequences to implement efficient Python programs that use higher-order
-  functions with a clearly specified behavior?
+- How do I employ the mathematical concepts of ordered pairs, n-tuples, and lists
+  to implement efficient Python programs that use functions with a clearly
+  specified behavior to perform tasks like the input and parsing of a comma
+  separated value file?
 
 **Reading Assignments**
 
