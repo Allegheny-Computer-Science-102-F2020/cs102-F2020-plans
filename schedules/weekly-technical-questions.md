@@ -84,6 +84,18 @@
 - Chapter 5 of *Programming and Mathematical Thinking*
 - Chapter 6 of *Programming and Mathematical Thinking*
 
+### Week Seven: October 12, 2020 to October 16, 2020
+
+- How do I employ the mathematical concepts of sequences, monoids, and lists to
+  implement efficient Python programs that use functions with a clearly
+  specified behavior to perform tasks like finding a name in a file or computing
+  the arithmetic mean of data values?
+
+**Reading Assignments**
+
+- Chapter 6 of *Programming and Mathematical Thinking*
+- Chapters 2 and 3 of *Doing Math with Python*
+
 ## Calendar Overview
 
 ### August
