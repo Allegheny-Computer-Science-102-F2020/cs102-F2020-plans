@@ -23,3 +23,16 @@ emphasis will be on the following technical topics:
 - Running GatorGrader in Docker to check a repository's correctness
 - Using Poetry to manage program dependencies and run Python programs
 - The benefits of using Python to explore discrete structures
+
+### Chapter 2 of Programming and Mathematical Thinking
+
+- Different ways in which we can understand a computer program
+- The characteristics of the Python programming language
+- How to implement a Python program that finds names in a file
+- How to implement a Python program to average numerical values
+- The ability to recognize all key components of a Python program
+- The mathematical definition of set, sequence, relation, mapping
+- The mathematical definition of the properties of integer addition
+- How to mathematically specify the computation of an arithmetic mean
+- The practical limitations of storing values in Python variables
+- The data types commonly used to store values in Python variables
