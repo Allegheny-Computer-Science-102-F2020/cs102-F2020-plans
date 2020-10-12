@@ -15,7 +15,7 @@ The exam will be a mix of questions that have a form such as short answer,
 completion, and the interpretation and creation of Python source code. The
 emphasis will be on the following technical topics:
 
-### Chapter 1 of Programming and Mathematical Thinking
+### Introduction to Real-World Python Programming
 
 - Using the Git and GitHub version control system
 - Using Docker to support Python programming
@@ -24,7 +24,7 @@ emphasis will be on the following technical topics:
 - Using Poetry to manage program dependencies and run Python programs
 - The benefits of using Python to explore discrete structures
 
-### Chapter 2 of Programming and Mathematical Thinking
+### Chapters 1 and 2 of Programming and Mathematical Thinking
 
 - Different ways in which we can understand a computer program
 - The characteristics of the Python programming language
