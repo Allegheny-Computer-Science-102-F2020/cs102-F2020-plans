@@ -113,6 +113,10 @@ limited number of laptops are available for use during class and lab sessions.
 Please note that you must click the instructor-provided link in Slack to start
 each of the laboratory, practical, and technical challenge assignments.
 
+## Review Sheets for Examinations
+
+- [Midterm Examination Review Sheet](review/examination-one-review.md)
+
 ## Team Assignment
 
 - [Team A](teams/team-a.md)
