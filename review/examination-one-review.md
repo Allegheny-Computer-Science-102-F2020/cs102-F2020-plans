@@ -24,6 +24,17 @@ emphasis will be on the following technical topics:
 - Using Poetry to manage program dependencies and run Python programs
 - The benefits of using Python to explore discrete structures
 
+## Chapter 1 of Doing Math with Python
+
+- How Python represents different types of numbers
+- How Python supports computations with fractional and complex numbers
+- How to implement a Python program to find the roots of a quadratic equation
+- How to use Pytest to test a program that finds the roots of a quadratic equation
+
+## Chapter 3 of Doing Math with Python
+
+
+
 ### Chapters 1 and 2 of Programming and Mathematical Thinking
 
 - Different ways in which we can understand a computer program
@@ -36,3 +47,23 @@ emphasis will be on the following technical topics:
 - How to mathematically specify the computation of an arithmetic mean
 - The practical limitations of storing values in Python variables
 - The data types commonly used to store values in Python variables
+
+## Chapter 3 of Programming and Mathematical Thinking
+
+- The similarities and differences between simple and compound statements in Python
+- How to correctly use comments to provide documentation for a Python program
+- How to use conditional logic and iteration constructs in Python programs
+- The similarities and differences between `for` and `while` loops in Python
+- How to perform exponentiation in the Python programming language
+- The inputs, outputs, and behavior of the `range` function in Python
+
+## Chapter 4 of Programming and Mathematical Thinking
+
+- The source code needed to both define and call a function in Python
+- How to use type hints to describe the types of a function's input and output
+- How to use conditional logic to compute the absolute value of a number
+- How to use Newton's method to calculate the square root of a number
+- How to write either an equation or a Python function for the factorial sequence
+- The way in which higher-order functions can accept and create functions
+- How to define and use a lambda function that squares an input number
+- How to implement a function that computes the arithmetic mean of a list of numbers
