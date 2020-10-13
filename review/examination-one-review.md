@@ -16,7 +16,7 @@ completion, the interpretation and creation of Python source code, and the
 interpretation of Python program output. The emphasis will be on the following
 technical topics:
 
-### Introduction to Real-World Python Programming
+## Introduction to Real-World Python Programming
 
 - Using the Git and GitHub version control system
 - Using Docker to support Python programming
@@ -24,6 +24,18 @@ technical topics:
 - Running GatorGrader in Docker to check a repository's correctness
 - Using Poetry to manage program dependencies and run Python programs
 - The benefits of using Python to explore discrete structures
+
+## Debugging and Testing of Python Programs
+
+- The ability to find and explain the following components of a Python program
+  - Function definition
+  - Function parameters
+  - Body of a function
+  - Return value of a function
+  - Invocation of a function
+- How to write and run a test case for a Python function using Pytest
+- How to use `print` and `typer.echo` statements to debug a Python program
+- 
 
 ## Chapter 1 of Doing Math with Python
 
@@ -68,6 +80,28 @@ technical topics:
 - How to use conditional logic to compute the absolute value of a number
 - How to use Newton's method to calculate the square root of a number
 - How to write either an equation or a Python function for the factorial sequence
+- How to use either iteration or recursion to implement the factorial sequence
 - The way in which higher-order functions can accept and create functions
 - How to define and use a lambda function that squares an input number
 - How to implement a function that computes the arithmetic mean of a list of numbers
+
+## Chapter 5 of Programming and Mathematical Thinking
+
+- The definition of the following discrete structures:
+  - Pair
+  - Ordered pair
+  - n-Tuple
+- Real-world examples of data values that can be stored in an ordered pair or an n-tuple
+- How to define and populate tuples and lists in a Python program
+- The similarities and differences between tuples and lists in a Python program
+- How to define empty tuples and lists in a Python program
+- How to append data to a list in a Python program
+- How to pack and unpack a tuple in a Python program
+- How to use Python functions to read and parse a comma-separate value (CSV) file
+- The meaning of the term delimiter in the context of a CSV file
+- The similarities and differences between CSV files and relational databases
+- The definition of the following terms in the context of relational databases:
+  - Table
+  - Row
+  - Column
+  - Schema
