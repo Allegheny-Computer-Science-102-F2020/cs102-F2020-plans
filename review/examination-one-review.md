@@ -12,8 +12,9 @@ that we have covered to this date. Students may post questions about this
 material to our Slack team.
 
 The exam will be a mix of questions that have a form such as short answer,
-completion, and the interpretation and creation of Python source code. The
-emphasis will be on the following technical topics:
+completion, the interpretation and creation of Python source code, and the
+interpretation of Python program output. The emphasis will be on the following
+technical topics:
 
 ### Introduction to Real-World Python Programming
 
@@ -33,7 +34,10 @@ emphasis will be on the following technical topics:
 
 ## Chapter 3 of Doing Math with Python
 
-
+- The definition of the statistical terms arithmetic mean and median
+- How to use Python to calculate the mean and median of a list of numbers
+- The meaning of the term dispersion when applied to a list of numbers
+- How to use Python to calculate the variance and standard deviation of a list of numbers
 
 ### Chapters 1 and 2 of Programming and Mathematical Thinking
 
