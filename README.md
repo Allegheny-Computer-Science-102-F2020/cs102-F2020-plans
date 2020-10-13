@@ -94,19 +94,29 @@ limited number of laptops are available for use during class and lab sessions.
 - [Laboratory Assignment Three: Implementing and Debugging an Iterative Python
   Program for
   Exponentiation](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab3-starter)
-- [Laboratory Assignment Four: Implementing and Testing a Python Program for Data Input and Summarization](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab4-starter)
+- [Laboratory Assignment Four: Implementing and Testing a Python Program for
+  Data Input and
+  Summarization](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab4-starter)
+- [Laboratory Assignment Five: Using Iteration and Functions to Summarize
+  Real-World Population
+  Data](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab5-starter)
 
 ### Practical Assignments
 
 - [Practical Assignment One: Translating a Temperature Conversion Equation to a
   Python
   Function](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical1-starter)
-- [Practical Assignment Two: Implementing a Python Program for Iteratively Searching a Contact Database](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical2-starter)
+- [Practical Assignment Two: Implementing a Python Program for Iteratively
+  Searching a Contact
+  Database](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical2-starter)
 
 ### Technical Challenge Assignments
 
 - [Technical Challenge One: Using Typer to Implement a Command-Line
   Interface](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-challenge1-starter)
+- [Technical Challenge Two: Using Ordered Pairs to Support Exponentiation with
+  a Number
+  Sequence](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-challenge2-starter)
 
 ### Assignment Reminder
 
