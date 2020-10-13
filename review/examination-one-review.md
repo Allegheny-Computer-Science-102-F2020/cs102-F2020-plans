@@ -35,7 +35,7 @@ technical topics:
   - Invocation of a function
 - How to write and run a test case for a Python function using Pytest
 - How to use `print` and `typer.echo` statements to debug a Python program
-- 
+- How trace the execution of a Python function with debugging statements
 
 ## Chapter 1 of Doing Math with Python
 
