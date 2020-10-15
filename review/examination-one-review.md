@@ -1,5 +1,20 @@
 # Review Sheet for Examination One
 
+## Table of Contents
+
+* [Examination Details](#examination-details)
+* [Examination Overview](#examination-overview)
+* [Introduction to Real-World Python Programming](#introduction-to-real-world-python-programming)
+* [Debugging and Testing of Python Programs](#debugging-and-testing-of-python-programs)
+* [Chapter 1 of Doing Math with Python](#chapter-1-of-doing-math-with-python)
+* [Chapter 3 of Doing Math with Python](#chapter-3-of-doing-math-with-python)
+* [Chapters 1 and 2 of Programming and Mathematical Thinking](#chapters-1-and-2-of-programming-and-mathematical-thinking)
+* [Chapter 3 of Programming and Mathematical Thinking](#chapter-3-of-programming-and-mathematical-thinking)
+* [Chapter 4 of Programming and Mathematical Thinking](#chapter-4-of-programming-and-mathematical-thinking)
+* [Chapter 5 of Programming and Mathematical Thinking](#chapter-5-of-programming-and-mathematical-thinking)
+
+## Examination Details
+
 - Review Sheet Released: Monday, October 12, 2020
 - Examination Release: Monday, October 19, 2020
 - Examination Due: 11:59 pm on Wednesday, October 21, 2020
@@ -7,9 +22,9 @@
 ## Examination Overview
 
 The exam will be closed notes and closed book and it will cover the following
-materials. Please review the course schedule to see the content and slides
-that we have covered to this date. Students may post questions about this
-material to our Slack team.
+materials. Please review the course schedule to see the content and slides that
+we have covered to this date. Students may post questions about this material to
+our Slack team.
 
 The exam will be a mix of questions that have a form such as short answer,
 completion, the interpretation and creation of Python source code, and the
