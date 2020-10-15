@@ -51,7 +51,7 @@ technical topics:
 - The meaning of the term dispersion when applied to a list of numbers
 - How to use Python to calculate the variance and standard deviation of a list of numbers
 
-### Chapters 1 and 2 of Programming and Mathematical Thinking
+## Chapters 1 and 2 of Programming and Mathematical Thinking
 
 - Different ways in which we can understand a computer program
 - The characteristics of the Python programming language
