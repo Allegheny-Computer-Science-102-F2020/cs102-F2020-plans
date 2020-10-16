@@ -109,6 +109,12 @@ limited number of laptops are available for use during class and lab sessions.
 - [Practical Assignment Two: Implementing a Python Program for Iteratively
   Searching a Contact
   Database](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical2-starter)
+- [Practical Assignment Three: Using Iteration to Construct a List of Ordered
+  Pairs Containing Factorial
+  Numbers](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical3-starter)
+- [Practical Assignment Four: Performing Mathematical Computations with
+  Higher-Order
+Functions](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical4-starter)
 
 ### Technical Challenge Assignments
 
