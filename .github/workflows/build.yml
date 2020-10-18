@@ -17,7 +17,7 @@ jobs:
   build:
     # Specify that the builds for this repository run on the self-hosted
     # runner currently called "cmpsc102-runner1" and tagged with "self-hosted"
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     # The runner will run on the latest version of Ubuntu
     # runs-on: ubuntu-latest
     # Define the steps run in the workflow
