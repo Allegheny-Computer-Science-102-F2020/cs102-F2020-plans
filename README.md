@@ -18,7 +18,7 @@
   + [Technical Challenge Assignments](#technical-challenge-assignments)
   + [Assignment Reminder](#assignment-reminder)
 * [Team Assignment](#team-assignment)
-* [Resources](#resources)
+* [Course Resources](#course-resources)
 
 ## Introduction
 
@@ -138,7 +138,7 @@ each of the laboratory, practical, and technical challenge assignments.
 - [Team A](teams/team-a.md)
 - [Team B](teams/team-b.md)
 
-## Resources
+## Course Resources
 
 - [Course Syllabus](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-syllabus)
 - [Course Slides](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-slides)
