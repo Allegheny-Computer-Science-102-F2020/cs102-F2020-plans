@@ -97,6 +97,16 @@
 - Chapter 6 of *Programming and Mathematical Thinking*
 - Chapters 2 and 3 of *Doing Math with Python*
 
+### Week Eight: October 19, 2020 to October 23, 2020
+
+- How do I use dynamically generated streams of data to implement memory
+  efficient and predictable Python programs?
+
+**Reading Assignments**
+
+- Chapter 7 of *Programming and Mathematical Thinking*
+- Chapters 2 and 3 of *Doing Math with Python*
+
 ## Calendar Overview
 
 ### August
