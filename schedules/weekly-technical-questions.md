@@ -108,6 +108,16 @@
 - Chapter 7 of *Programming and Mathematical Thinking*
 - Chapters 2 and 3 of *Doing Math with Python*
 
+### Week Nine: October 26, 2020 to October 30, 2020
+
+- How do I use the mathematical concepts of sets and Boolean logic to
+design Python programs that are easier to implement and understand?
+
+**Reading Assignments**
+
+- Chapter 8 of *Programming and Mathematical Thinking*
+- Chapter 5 of *Doing Math with Python*
+
 ## Calendar Overview
 
 ### August
