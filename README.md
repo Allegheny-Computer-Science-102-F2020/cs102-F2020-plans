@@ -115,6 +115,9 @@ limited number of laptops are available for use during class and lab sessions.
 - [Practical Assignment Four: Performing Mathematical Computations with
   Higher-Order
 Functions](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical4-starter)
+- [Practical Assignment Five: Using Iteration to Compute the Numbers in the
+  Fibonacci
+  Sequence](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical5-starter)
 
 ### Technical Challenge Assignments
 
