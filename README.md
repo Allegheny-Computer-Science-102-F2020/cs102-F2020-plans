@@ -100,6 +100,9 @@ limited number of laptops are available for use during class and lab sessions.
 - [Laboratory Assignment Five: Using Iteration and Functions to Summarize
   Real-World Population
   Data](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab5-starter)
+- [Laboratory Assignment Six: Conducting an Experiment to Study the Efficiency
+  of Python
+  Containers](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab6-starter)
 
 ### Practical Assignments
 
