@@ -121,6 +121,9 @@ Functions](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-p
 - [Practical Assignment Five: Using Iteration to Compute the Numbers in the
   Fibonacci
   Sequence](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical5-starter)
+- [Practical Assignment Six: Iteratively Computing and Visualizing the Numbers
+  in the Collatz
+  Sequence](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical6-starter/)
 
 ### Technical Challenge Assignments
 
