@@ -12,6 +12,7 @@
   + [Week Seven: October 12, 2020 to October 16, 2020](#week-seven-october-12-2020-to-october-16-2020)
   + [Week Eight: October 19, 2020 to October 23, 2020](#week-eight-october-19-2020-to-october-23-2020)
   + [Week Nine: October 26, 2020 to October 30, 2020](#week-nine-october-26-2020-to-october-30-2020)
+  + [Week Ten: November 2, 2020 to November 6, 2020](#week-ten-november-2-2020-to-november-6-2020)
 * [Calendar Overview](#calendar-overview)
   + [August](#august)
   + [September](#september)
@@ -111,13 +112,23 @@
 
 ### Week Nine: October 26, 2020 to October 30, 2020
 
-- How do I use the mathematical concepts of sets and Boolean logic to
-design Python programs that are easier to implement and understand?
+- How do I use the mathematical concepts of sets and Boolean logic to design
+  Python programs that are easier to implement and understand?
 
 **Reading Assignments**
 
 - Chapter 8 of *Programming and Mathematical Thinking*
 - Chapter 5 of *Doing Math with Python*
+
+### Week Ten: November 2, 2020 to November 6, 2020
+
+- How do I use the implementation of a finite set in Sympy to create Python
+  programs that calculate probabilities?
+
+**Reading Assignments**
+
+- Chapter 5 of *Doing Math with Python*
+- Chapter 8 of *Programming and Mathematical Thinking*
 
 ## Calendar Overview
 
