@@ -103,6 +103,9 @@ limited number of laptops are available for use during class and lab sessions.
 - [Laboratory Assignment Six: Conducting an Experiment to Study the Efficiency
   of Python
   Containers](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab6-starter)
+- [Laboratory Assignment Seven: Experimentally Evaluating the Performance of
+  List Uniquification in
+  Python](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab7-starter)
 
 ### Practical Assignments
 
