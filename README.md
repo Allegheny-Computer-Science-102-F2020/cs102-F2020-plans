@@ -106,6 +106,9 @@ limited number of laptops are available for use during class and lab sessions.
 - [Laboratory Assignment Seven: Experimentally Evaluating the Performance of
   List Uniquification in
   Python](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab7-starter)
+- [Laboratory Assignment Eight: Using the Set Discrete Structure to Detect the
+  Unique Words in a
+  File](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab8-starter)
 
 ### Practical Assignments
 
@@ -127,6 +130,9 @@ Functions](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-p
 - [Practical Assignment Six: Iteratively Computing and Visualizing the Numbers
   in the Collatz
   Sequence](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical6-starter/)
+- [Practical Assignment Seven: Implementing a Python Program to Efficiently
+  Compute the Cartesian Product of
+  Sets](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical7-starter)
 
 ### Technical Challenge Assignments
 
