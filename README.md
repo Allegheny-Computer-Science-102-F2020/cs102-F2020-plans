@@ -130,8 +130,8 @@ Functions](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-p
 - [Practical Assignment Six: Iteratively Computing and Visualizing the Numbers
   in the Collatz
   Sequence](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical6-starter/)
-- [Practical Assignment Seven: Implementing a Python Program to Efficiently
-  Compute the Cartesian Product of
+- [Practical Assignment Seven: Implementing a Python Program to Compute the
+  Cartesian Product of
   Sets](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical7-starter)
 
 ### Technical Challenge Assignments
