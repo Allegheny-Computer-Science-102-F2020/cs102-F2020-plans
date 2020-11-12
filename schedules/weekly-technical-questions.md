@@ -130,6 +130,15 @@
 - Chapter 5 of *Doing Math with Python*
 - Chapter 8 of *Programming and Mathematical Thinking*
 
+### Week Eleven: November 9, 2020 to November 13, 2020
+
+- How do I use dictionaries, tuples, and lists to correctly implement efficient
+  mathematical functions in Python?
+
+**Reading Assignments**
+
+- Chapter 9 of *Programming and Mathematical Thinking*
+
 ## Calendar Overview
 
 ### August
