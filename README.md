@@ -133,6 +133,9 @@ Functions](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-p
 - [Practical Assignment Seven: Implementing a Python Program to Compute the
   Cartesian Product of
   Sets](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical7-starter)
+- [Practical Assignment Eight: Using a Dictionary to Perform Fast Lookups in
+  Real-World Population
+  Data](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical8-starter)
 
 ### Technical Challenge Assignments
 
