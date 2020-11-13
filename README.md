@@ -106,8 +106,8 @@ limited number of laptops are available for use during class and lab sessions.
 - [Laboratory Assignment Seven: Experimentally Evaluating the Performance of
   List Uniquification in
   Python](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab7-starter)
-- [Laboratory Assignment Eight: Using the Set Discrete Structure to Detect the
-  Unique Words in a
+- [Laboratory Assignment Eight: Using the Set Discrete Structure to Check for a
+  Unique Word in a
   File](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab8-starter)
 
 ### Practical Assignments
