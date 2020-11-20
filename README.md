@@ -136,6 +136,9 @@ Functions](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-p
 - [Practical Assignment Eight: Using a Dictionary to Perform Fast Lookups in
   Real-World Population
   Data](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical8-starter)
+- [Practical Assignment Nine: Using Lists and Dictionaries to Create an
+  Object-Oriented Scheduling
+  Program](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-practical9-starter)
 
 ### Technical Challenge Assignments
 
