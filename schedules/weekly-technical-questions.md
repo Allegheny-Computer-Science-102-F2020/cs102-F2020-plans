@@ -139,6 +139,17 @@
 
 - Chapter 9 of *Programming and Mathematical Thinking*
 
+### Week Twelve: November 16, 2020 to November 20, 2020
+
+- How do I use the concept of a relation and the industrially relevant practice
+  of object-oriented programming to correctly implement easy-to-understand
+  programs in Python?
+
+**Reading Assignments**
+
+- Chapter 10 of *Programming and Mathematical Thinking*
+- Chapter 11 of *Programming and Mathematical Thinking*
+
 ## Calendar Overview
 
 ### August
