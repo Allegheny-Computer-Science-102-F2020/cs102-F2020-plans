@@ -150,6 +150,15 @@ Functions](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-p
 - [Technical Challenge Two: Using Ordered Pairs to Support Exponentiation with
   a Number
   Sequence](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-challenge2-starter)
+- [Technical Challenge Three: Implementing a Python Program that Counts Lines in Input Files](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-challenge3-starter)
+
+As part of an interactive technical challenge assignment, students will
+demonstrate that they can use a terminal window to complete the following steps:
+(i) use Docker Desktop Community Edition to enter into an interactive Docker
+container, (ii) use Poetry to install the dependencies for a Python program,
+(iii) run a Python program in a virtual environment created by Poetry, and (iv)
+explain how the Python program's source code will cause it to create the output
+evident in the terminal window.
 
 ### Assignment Reminder
 
