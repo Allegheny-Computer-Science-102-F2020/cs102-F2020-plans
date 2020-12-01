@@ -112,6 +112,9 @@ workspace for communication with students.
 - [Laboratory Assignment Eight: Using the Set Discrete Structure to Check for a
   Unique Word in a
   File](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab8-starter)
+- [Laboratory Assignment Nine: Experimentally Comparing Different Approaches to
+  Computing a Number in the Fibonacci
+  Sequence](https://github.com/Allegheny-Computer-Science-102-F2020/cs102-F2020-lab9-starter)
 
 ### Practical Assignments
 
