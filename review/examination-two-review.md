@@ -229,3 +229,13 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 #### Chapters 10 and 11 of Programming and Mathematical Thinking
 
 - An understanding of the mathematical concepts of a predicate and a relation
+- How the Python programming language supports the implementation of objects
+  that have both state (through variables) and behavior (through methods)
+- How to define and create an instance of a class in the Python programming
+  language
+- How to define and call the constructor and methods of a Python class
+- How to implement a Python program using the object-oriented programming
+  paradigm
+- How to implement a Python method to create a textual representation of an
+  object
+- How the Python execution environment stores objects in its memory
