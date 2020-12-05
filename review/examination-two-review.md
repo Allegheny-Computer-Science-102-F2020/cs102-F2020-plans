@@ -13,6 +13,16 @@
 * [Chapter 4 of Programming and Mathematical Thinking](#chapter-4-of-programming-and-mathematical-thinking)
 * [Chapter 5 of Programming and Mathematical Thinking](#chapter-5-of-programming-and-mathematical-thinking)
 
+## Learning Objectives of the Course
+
+Please review all of the learning objectives for this course as you prepare for
+the final examination. Before you take the final examination you should
+understand the meaning of each of these learning objectives have have confidence
+that you can demonstrate that you have the skill referenced in each objective.
+
+- [Mathematically Informed Communication](../learning-objectives/mathematical-communication.md)
+- [Rigorous Python Programming](../learning-objectives/python-programming.md)
+
 ## Information About the Final Examination
 
 ### Examination Details
@@ -196,3 +206,22 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
   list, and tuple discrete structures
 - Given a specific problem to implement, an understanding of how to pick a set,
   list, or tuple discrete structure to contain data elements
+
+#### Chapter 9 of Programming and Mathematical Thinking
+
+- The definition and application of the concept of a mapping
+- An understanding of how the dictionary discrete structure stores key-value
+  pairs
+- How to implement a Python function that uses a dictionary to store and
+  retrieve key-value pairs
+- The restrictions that the Python programming language places on the storage of
+  key-value pairs inside of a dictionary
+- The benefits and limitations of a dictionary in comparison to other discrete
+  structures such as a list or a tuple
+- How to decide between implementing a Python program to use a dictionary or a
+  function
+- How to use a dictionary to add memoization to a Python function
+- The time and space trade-offs associated with using a dictionary to add
+  memoization to a Python function
+- The definition of the multiset discrete structure and an understanding of how
+  it is similar to and different than other discrete structures like a set
