@@ -33,6 +33,31 @@ meaning that it covers all of the content that we studied in this course in the
 class sessions and laboratory, practical, and technical challenge assignments.
 The emphasis will be on the following technical topics:
 
+## Honor Code for the Final Examination
+
+- You must adhere to the Honor Code throughout your completion of the examination
+- The examination is closed notes, closed book, and closed online resources
+- You may use your laptop computer and its text editor and Python programming tools
+- You may not refer to the Python source code that you wrote during the semester
+- You may not refer to the technical writing that you completed during the semester
+
+**IMPORTANT**: All students in this course are obligated to adhere to the
+Allegheny College Honor Code throughout the completion of this examination. If
+the instructor detects that a student has committed a likely violation of the
+Allegheny College Honor Code, then he will file a report with the Dean of
+Students Office. Please make sure that you review the [Honor
+Code](https://sites.allegheny.edu/about/honor-code/) before you start to take
+this examination. Please note that, due to the ongoing global pandemic, Sections
+1 and 2 of Honor Code Article IV are not enforced for this examination.
+
+## Procedures for the Final Examination
+
+- You must provide answers to all these questions by typing in this file
+- The final version of this file must be in your GitHub repository by the due date
+- You may direct message the course instructor through the Slack workspace if you have questions
+- Do not post questions about the examination in a public channel of the Slack workspace
+- Unless you make special arrangements with the instructor, no late work will be accepted
+
 ## Introduction to Real-World Python Programming
 
 - Using the Git and GitHub version control system
