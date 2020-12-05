@@ -225,3 +225,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
   memoization to a Python function
 - The definition of the multiset discrete structure and an understanding of how
   it is similar to and different than other discrete structures like a set
+
+#### Chapters 10 and 11 of Programming and Mathematical Thinking
+
+- An understanding of the mathematical concepts of a predicate and a relation
