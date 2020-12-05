@@ -83,7 +83,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to use `print` and `typer.echo` statements to debug a Python program
 - How trace the execution of a Python function with debugging statements
 
-### Chapters from the Book Doing Math with Python
+### Chapters from the Book Called Doing Math with Python
 
 #### Chapter 1 of Doing Math with Python
 
@@ -98,6 +98,8 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to use Python to calculate the mean and median of a list of numbers
 - The meaning of the term dispersion when applied to a list of numbers
 - How to use Python to calculate the variance and standard deviation of a list of numbers
+
+### Chapters from the Book Called Programming and Mathematical Thinking
 
 #### Chapters 1 and 2 of Programming and Mathematical Thinking
 
