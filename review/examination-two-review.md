@@ -13,13 +13,15 @@
 * [Chapter 4 of Programming and Mathematical Thinking](#chapter-4-of-programming-and-mathematical-thinking)
 * [Chapter 5 of Programming and Mathematical Thinking](#chapter-5-of-programming-and-mathematical-thinking)
 
-## Examination Details
+## Information About the Final Examination
+
+### Examination Details
 
 - Review Sheet Released: Friday, December 4, 2020
 - Examination Released: Thursday, December 10, 2020
 - Examination Due: 11:59 pm on Friday, December 11, 2020
 
-## Examination Overview
+### Examination Overview
 
 The exam will be closed notes and closed book and it will cover the following
 materials. Please review the course schedule to see the content and slides that
@@ -33,7 +35,7 @@ meaning that it covers all of the content that we studied in this course in the
 class sessions and laboratory, practical, and technical challenge assignments.
 The emphasis will be on the following technical topics:
 
-## Honor Code for the Final Examination
+### Honor Code for the Final Examination
 
 - You must adhere to the Honor Code throughout your completion of the examination
 - The examination is closed notes, closed book, and closed online resources
@@ -50,15 +52,17 @@ Code](https://sites.allegheny.edu/about/honor-code/) before you start to take
 this examination. Please note that, due to the ongoing global pandemic, Sections
 1 and 2 of Honor Code Article IV are not enforced for this examination.
 
-## Procedures for the Final Examination
+### Procedures for the Final Examination
 
-- You must provide answers to all these questions by typing in this file
-- The final version of this file must be in your GitHub repository by the due date
+- You must provide answers to all these questions by typing in the GitHub repository
+- The final version of this examination must be in your GitHub repository by the due date
 - You may direct message the course instructor through the Slack workspace if you have questions
 - Do not post questions about the examination in a public channel of the Slack workspace
 - Unless you make special arrangements with the instructor, no late work will be accepted
 
-## Introduction to Real-World Python Programming
+## Summary of Topics for the Final Examination
+
+### Introduction to Real-World Python Programming
 
 - Using the Git and GitHub version control system
 - Using Docker to support Python programming
@@ -67,7 +71,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - Using Poetry to manage program dependencies and run Python programs
 - The benefits of using Python to explore discrete structures
 
-## Debugging and Testing of Python Programs
+### Debugging and Testing of Python Programs
 
 - The ability to find and explain the following components of a Python program
   - Function definition
@@ -79,21 +83,23 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to use `print` and `typer.echo` statements to debug a Python program
 - How trace the execution of a Python function with debugging statements
 
-## Chapter 1 of Doing Math with Python
+### Chapters from the Book Doing Math with Python
+
+#### Chapter 1 of Doing Math with Python
 
 - How Python represents different types of numbers
 - How Python supports computations with fractional and complex numbers
 - How to implement a Python program to find the roots of a quadratic equation
 - How to use Pytest to test a program that finds the roots of a quadratic equation
 
-## Chapter 3 of Doing Math with Python
+#### Chapter 3 of Doing Math with Python
 
 - The definition of the statistical terms arithmetic mean and median
 - How to use Python to calculate the mean and median of a list of numbers
 - The meaning of the term dispersion when applied to a list of numbers
 - How to use Python to calculate the variance and standard deviation of a list of numbers
 
-## Chapters 1 and 2 of Programming and Mathematical Thinking
+#### Chapters 1 and 2 of Programming and Mathematical Thinking
 
 - Different ways in which we can understand a computer program
 - The characteristics of the Python programming language
@@ -106,7 +112,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - The practical limitations of storing values in Python variables
 - The data types commonly used to store values in Python variables
 
-## Chapter 3 of Programming and Mathematical Thinking
+#### Chapter 3 of Programming and Mathematical Thinking
 
 - The similarities and differences between simple and compound statements in Python
 - How to correctly use comments to provide documentation for a Python program
@@ -115,7 +121,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to perform exponentiation in the Python programming language
 - The inputs, outputs, and behavior of the `range` function in Python
 
-## Chapter 4 of Programming and Mathematical Thinking
+#### Chapter 4 of Programming and Mathematical Thinking
 
 - The source code needed to both define and call a function in Python
 - How to use type hints to describe the types of a function's input and output
@@ -127,7 +133,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to define and use a lambda function that squares an input number
 - How to implement a function that computes the arithmetic mean of a list of numbers
 
-## Chapter 5 of Programming and Mathematical Thinking
+#### Chapter 5 of Programming and Mathematical Thinking
 
 - The definition of the following discrete structures:
   - Pair
@@ -148,7 +154,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
   - Column
   - Schema
 
-## Chapter 6 of Programming and Mathematical Thinking
+#### Chapter 6 of Programming and Mathematical Thinking
 
 - The properties of the sequence discrete structure and its manifestation in
   Python
@@ -161,7 +167,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - An understanding of the similarities and differences between mutable and
   immutable contains in the Python programming language
 
-## Chapter 7 of Programming and Mathematical Thinking
+#### Chapter 7 of Programming and Mathematical Thinking
 
 - The similarities and differences between dynamically generated streams and
   static sequences in the Python programming language
@@ -175,7 +181,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to implement an infinite stream and then request data from it
 - How to "materialize" in a list the contents returned by a generator function
 
-## Chapter 8 of Programming and Mathematical Thinking
+#### Chapter 8 of Programming and Mathematical Thinking
 
 - The characteristics and operations of the set discrete structure
 - An understanding of how the Python programming language uses hashing to
