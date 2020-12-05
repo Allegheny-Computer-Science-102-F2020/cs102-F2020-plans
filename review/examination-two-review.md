@@ -102,12 +102,43 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to implement a Python program to find the roots of a quadratic equation
 - How to use Pytest to test a program that finds the roots of a quadratic equation
 
-#### Chapter 3 of Doing Math with Python
+#### Chapters 2 and 3 of Doing Math with Python
 
+- How to create an empty list in the Python programming language
+- How to use Python to iterate through the values in stored in a list
+- How to use Python to create a visualization of a data set
 - The definition of the statistical terms arithmetic mean and median
 - How to use Python to calculate the mean and median of a list of numbers
 - The meaning of the term dispersion when applied to a list of numbers
 - How to use Python to calculate the variance and standard deviation of a list of numbers
+
+#### Chapters 5 and 7 of Doing Math with Python
+
+- How to construct and manipulate sets using Python's Sympy package
+- How to compute subsets, supersets, and power sets using Python's Sympy package
+- How to perform set operations using sets created with Python's Sympy package
+  - Set union
+  - Set intersection
+  - Set difference
+- The meaning of the following terms in the field of probability:
+  - Experiment
+  - Sample space
+  - Event
+- How to calculate the probability of an event using a Python function
+- How to calculate the probability of an event A or an event B
+- How to calculate the probability of an event A and an event B
+- An understanding of the concept of a mathematical function
+
+#### Appendices A and B of Doing Math with Python
+
+- How to install Python on your laptop
+- How to implement a Python function that contains a main function
+- How to rewrite Python source code so that it uses list comprehensions
+- How to create and use the dictionary discrete structure in Python programs
+- The way in which Python functions accept input and produce output
+- An understanding of the Python source code needed to read data from a file
+- How to handle the exceptional situations that may arise when reading data from a file
+- The ways in which the creation and use of Python functions promotes code reuse
 
 ### Chapters from the Book Called Programming and Mathematical Thinking
 
@@ -196,6 +227,9 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 #### Chapter 8 of Programming and Mathematical Thinking
 
 - The characteristics and operations of the set discrete structure
+  - Set union
+  - Set intersection
+  - Set difference
 - An understanding of how the Python programming language uses hashing to
   implement sets and how this influences the types of content that a programmer
   can store in a set
