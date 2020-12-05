@@ -137,3 +137,29 @@ The emphasis will be on the following technical topics:
   immutable contains in the Python programming language
 
 ## Chapter 7 of Programming and Mathematical Thinking
+
+- The similarities and differences between dynamically generated streams and
+  static sequences in the Python programming language
+- How to implement and use a generator expression in the Python programming
+  language
+- How to implement and use a generator function in the Python programming
+  language
+- The purpose of the `yield` statement in a generator function
+- The time and space overhead trade-offs associated with implementing a Python
+  function that either returns a list of values or incrementally yields values
+- How to implement an infinite stream and then request data from it
+- How to "materialize" in a list the contents returned by a generator function
+
+## Chapter 8 of Programming and Mathematical Thinking
+
+- The characteristics and operations of the set discrete structure
+- An understanding of how the Python programming language uses hashing to
+  implement sets and how this influences the types of content that a programmer
+  can store in a set
+- How to use set-theoretic operations to implement real-world programs in Python
+- How to implement and use a set comprehension in the Python programming
+  language
+- As implemented in Python, the similarities and differences between the set,
+  list, and tuple discrete structures
+- Given a specific problem to implement, an understanding of how to pick a set,
+  list, or tuple discrete structure to contain data elements
