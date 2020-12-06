@@ -172,6 +172,7 @@ each of the laboratory, practical, and technical challenge assignments.
 ## Review Sheets for Examinations
 
 - [Midterm Examination Review Sheet](review/examination-one-review.md)
+- [Final Examination Review Sheet](review/examination-two-review.md)
 
 ## Team Assignment
 
