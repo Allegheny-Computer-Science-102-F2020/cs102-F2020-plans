@@ -9,23 +9,24 @@
   + [Honor Code for the Final Examination](#honor-code-for-the-final-examination)
   + [Procedures for the Final Examination](#procedures-for-the-final-examination)
 * [Summary of Topics for the Final Examination](#summary-of-topics-for-the-final-examination)
-  + [Introduction to Real-World Python Programming](#introduction-to-real-world-python-programming)
+  + [Best Practices for Real-World Python Programming](#best-practices-for-real-world-python-programming)
   + [Debugging and Testing of Python Programs](#debugging-and-testing-of-python-programs)
-* [Chapters from the Book Called Doing Math with Python](#chapters-from-the-book-called-doing-math-with-python)
-  + [Chapter 1 of Doing Math with Python](#chapter-1-of-doing-math-with-python)
-  + [Chapters 2 and 3 of Doing Math with Python](#chapters-2-and-3-of-doing-math-with-python)
-  + [Chapters 5 and 7 of Doing Math with Python](#chapters-5-and-7-of-doing-math-with-python)
-  + [Appendices A and B of Doing Math with Python](#appendices-a-and-b-of-doing-math-with-python)
-* [Chapters from the Book Called Programming and Mathematical Thinking](#chapters-from-the-book-called-programming-and-mathematical-thinking)
-  + [Chapters 1 and 2 of Programming and Mathematical Thinking](#chapters-1-and-2-of-programming-and-mathematical-thinking)
-  + [Chapter 3 of Programming and Mathematical Thinking](#chapter-3-of-programming-and-mathematical-thinking)
-  + [Chapter 4 of Programming and Mathematical Thinking](#chapter-4-of-programming-and-mathematical-thinking)
-  + [Chapter 5 of Programming and Mathematical Thinking](#chapter-5-of-programming-and-mathematical-thinking)
-  + [Chapter 6 of Programming and Mathematical Thinking](#chapter-6-of-programming-and-mathematical-thinking)
-  + [Chapter 7 of Programming and Mathematical Thinking](#chapter-7-of-programming-and-mathematical-thinking)
-  + [Chapter 8 of Programming and Mathematical Thinking](#chapter-8-of-programming-and-mathematical-thinking)
-  + [Chapter 9 of Programming and Mathematical Thinking](#chapter-9-of-programming-and-mathematical-thinking)
-  + [Chapters 10 and 11 of Programming and Mathematical Thinking](#chapters-10-and-11-of-programming-and-mathematical-thinking)
+  + [Using Git Repositories and the GitHub Platform](#using-git-repositories-and-the-github-platform)
+  + [Chapters from the Book Called Doing Math with Python](#chapters-from-the-book-called-doing-math-with-python)
+    - [Chapter 1 of Doing Math with Python](#chapter-1-of-doing-math-with-python)
+    - [Chapters 2 and 3 of Doing Math with Python](#chapters-2-and-3-of-doing-math-with-python)
+    - [Chapters 5 and 7 of Doing Math with Python](#chapters-5-and-7-of-doing-math-with-python)
+    - [Appendices A and B of Doing Math with Python](#appendices-a-and-b-of-doing-math-with-python)
+  + [Chapters from the Book Called Programming and Mathematical Thinking](#chapters-from-the-book-called-programming-and-mathematical-thinking)
+    - [Chapters 1 and 2 of Programming and Mathematical Thinking](#chapters-1-and-2-of-programming-and-mathematical-thinking)
+    - [Chapter 3 of Programming and Mathematical Thinking](#chapter-3-of-programming-and-mathematical-thinking)
+    - [Chapter 4 of Programming and Mathematical Thinking](#chapter-4-of-programming-and-mathematical-thinking)
+    - [Chapter 5 of Programming and Mathematical Thinking](#chapter-5-of-programming-and-mathematical-thinking)
+    - [Chapter 6 of Programming and Mathematical Thinking](#chapter-6-of-programming-and-mathematical-thinking)
+    - [Chapter 7 of Programming and Mathematical Thinking](#chapter-7-of-programming-and-mathematical-thinking)
+    - [Chapter 8 of Programming and Mathematical Thinking](#chapter-8-of-programming-and-mathematical-thinking)
+    - [Chapter 9 of Programming and Mathematical Thinking](#chapter-9-of-programming-and-mathematical-thinking)
+    - [Chapters 10 and 11 of Programming and Mathematical Thinking](#chapters-10-and-11-of-programming-and-mathematical-thinking)
 
 ## Learning Objectives of the Course
 
@@ -112,22 +113,22 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 
 - How to clone a GitHub repository using either a terminal window or a text
   editor
-- How to write write short and descriptive commit messages that explain the
-  specific way in which a commit changes the repository's content
+- How to write write commit messages that describe the specific way in which a
+  commit changes the repository's content
 - How to read and understand the reports produced by GitHub Actions so as to
   determine which aspects of a GitHub repository do not adhere to a project's
-  specification.
+  specification
 
-## Chapters from the Book Called Doing Math with Python
+### Chapters from the Book Called Doing Math with Python
 
-### Chapter 1 of Doing Math with Python
+#### Chapter 1 of Doing Math with Python
 
 - How Python represents different types of numbers
 - How Python supports computations with fractional and complex numbers
 - How to implement a Python program to find the roots of a quadratic equation
 - How to use Pytest to test a program that finds the roots of a quadratic equation
 
-### Chapters 2 and 3 of Doing Math with Python
+#### Chapters 2 and 3 of Doing Math with Python
 
 - How to create an empty list in the Python programming language
 - How to use Python to iterate through the values in stored in a list
@@ -137,7 +138,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - The meaning of the term dispersion when applied to a list of numbers
 - How to use Python to calculate the variance and standard deviation of a list of numbers
 
-### Chapters 5 and 7 of Doing Math with Python
+#### Chapters 5 and 7 of Doing Math with Python
 
 - How to construct and manipulate sets using Python's Sympy package
 - How to compute subsets, supersets, and power sets using Python's Sympy package
@@ -154,7 +155,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to calculate the probability of an event A and an event B
 - An understanding of the concept of a mathematical function
 
-### Appendices A and B of Doing Math with Python
+#### Appendices A and B of Doing Math with Python
 
 - How to install Python on your laptop
 - How to implement a Python function that contains a main function
@@ -165,9 +166,9 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to handle the exceptional situations that may arise when reading data from a file
 - The ways in which the creation and use of Python functions promotes code reuse
 
-## Chapters from the Book Called Programming and Mathematical Thinking
+### Chapters from the Book Called Programming and Mathematical Thinking
 
-### Chapters 1 and 2 of Programming and Mathematical Thinking
+#### Chapters 1 and 2 of Programming and Mathematical Thinking
 
 - Different ways in which we can understand a computer program
 - The characteristics of the Python programming language
@@ -180,7 +181,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - The practical limitations of storing values in Python variables
 - The data types commonly used to store values in Python variables
 
-### Chapter 3 of Programming and Mathematical Thinking
+#### Chapter 3 of Programming and Mathematical Thinking
 
 - The similarities and differences between simple and compound statements in Python
 - How to correctly use comments to provide documentation for a Python program
@@ -189,7 +190,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to perform exponentiation in the Python programming language
 - The inputs, outputs, and behavior of the `range` function in Python
 
-### Chapter 4 of Programming and Mathematical Thinking
+#### Chapter 4 of Programming and Mathematical Thinking
 
 - The source code needed to both define and call a function in Python
 - How to use type hints to describe the types of a function's input and output
@@ -201,7 +202,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to define and use a lambda function that squares an input number
 - How to implement a function that computes the arithmetic mean of a list of numbers
 
-### Chapter 5 of Programming and Mathematical Thinking
+#### Chapter 5 of Programming and Mathematical Thinking
 
 - The definition of the following discrete structures:
   - Pair
@@ -222,7 +223,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
   - Column
   - Schema
 
-### Chapter 6 of Programming and Mathematical Thinking
+#### Chapter 6 of Programming and Mathematical Thinking
 
 - The properties of the sequence discrete structure and its manifestation in
   Python
@@ -235,7 +236,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - An understanding of the similarities and differences between mutable and
   immutable contains in the Python programming language
 
-### Chapter 7 of Programming and Mathematical Thinking
+#### Chapter 7 of Programming and Mathematical Thinking
 
 - The similarities and differences between dynamically generated streams and
   static sequences in the Python programming language
@@ -249,7 +250,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to implement an infinite stream and then request data from it
 - How to "materialize" in a list the contents returned by a generator function
 
-### Chapter 8 of Programming and Mathematical Thinking
+#### Chapter 8 of Programming and Mathematical Thinking
 
 - The characteristics and operations of the set discrete structure
   - Set union
@@ -266,7 +267,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - Given a specific problem to implement, an understanding of how to pick a set,
   list, or tuple discrete structure to contain data elements
 
-### Chapter 9 of Programming and Mathematical Thinking
+#### Chapter 9 of Programming and Mathematical Thinking
 
 - The definition and application of the concept of a mapping
 - An understanding of how the dictionary discrete structure stores key-value
@@ -285,7 +286,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - The definition of the multiset discrete structure and an understanding of how
   it is similar to and different than other discrete structures like a set
 
-### Chapters 10 and 11 of Programming and Mathematical Thinking
+#### Chapters 10 and 11 of Programming and Mathematical Thinking
 
 - An understanding of the mathematical concepts of a predicate and a relation
 - How the Python programming language supports the implementation of objects
