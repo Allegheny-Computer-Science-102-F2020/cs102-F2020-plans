@@ -17,6 +17,7 @@
   + [Practical Assignments](#practical-assignments)
   + [Technical Challenge Assignments](#technical-challenge-assignments)
   + [Assignment Reminder](#assignment-reminder)
+* [Review Sheets for Examinations](#review-sheets-for-examinations)
 * [Team Assignment](#team-assignment)
 * [Course Resources](#course-resources)
 
