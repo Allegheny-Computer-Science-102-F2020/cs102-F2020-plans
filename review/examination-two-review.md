@@ -153,6 +153,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to calculate the probability of an event using a Python function
 - How to calculate the probability of an event A or an event B
 - How to calculate the probability of an event A and an event B
+- The connections between Boolean logic operators and set-theoretic operations
 - An understanding of the concept of a mathematical function
 
 #### Appendices A and B of Doing Math with Python
@@ -265,7 +266,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - As implemented in Python, the similarities and differences between the set,
   list, and tuple discrete structures
 - Given a specific problem to implement, an understanding of how to pick a set,
-  list, or tuple discrete structure to contain data elements
+  list, or tuple discrete structure to store the specified type of data elements
 
 #### Chapter 9 of Programming and Mathematical Thinking
 
