@@ -57,7 +57,8 @@ completion, the interpretation and creation of Python source code, and the
 interpretation of Python program output. The final examination is comprehensive,
 meaning that it covers all of the content that we studied in this course in the
 class sessions and laboratory, practical, and technical challenge assignments.
-The emphasis will be on the following technical topics:
+The emphasis will be on the following technical topics listed at the end of this
+review sheet.
 
 ### Honor Code for the Final Examination
 
@@ -86,7 +87,7 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 
 ## Summary of Topics for the Final Examination
 
-### Introduction to Real-World Python Programming
+### Best Practices for Real-World Python Programming
 
 - Using the Git and GitHub version control system
 - Using Docker to support Python programming
@@ -106,6 +107,16 @@ this examination. Please note that, due to the ongoing global pandemic, Sections
 - How to write and run a test case for a Python function using Pytest
 - How to use `print` and `typer.echo` statements to debug a Python program
 - How trace the execution of a Python function with debugging statements
+
+### Using Git Repositories and the GitHub Platform
+
+- How to clone a GitHub repository using either a terminal window or a text
+  editor
+- How to write write short and descriptive commit messages that explain the
+  specific way in which a commit changes the repository's content
+- How to read and understand the reports produced by GitHub Actions so as to
+  determine which aspects of a GitHub repository do not adhere to a project's
+  specification.
 
 ## Chapters from the Book Called Doing Math with Python
 
